@@ -1,0 +1,1595 @@
+category = {
+    name = "Voices"
+    soundeffects = {
+        EST_infantry_idle
+        EST_infantry_neutral_combat
+        EST_infantry_positive_combat
+        EST_infantry_retreat
+        LAT_infantry_idle
+        LAT_infantry_neutral_combat
+        LAT_infantry_positive_combat
+        LAT_infantry_retreat
+        LIT_infantry_idle
+        LIT_infantry_neutral_combat
+        LIT_infantry_positive_combat
+        LIT_infantry_retreat
+    }
+}
+
+####################
+### Soundeffects ### 
+####################
+
+### EST ### 
+soundeffect = {
+    name = "EST_infantry_idle"
+    sounds = {
+        sound = est_idle_001
+        sound = est_idle_002
+        sound = est_idle_003
+        sound = est_idle_004
+        sound = est_idle_005
+        sound = est_idle_006
+        sound = est_idle_007
+        sound = est_idle_008
+        sound = est_idle_009
+        sound = est_idle_010
+        sound = est_idle_011
+        sound = est_idle_012
+        sound = est_idle_013
+        sound = est_idle_014
+        sound = est_idle_015
+        sound = est_idle_016
+        sound = est_idle_017
+        sound = est_idle_018
+        sound = est_idle_019
+        sound = est_idle_020
+        sound = est_idle_021
+        sound = est_idle_022
+        sound = est_idle_023
+        sound = est_idle_024
+        sound = est_idle_025
+        sound = est_idle_026
+        sound = est_idle_027
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.70
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+soundeffect = {
+    name = "EST_infantry_neutral_combat"
+    sounds = {
+        sound = est_neutral_001
+        sound = est_neutral_002
+        sound = est_neutral_003 
+        sound = est_neutral_004
+        sound = est_neutral_005
+        sound = est_neutral_006
+        sound = est_neutral_007
+        sound = est_neutral_008
+        sound = est_neutral_009
+        sound = est_neutral_010
+        sound = est_neutral_011
+        sound = est_neutral_012
+        sound = est_neutral_013
+        sound = est_neutral_014
+        sound = est_neutral_015
+        sound = est_neutral_016
+        sound = est_neutral_017
+        sound = est_neutral_018
+        sound = est_neutral_019
+#        sound = est_neutral_019_alt
+        sound = est_neutral_020
+#        sound = est_neutral_020_alt
+        sound = est_neutral_021
+#        sound = est_neutral_021_alt            
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.70
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+soundeffect = {
+    name = "EST_infantry_positive_combat"
+    sounds = {
+        sound = est_positive_001
+        sound = est_positive_002
+        sound = est_positive_003
+        sound = est_positive_004
+        sound = est_positive_005
+        sound = est_positive_006
+        sound = est_positive_007
+        sound = est_positive_008
+        sound = est_positive_009
+        sound = est_positive_010
+        sound = est_positive_011
+        sound = est_positive_012
+        sound = est_positive_013
+        sound = est_positive_014
+        sound = est_positive_015
+        sound = est_positive_016
+        sound = est_positive_017
+        sound = est_positive_018
+        sound = est_positive_019
+        sound = est_positive_020
+        sound = est_positive_021
+        sound = est_positive_022
+        sound = est_positive_023
+        sound = est_positive_024
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.70
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+soundeffect = {
+    name = "EST_infantry_retreat"
+    sounds = {
+        sound = est_retreat_001
+        sound = est_retreat_002
+        sound = est_retreat_003
+        sound = est_retreat_004
+        sound = est_retreat_005
+        sound = est_retreat_006
+        sound = est_retreat_007
+        sound = est_retreat_008
+        sound = est_retreat_009
+        sound = est_retreat_010
+        sound = est_retreat_011
+        sound = est_retreat_012
+        sound = est_retreat_013
+        sound = est_retreat_014
+        sound = est_retreat_015
+        sound = est_retreat_016
+#        sound = est_retreat_016_alt
+        sound = est_retreat_017
+#        sound = est_retreat_017_alt
+        sound = est_retreat_018
+#        sound = est_retreat_018_alt
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.70
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+### LAT ### 
+soundeffect = {
+    name = "LAT_infantry_idle"
+    sounds = {
+        sound = lat_idle_001
+        sound = lat_idle_002
+        sound = lat_idle_003
+        sound = lat_idle_004
+        sound = lat_idle_005
+        sound = lat_idle_006
+        sound = lat_idle_007
+        sound = lat_idle_008
+        sound = lat_idle_009
+        sound = lat_idle_010
+        sound = lat_idle_011
+        sound = lat_idle_012
+        sound = lat_idle_013
+        sound = lat_idle_014
+        sound = lat_idle_015
+        sound = lat_idle_016
+        sound = lat_idle_017
+        sound = lat_idle_018
+        sound = lat_idle_019
+        sound = lat_idle_020
+        sound = lat_idle_021
+        sound = lat_idle_022
+        sound = lat_idle_023
+        sound = lat_idle_024
+        sound = lat_idle_025
+        sound = lat_idle_026
+        sound = lat_idle_027
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.70
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+soundeffect = {
+    name = "LAT_infantry_neutral_combat"
+    sounds = {
+        sound = lat_neutral_001
+        sound = lat_neutral_002
+        sound = lat_neutral_003
+        sound = lat_neutral_004
+        sound = lat_neutral_005
+        sound = lat_neutral_006
+        sound = lat_neutral_007
+        sound = lat_neutral_008
+        sound = lat_neutral_009
+        sound = lat_neutral_010
+        sound = lat_neutral_011
+        sound = lat_neutral_012
+        sound = lat_neutral_013
+        sound = lat_neutral_014
+        sound = lat_neutral_015
+        sound = lat_neutral_016
+        sound = lat_neutral_017
+        sound = lat_neutral_018
+        sound = lat_neutral_019
+#        sound = lat_neutral_019_alt
+        sound = lat_neutral_020
+#        sound = lat_neutral_020_alt
+        sound = lat_neutral_021
+#        sound = lat_neutral_021_alt
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.70
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+soundeffect = {
+    name = "LAT_infantry_positive_combat"
+    sounds = {
+        sound = lat_positive_001
+        sound = lat_positive_002
+        sound = lat_positive_003
+        sound = lat_positive_004
+        sound = lat_positive_005
+        sound = lat_positive_006
+        sound = lat_positive_007
+        sound = lat_positive_008
+        sound = lat_positive_009
+        sound = lat_positive_010
+        sound = lat_positive_011
+        sound = lat_positive_012
+        sound = lat_positive_013
+        sound = lat_positive_014
+        sound = lat_positive_015
+        sound = lat_positive_016
+        sound = lat_positive_017
+        sound = lat_positive_018
+        sound = lat_positive_019
+        sound = lat_positive_020
+        sound = lat_positive_021
+        sound = lat_positive_022
+        sound = lat_positive_023
+        sound = lat_positive_024
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.70
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+soundeffect = {
+    name = "LAT_infantry_retreat"
+    sounds = {
+        sound = lat_retreat_001
+        sound = lat_retreat_002
+        sound = lat_retreat_003
+        sound = lat_retreat_004
+        sound = lat_retreat_005
+        sound = lat_retreat_006
+        sound = lat_retreat_007
+        sound = lat_retreat_008
+        sound = lat_retreat_009
+        sound = lat_retreat_010
+        sound = lat_retreat_011
+        sound = lat_retreat_012
+        sound = lat_retreat_013
+        sound = lat_retreat_014
+        sound = lat_retreat_015
+        sound = lat_retreat_016
+#        sound = lat_retreat_016_alt
+        sound = lat_retreat_017
+#        sound = lat_retreat_017_alt
+        sound = lat_retreat_018
+#        sound = lat_retreat_018_alt
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.70
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+### LIT ### 
+soundeffect = {
+    name = "LIT_infantry_idle"
+    sounds = {
+        sound = lit_idle_001
+        sound = lit_idle_002
+        sound = lit_idle_003
+        sound = lit_idle_004
+        sound = lit_idle_005
+        sound = lit_idle_006
+        sound = lit_idle_007
+        sound = lit_idle_008
+        sound = lit_idle_009
+        sound = lit_idle_010
+        sound = lit_idle_011
+        sound = lit_idle_012
+        sound = lit_idle_013
+        sound = lit_idle_014
+        sound = lit_idle_015
+        sound = lit_idle_016
+        sound = lit_idle_017
+        sound = lit_idle_018
+        sound = lit_idle_019
+        sound = lit_idle_020
+        sound = lit_idle_021
+        sound = lit_idle_022
+        sound = lit_idle_023
+        sound = lit_idle_024
+        sound = lit_idle_025
+        sound = lit_idle_026
+        sound = lit_idle_027
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.70
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+soundeffect = {
+    name = "LIT_infantry_neutral_combat"
+    sounds = {
+        sound = lit_neutral_001
+        sound = lit_neutral_002
+        sound = lit_neutral_003
+        sound = lit_neutral_004
+        sound = lit_neutral_005
+        sound = lit_neutral_006
+        sound = lit_neutral_007
+        sound = lit_neutral_008
+        sound = lit_neutral_009
+        sound = lit_neutral_010
+        sound = lit_neutral_011
+        sound = lit_neutral_012
+        sound = lit_neutral_013
+        sound = lit_neutral_014
+        sound = lit_neutral_015
+        sound = lit_neutral_016
+        sound = lit_neutral_017
+        sound = lit_neutral_018
+        sound = lit_neutral_019
+#        sound = lit_neutral_019_alt
+        sound = lit_neutral_020
+#        sound = lit_neutral_020_alt
+        sound = lit_neutral_021
+#        sound = lit_neutral_021_alt
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.70
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+soundeffect = {
+    name = "LIT_infantry_positive_combat"
+    sounds = {
+        sound = lit_positive_001
+        sound = lit_positive_002
+        sound = lit_positive_003
+        sound = lit_positive_004
+        sound = lit_positive_005
+        sound = lit_positive_006
+        sound = lit_positive_007
+        sound = lit_positive_008
+        sound = lit_positive_009
+        sound = lit_positive_010
+        sound = lit_positive_011
+        sound = lit_positive_012
+        sound = lit_positive_013
+        sound = lit_positive_014
+        sound = lit_positive_015
+        sound = lit_positive_016
+        sound = lit_positive_017
+        sound = lit_positive_018
+        sound = lit_positive_019
+        sound = lit_positive_020
+        sound = lit_positive_021
+        sound = lit_positive_022
+        sound = lit_positive_023
+        sound = lit_positive_024
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.70
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+soundeffect = {
+    name = "LIT_infantry_retreat"
+    sounds = {
+        sound = lit_retreat_001
+        sound = lit_retreat_002
+        sound = lit_retreat_003
+        sound = lit_retreat_004
+        sound = lit_retreat_005
+        sound = lit_retreat_006
+        sound = lit_retreat_007
+        sound = lit_retreat_008
+        sound = lit_retreat_009
+        sound = lit_retreat_010
+        sound = lit_retreat_011
+        sound = lit_retreat_012
+        sound = lit_retreat_013
+        sound = lit_retreat_014
+        sound = lit_retreat_015
+        sound = lit_retreat_016
+#        sound = lit_retreat_016_alt
+        sound = lit_retreat_017
+#        sound = lit_retreat_017_alt
+        sound = lit_retreat_018
+#        sound = lit_retreat_018_alt
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.70
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+
+###############
+#### SOUNDS ### 
+###############
+
+### EST ###
+sound = { 
+    name = "est_idle_001"
+    file = "est/est_idle_001.wav"
+}
+sound = { 
+    name = "est_idle_002"
+    file = "est/est_idle_002.wav"
+}
+sound = { 
+    name = "est_idle_003"
+    file = "est/est_idle_003.wav"
+}
+sound = { 
+    name = "est_idle_004"
+    file = "est/est_idle_004.wav"
+}
+sound = { 
+    name = "est_idle_005"
+    file = "est/est_idle_005.wav"
+}
+sound = { 
+    name = "est_idle_006" 
+    file = "est/est_idle_006.wav"
+} 
+sound = { 
+    name = "est_idle_007"
+    file = "est/est_idle_007.wav"
+}
+sound = { 
+    name = "est_idle_008"
+    file = "est/est_idle_008.wav"
+}
+sound = { 
+    name = "est_idle_009"
+    file = "est/est_idle_009.wav"
+}
+sound = { 
+    name = "est_idle_010"
+    file = "est/est_idle_010.wav"
+}
+sound = { 
+    name = "est_idle_011"
+    file = "est/est_idle_011.wav"
+}
+sound = { 
+    name = "est_idle_012"
+    file = "est/est_idle_012.wav"
+}
+sound = { 
+    name = "est_idle_013"
+    file = "est/est_idle_013.wav"
+}
+sound = { 
+    name = "est_idle_014"
+    file = "est/est_idle_014.wav"
+}
+sound = { 
+    name = "est_idle_015"
+    file = "est/est_idle_015.wav"
+}
+sound = { 
+    name = "est_idle_016"
+    file = "est/est_idle_016.wav"
+}
+sound = { 
+    name = "est_idle_017"
+    file = "est/est_idle_017.wav"
+}
+sound = { 
+    name = "est_idle_018"
+    file = "est/est_idle_018.wav"
+}
+sound = { 
+    name = "est_idle_019"
+    file = "est/est_idle_019.wav"
+}
+sound = { 
+    name = "est_idle_020"
+    file = "est/est_idle_020.wav"
+}
+sound = { 
+    name = "est_idle_021"
+    file = "est/est_idle_021.wav"
+}
+sound = { 
+    name = "est_idle_022"
+    file = "est/est_idle_022.wav"
+}
+sound = { 
+    name = "est_idle_023"
+    file = "est/est_idle_023.wav"
+}
+sound = { 
+    name = "est_idle_024"
+    file = "est/est_idle_024.wav"
+}
+sound = { 
+    name = "est_idle_025"
+    file = "est/est_idle_025.wav"
+}
+sound = { 
+    name = "est_idle_026"
+    file = "est/est_idle_026.wav"
+}
+sound = { 
+    name = "est_idle_027"
+    file = "est/est_idle_027.wav"
+}
+sound = { 
+    name = "est_neutral_001"
+    file = "est/est_neutral_001.wav"
+}
+sound = { 
+    name = "est_neutral_002"
+    file = "est/est_neutral_002.wav"
+}
+sound = { 
+    name = "est_neutral_003"
+    file = "est/est_neutral_003.wav"
+}
+sound = { 
+    name = "est_neutral_004"
+    file = "est/est_neutral_004.wav"
+}
+sound = { 
+    name = "est_neutral_005"
+    file = "est/est_neutral_005.wav"
+}
+sound = { 
+    name = "est_neutral_006"
+    file = "est/est_neutral_006.wav"
+}
+sound = { 
+    name = "est_neutral_007"
+    file = "est/est_neutral_007.wav"
+}
+sound = { 
+    name = "est_neutral_008"
+    file = "est/est_neutral_008.wav"
+}
+sound = { 
+    name = "est_neutral_009"
+    file = "est/est_neutral_009.wav"
+}
+sound = { 
+    name = "est_neutral_010"
+    file = "est/est_neutral_010.wav"
+}
+sound = { 
+    name = "est_neutral_011"
+    file = "est/est_neutral_011.wav"
+}
+sound = { 
+    name = "est_neutral_012"
+    file = "est/est_neutral_012.wav"
+}
+sound = { 
+    name = "est_neutral_013"
+    file = "est/est_neutral_013.wav"
+}
+sound = { 
+    name = "est_neutral_014"
+    file = "est/est_neutral_014.wav"
+}
+sound = { 
+    name = "est_neutral_015"
+    file = "est/est_neutral_015.wav"
+}
+sound = { 
+    name = "est_neutral_016"
+    file = "est/est_neutral_016.wav"
+}
+sound = { 
+    name = "est_neutral_017"
+    file = "est/est_neutral_017.wav"
+}
+sound = { 
+    name = "est_neutral_018"
+    file = "est/est_neutral_018.wav"
+}
+sound = { 
+    name = "est_neutral_019"
+    file = "est/est_neutral_019.wav"
+}
+sound = { 
+    name = "est_neutral_019_alt"
+    file = "est/est_neutral_019_alt.wav"
+}
+sound = { 
+    name = "est_neutral_020"
+    file = "est/est_neutral_020.wav"
+}
+sound = { 
+    name = "est_neutral_020_alt"
+    file = "est/est_neutral_020_alt.wav"
+}
+sound = { 
+    name = "est_neutral_021"
+    file = "est/est_neutral_021.wav"
+}
+sound = { 
+    name = "est_neutral_021_alt"
+    file = "est/est_neutral_021_alt.wav"
+}
+sound = { 
+    name = "est_positive_001"
+    file = "est/est_positive_001.wav"
+}
+sound = { 
+    name = "est_positive_002"
+    file = "est/est_positive_002.wav"
+}
+sound = { 
+    name = "est_positive_003"
+    file = "est/est_positive_003.wav"
+}
+sound = { 
+    name = "est_positive_004"
+    file = "est/est_positive_004.wav"
+}
+sound = { 
+    name = "est_positive_005"
+    file = "est/est_positive_005.wav"
+}
+sound = { 
+    name = "est_positive_006"
+    file = "est/est_positive_006.wav"
+}
+sound = { 
+    name = "est_positive_007"
+    file = "est/est_positive_007.wav"
+}
+sound = { 
+    name = "est_positive_008"
+    file = "est/est_positive_008.wav"
+}
+sound = { 
+    name = "est_positive_009"
+    file = "est/est_positive_009.wav"
+}
+sound = { 
+    name = "est_positive_010"
+    file = "est/est_positive_010.wav"
+}
+sound = { 
+    name = "est_positive_011"
+    file = "est/est_positive_011.wav"
+}
+sound = { 
+    name = "est_positive_012"
+    file = "est/est_positive_012.wav"
+}
+sound = { 
+    name = "est_positive_013"
+    file = "est/est_positive_013.wav"
+}
+sound = { 
+    name = "est_positive_014"
+    file = "est/est_positive_014.wav"
+}
+sound = { 
+    name = "est_positive_015"
+    file = "est/est_positive_015.wav"
+}
+sound = { 
+    name = "est_positive_016"
+    file = "est/est_positive_016.wav"
+}
+sound = { 
+    name = "est_positive_017"
+    file = "est/est_positive_017.wav"
+}
+sound = { 
+    name = "est_positive_018"
+    file = "est/est_positive_018.wav"
+}
+sound = { 
+    name = "est_positive_019"
+    file = "est/est_positive_019.wav"
+}
+sound = { 
+    name = "est_positive_020"
+    file = "est/est_positive_020.wav"
+}
+sound = { 
+    name = "est_positive_021"
+    file = "est/est_positive_021.wav"
+}
+sound = { 
+    name = "est_positive_022"
+    file = "est/est_positive_022.wav"
+}
+sound = { 
+    name = "est_positive_023"
+    file = "est/est_positive_023.wav"
+}
+sound = { 
+    name = "est_positive_024"
+    file = "est/est_positive_024.wav"
+}
+sound = { 
+    name = "est_retreat_001"
+    file = "est/est_retreat_001.wav"
+}
+sound = { 
+    name = "est_retreat_002"
+    file = "est/est_retreat_002.wav"
+}
+sound = { 
+    name = "est_retreat_003"
+    file = "est/est_retreat_003.wav"
+}
+sound = { 
+    name = "est_retreat_004"
+    file = "est/est_retreat_004.wav"
+}
+sound = { 
+    name = "est_retreat_005"
+    file = "est/est_retreat_005.wav"
+}
+sound = { 
+    name = "est_retreat_006"
+    file = "est/est_retreat_006.wav"
+}
+sound = { 
+    name = "est_retreat_007"
+    file = "est/est_retreat_007.wav"
+}
+sound = { 
+    name = "est_retreat_008"
+    file = "est/est_retreat_008.wav"
+}
+sound = { 
+    name = "est_retreat_009"
+    file = "est/est_retreat_009.wav"
+}
+sound = { 
+    name = "est_retreat_010"
+    file = "est/est_retreat_010.wav"
+}
+sound = { 
+    name = "est_retreat_011"
+    file = "est/est_retreat_011.wav"
+}
+sound = { 
+    name = "est_retreat_012"
+    file = "est/est_retreat_012.wav"
+}
+sound = { 
+    name = "est_retreat_013"
+    file = "est/est_retreat_013.wav"
+}
+sound = { 
+    name = "est_retreat_014"
+    file = "est/est_retreat_014.wav"
+}
+sound = { 
+    name = "est_retreat_015"
+    file = "est/est_retreat_015.wav"
+}
+sound = { 
+    name = "est_retreat_016"
+    file = "est/est_retreat_016.wav"
+}
+sound = { 
+    name = "est_retreat_016_alt"
+    file = "est/est_retreat_016_alt.wav"
+}
+sound = { 
+    name = "est_retreat_017"
+    file = "est/est_retreat_017.wav"
+}
+sound = { 
+    name = "est_retreat_017_alt"
+    file = "est/est_retreat_017_alt.wav"
+}
+sound = { 
+    name = "est_retreat_018"
+    file = "est/est_retreat_018.wav"
+}
+sound = { 
+    name = "est_retreat_018_alt"
+    file = "est/est_retreat_018_alt.wav"
+}
+
+### LAT ###
+sound = { 
+    name = "lat_idle_012"
+    file = "lat/lat_idle_012.wav"
+}
+sound = { 
+    name = "lat_idle_013"
+    file = "lat/lat_idle_013.wav"
+}
+sound = { 
+    name = "lat_idle_014"
+    file = "lat/lat_idle_014.wav"
+}
+sound = { 
+    name = "lat_idle_015"
+    file = "lat/lat_idle_015.wav"
+}
+sound = { 
+    name = "lat_idle_016"
+    file = "lat/lat_idle_016.wav"
+}
+sound = { 
+    name = "lat_idle_017"
+    file = "lat/lat_idle_017.wav"
+}
+sound = { 
+    name = "lat_idle_018"
+    file = "lat/lat_idle_018.wav"
+}
+sound = { 
+    name = "lat_idle_019"
+    file = "lat/lat_idle_019.wav"
+}
+sound = { 
+    name = "lat_idle_020"
+    file = "lat/lat_idle_020.wav"
+}
+sound = { 
+    name = "lat_idle_021"
+    file = "lat/lat_idle_021.wav"
+}
+sound = { 
+    name = "lat_idle_022"
+    file = "lat/lat_idle_022.wav"
+}
+sound = { 
+    name = "lat_idle_023"
+    file = "lat/lat_idle_023.wav"
+}
+sound = { 
+    name = "lat_idle_024"
+    file = "lat/lat_idle_024.wav"
+}
+sound = { 
+    name = "lat_idle_025"
+    file = "lat/lat_idle_025.wav"
+}
+sound = { 
+    name = "lat_idle_026"
+    file = "lat/lat_idle_026.wav"
+}
+sound = { 
+    name = "lat_idle_027"
+    file = "lat/lat_idle_027.wav"
+}
+sound = { 
+    name = "lat_neutral_001"
+    file = "lat/lat_neutral_001.wav"
+}
+sound = { 
+    name = "lat_neutral_002"
+    file = "lat/lat_neutral_002.wav"
+}
+sound = { 
+    name = "lat_neutral_003"
+    file = "lat/lat_neutral_003.wav"
+}
+sound = { 
+    name = "lat_neutral_004"
+    file = "lat/lat_neutral_004.wav"
+}
+sound = { 
+    name = "lat_neutral_005"
+    file = "lat/lat_neutral_005.wav"
+}
+sound = { 
+    name = "lat_neutral_006"
+    file = "lat/lat_neutral_006.wav"
+}
+sound = { 
+    name = "lat_neutral_007"
+    file = "lat/lat_neutral_007.wav"
+}
+sound = { 
+    name = "lat_neutral_008"
+    file = "lat/lat_neutral_008.wav"
+}
+sound = { 
+    name = "lat_neutral_009"
+    file = "lat/lat_neutral_009.wav"
+}
+sound = { 
+    name = "lat_neutral_010"
+    file = "lat/lat_neutral_010.wav"
+}
+sound = { 
+    name = "lat_neutral_011"
+    file = "lat/lat_neutral_011.wav"
+}
+sound = { 
+    name = "lat_neutral_012"
+    file = "lat/lat_neutral_012.wav"
+}
+sound = { 
+    name = "lat_neutral_013"
+    file = "lat/lat_neutral_013.wav"
+}
+sound = { 
+    name = "lat_neutral_014"
+    file = "lat/lat_neutral_014.wav"
+}
+sound = { 
+    name = "lat_neutral_015"
+    file = "lat/lat_neutral_015.wav"
+}
+sound = { 
+    name = "lat_neutral_016"
+    file = "lat/lat_neutral_016.wav"
+}
+sound = { 
+    name = "lat_neutral_017"
+    file = "lat/lat_neutral_017.wav"
+}
+sound = { 
+    name = "lat_neutral_018"
+    file = "lat/lat_neutral_018.wav"
+}
+sound = { 
+    name = "lat_neutral_019"
+    file = "lat/lat_neutral_019.wav"
+}
+sound = { 
+    name = "lat_neutral_019_alt"
+    file = "lat/lat_neutral_019_alt.wav"
+}
+sound = { 
+    name = "lat_neutral_020"
+    file = "lat/lat_neutral_020.wav"
+}
+sound = { 
+    name = "lat_neutral_020_alt"
+    file = "lat/lat_neutral_020_alt.wav"
+}
+sound = { 
+    name = "lat_neutral_021"
+    file = "lat/lat_neutral_021.wav"
+}
+sound = { 
+    name = "lat_neutral_021_alt"
+    file = "lat/lat_neutral_021_alt.wav"
+}
+sound = { 
+    name = "lat_positive_001"
+    file = "lat/lat_positive_001.wav"
+}
+sound = { 
+    name = "lat_positive_002"
+    file = "lat/lat_positive_002.wav"
+}
+sound = { 
+    name = "lat_positive_003"
+    file = "lat/lat_positive_003.wav"
+}
+sound = { 
+    name = "lat_positive_004"
+    file = "lat/lat_positive_004.wav"
+}
+sound = { 
+    name = "lat_positive_005"
+    file = "lat/lat_positive_005.wav"
+}
+sound = { 
+    name = "lat_positive_006"
+    file = "lat/lat_positive_006.wav"
+}
+sound = { 
+    name = "lat_positive_007"
+    file = "lat/lat_positive_007.wav"
+}
+sound = { 
+    name = "lat_positive_008"
+    file = "lat/lat_positive_008.wav"
+}
+sound = { 
+    name = "lat_positive_009"
+    file = "lat/lat_positive_009.wav"
+}
+sound = { 
+    name = "lat_positive_010"
+    file = "lat/lat_positive_010.wav"
+}
+sound = { 
+    name = "lat_positive_011"
+    file = "lat/lat_positive_011.wav"
+}
+sound = { 
+    name = "lat_positive_012"
+    file = "lat/lat_positive_012.wav"
+}
+sound = { 
+    name = "lat_positive_013"
+    file = "lat/lat_positive_013.wav"
+}
+sound = { 
+    name = "lat_positive_014"
+    file = "lat/lat_positive_014.wav"
+}
+sound = { 
+    name = "lat_positive_015"
+    file = "lat/lat_positive_015.wav"
+}
+sound = { 
+    name = "lat_positive_016"
+    file = "lat/lat_positive_016.wav"
+}
+sound = { 
+    name = "lat_positive_017"
+    file = "lat/lat_positive_017.wav"
+}
+sound = { 
+    name = "lat_positive_018"
+    file = "lat/lat_positive_018.wav"
+}
+sound = { 
+    name = "lat_positive_019"
+    file = "lat/lat_positive_019.wav"
+}
+sound = { 
+    name = "lat_positive_020"
+    file = "lat/lat_positive_020.wav"
+}
+sound = { 
+    name = "lat_positive_021"
+    file = "lat/lat_positive_021.wav"
+}
+sound = { 
+    name = "lat_positive_022"
+    file = "lat/lat_positive_022.wav"
+}
+sound = { 
+    name = "lat_positive_023"
+    file = "lat/lat_positive_023.wav"
+}
+sound = { 
+    name = "lat_positive_024"
+    file = "lat/lat_positive_024.wav"
+}
+sound = { 
+    name = "lat_retreat_001"
+    file = "lat/lat_retreat_001.wav"
+}
+sound = { 
+    name = "lat_retreat_002"
+    file = "lat/lat_retreat_002.wav"
+}
+sound = { 
+    name = "lat_retreat_003"
+    file = "lat/lat_retreat_003.wav"
+}
+sound = { 
+    name = "lat_retreat_004"
+    file = "lat/lat_retreat_004.wav"
+}
+sound = { 
+    name = "lat_retreat_005"
+    file = "lat/lat_retreat_005.wav"
+}
+sound = { 
+    name = "lat_retreat_006"
+    file = "lat/lat_retreat_006.wav"
+}
+sound = { 
+    name = "lat_retreat_007"
+    file = "lat/lat_retreat_007.wav"
+}
+sound = { 
+    name = "lat_retreat_008"
+    file = "lat/lat_retreat_008.wav"
+}
+sound = { 
+    name = "lat_retreat_009"
+    file = "lat/lat_retreat_009.wav"
+}
+sound = { 
+    name = "lat_retreat_010"
+    file = "lat/lat_retreat_010.wav"
+}
+sound = { 
+    name = "lat_retreat_011"
+    file = "lat/lat_retreat_011.wav"
+}
+sound = { 
+    name = "lat_retreat_012"
+    file = "lat/lat_retreat_012.wav"
+}
+sound = { 
+    name = "lat_retreat_013"
+    file = "lat/lat_retreat_013.wav"
+}
+sound = { 
+    name = "lat_retreat_014"
+    file = "lat/lat_retreat_014.wav"
+}
+sound = { 
+    name = "lat_retreat_015"
+    file = "lat/lat_retreat_015.wav"
+}
+sound = { 
+    name = "lat_retreat_016"
+    file = "lat/lat_retreat_016.wav"
+}
+sound = { 
+    name = "lat_retreat_016_alt"
+    file = "lat/lat_retreat_016_alt.wav"
+}
+sound = { 
+    name = "lat_retreat_017"
+    file = "lat/lat_retreat_017.wav"
+}
+sound = { 
+    name = "lat_retreat_017_alt"
+    file = "lat/lat_retreat_017_alt.wav"
+}
+sound = { 
+    name = "lat_retreat_018"
+    file = "lat/lat_retreat_018.wav"
+}
+sound = { 
+    name = "lat_retreat_018_alt"
+    file = "lat/lat_retreat_018_alt.wav"
+}
+sound = { 
+    name = "lat_idle_001"
+    file = "lat/lat_idle_001.wav"
+}
+sound = { 
+    name = "lat_idle_002"
+    file = "lat/lat_idle_002.wav"
+}
+sound = { 
+    name = "lat_idle_003"
+    file = "lat/lat_idle_003.wav"
+}
+sound = { 
+    name = "lat_idle_004"
+    file = "lat/lat_idle_004.wav"
+}
+sound = { 
+    name = "lat_idle_005"
+    file = "lat/lat_idle_005.wav"
+}
+sound = { 
+    name = "lat_idle_006"
+    file = "lat/lat_idle_006.wav"
+}
+sound = { 
+    name = "lat_idle_007"
+    file = "lat/lat_idle_007.wav"
+}
+sound = { 
+    name = "lat_idle_008"
+    file = "lat/lat_idle_008.wav"
+}
+sound = { 
+    name = "lat_idle_009"
+    file = "lat/lat_idle_009.wav"
+}
+sound = { 
+    name = "lat_idle_010"
+    file = "lat/lat_idle_010.wav"
+}
+sound = { 
+    name = "lat_idle_011" 
+    file = "lat/lat_idle_011.wav"
+} 
+
+### LIT ###
+sound = { 
+    name = "lit_idle_004"
+    file = "lit/lit_idle_004.wav"
+}
+sound = { 
+    name = "lit_idle_005"
+    file = "lit/lit_idle_005.wav"
+}
+sound = { 
+    name = "lit_idle_006"
+    file = "lit/lit_idle_006.wav"
+}
+sound = { 
+    name = "lit_idle_007"
+    file = "lit/lit_idle_007.wav"
+}
+sound = { 
+    name = "lit_idle_008"
+    file = "lit/lit_idle_008.wav"
+}
+sound = { 
+    name = "lit_idle_009"
+    file = "lit/lit_idle_009.wav"
+}
+sound = { 
+    name = "lit_idle_010"
+    file = "lit/lit_idle_010.wav"
+}
+sound = { 
+    name = "lit_idle_011"
+    file = "lit/lit_idle_011.wav"
+}
+sound = { 
+    name = "lit_idle_012"
+    file = "lit/lit_idle_012.wav"
+}
+sound = { 
+    name = "lit_idle_013"
+    file = "lit/lit_idle_013.wav"
+}
+sound = { 
+    name = "lit_idle_014"
+    file = "lit/lit_idle_014.wav"
+}
+sound = { 
+    name = "lit_idle_015"
+    file = "lit/lit_idle_015.wav"
+}
+sound = { 
+    name = "lit_idle_016"
+    file = "lit/lit_idle_016.wav"
+}
+sound = { 
+    name = "lit_idle_017"
+    file = "lit/lit_idle_017.wav"
+}
+sound = { 
+    name = "lit_idle_018"
+    file = "lit/lit_idle_018.wav"
+}
+sound = { 
+    name = "lit_idle_019"
+    file = "lit/lit_idle_019.wav"
+}
+sound = { 
+    name = "lit_idle_020"
+    file = "lit/lit_idle_020.wav"
+}
+sound = { 
+    name = "lit_idle_021"
+    file = "lit/lit_idle_021.wav"
+}
+sound = { 
+    name = "lit_idle_022"
+    file = "lit/lit_idle_022.wav"
+}
+sound = { 
+    name = "lit_idle_023"
+    file = "lit/lit_idle_023.wav"
+}
+sound = { 
+    name = "lit_idle_024"
+    file = "lit/lit_idle_024.wav"
+}
+sound = { 
+    name = "lit_idle_025"
+    file = "lit/lit_idle_025.wav"
+}
+sound = { 
+    name = "lit_idle_026"
+    file = "lit/lit_idle_026.wav"
+}
+sound = { 
+    name = "lit_idle_027"
+    file = "lit/lit_idle_027.wav"
+}
+sound = { 
+    name = "lit_neutral_001"
+    file = "lit/lit_neutral_001.wav"
+}
+sound = { 
+    name = "lit_neutral_002"
+    file = "lit/lit_neutral_002.wav"
+}
+sound = { 
+    name = "lit_neutral_003"
+    file = "lit/lit_neutral_003.wav"
+}
+sound = { 
+    name = "lit_neutral_004"
+    file = "lit/lit_neutral_004.wav"
+}
+sound = { 
+    name = "lit_neutral_005"
+    file = "lit/lit_neutral_005.wav"
+}
+sound = { 
+    name = "lit_neutral_006"
+    file = "lit/lit_neutral_006.wav"
+}
+sound = { 
+    name = "lit_neutral_007"
+    file = "lit/lit_neutral_007.wav"
+}
+sound = { 
+    name = "lit_neutral_008"
+    file = "lit/lit_neutral_008.wav"
+}
+sound = { 
+    name = "lit_neutral_009"
+    file = "lit/lit_neutral_009.wav"
+}
+sound = { 
+    name = "lit_neutral_010"
+    file = "lit/lit_neutral_010.wav"
+}
+sound = { 
+    name = "lit_neutral_011"
+    file = "lit/lit_neutral_011.wav"
+}
+sound = { 
+    name = "lit_neutral_012"
+    file = "lit/lit_neutral_012.wav"
+}
+sound = { 
+    name = "lit_neutral_013"
+    file = "lit/lit_neutral_013.wav"
+}
+sound = { 
+    name = "lit_neutral_014"
+    file = "lit/lit_neutral_014.wav"
+}
+sound = { 
+    name = "lit_neutral_015"
+    file = "lit/lit_neutral_015.wav"
+}
+sound = { 
+    name = "lit_neutral_016"
+    file = "lit/lit_neutral_016.wav"
+}
+sound = { 
+    name = "lit_neutral_017"
+    file = "lit/lit_neutral_017.wav"
+}
+sound = { 
+    name = "lit_neutral_018"
+    file = "lit/lit_neutral_018.wav"
+}
+sound = { 
+    name = "lit_neutral_019"
+    file = "lit/lit_neutral_019.wav"
+}
+sound = { 
+    name = "lit_neutral_019_alt"
+    file = "lit/lit_neutral_019_alt.wav"
+}
+sound = { 
+    name = "lit_neutral_020"
+    file = "lit/lit_neutral_020.wav"
+}
+sound = { 
+    name = "lit_neutral_020_alt"
+    file = "lit/lit_neutral_020_alt.wav"
+}
+sound = { 
+    name = "lit_neutral_021"
+    file = "lit/lit_neutral_021.wav"
+}
+sound = { 
+    name = "lit_neutral_021_alt"
+    file = "lit/lit_neutral_021_alt.wav"
+}
+sound = { 
+    name = "lit_positive_001"
+    file = "lit/lit_positive_001.wav"
+}
+sound = { 
+    name = "lit_positive_002"
+    file = "lit/lit_positive_002.wav"
+}
+sound = { 
+    name = "lit_positive_003"
+    file = "lit/lit_positive_003.wav"
+}
+sound = { 
+    name = "lit_positive_004"
+    file = "lit/lit_positive_004.wav"
+}
+sound = { 
+    name = "lit_positive_005"
+    file = "lit/lit_positive_005.wav"
+}
+sound = { 
+    name = "lit_positive_006"
+    file = "lit/lit_positive_006.wav"
+}
+sound = { 
+    name = "lit_positive_007"
+    file = "lit/lit_positive_007.wav"
+}
+sound = { 
+    name = "lit_positive_008"
+    file = "lit/lit_positive_008.wav"
+}
+sound = { 
+    name = "lit_positive_009"
+    file = "lit/lit_positive_009.wav"
+}
+sound = { 
+    name = "lit_positive_010"
+    file = "lit/lit_positive_010.wav"
+}
+sound = { 
+    name = "lit_positive_011"
+    file = "lit/lit_positive_011.wav"
+}
+sound = { 
+    name = "lit_positive_012"
+    file = "lit/lit_positive_012.wav"
+}
+sound = { 
+    name = "lit_positive_013"
+    file = "lit/lit_positive_013.wav"
+}
+sound = { 
+    name = "lit_positive_014"
+    file = "lit/lit_positive_014.wav"
+}
+sound = { 
+    name = "lit_positive_015"
+    file = "lit/lit_positive_015.wav"
+}
+sound = { 
+    name = "lit_positive_016"
+    file = "lit/lit_positive_016.wav"
+}
+sound = { 
+    name = "lit_positive_017"
+    file = "lit/lit_positive_017.wav"
+}
+sound = { 
+    name = "lit_positive_018"
+    file = "lit/lit_positive_018.wav"
+}
+sound = { 
+    name = "lit_positive_019"
+    file = "lit/lit_positive_019.wav"
+}
+sound = { 
+    name = "lit_positive_020"
+    file = "lit/lit_positive_020.wav"
+}
+sound = { 
+    name = "lit_positive_021"
+    file = "lit/lit_positive_021.wav"
+}
+sound = { 
+    name = "lit_positive_022"
+    file = "lit/lit_positive_022.wav"
+}
+sound = { 
+    name = "lit_positive_023"
+    file = "lit/lit_positive_023.wav"
+}
+sound = { 
+    name = "lit_positive_024"
+    file = "lit/lit_positive_024.wav"
+}
+sound = { 
+    name = "lit_retreat_001"
+    file = "lit/lit_retreat_001.wav"
+}
+sound = { 
+    name = "lit_retreat_002"
+    file = "lit/lit_retreat_002.wav"
+}
+sound = { 
+    name = "lit_retreat_003"
+    file = "lit/lit_retreat_003.wav"
+}
+sound = { 
+    name = "lit_retreat_004"
+    file = "lit/lit_retreat_004.wav"
+}
+sound = { 
+    name = "lit_retreat_005"
+    file = "lit/lit_retreat_005.wav"
+}
+sound = { 
+    name = "lit_retreat_006"
+    file = "lit/lit_retreat_006.wav"
+}
+sound = { 
+    name = "lit_retreat_007"
+    file = "lit/lit_retreat_007.wav"
+}
+sound = { 
+    name = "lit_retreat_008"
+    file = "lit/lit_retreat_008.wav"
+}
+sound = { 
+    name = "lit_retreat_009"
+    file = "lit/lit_retreat_009.wav"
+}
+sound = { 
+    name = "lit_retreat_010"
+    file = "lit/lit_retreat_010.wav"
+}
+sound = { 
+    name = "lit_retreat_011"
+    file = "lit/lit_retreat_011.wav"
+}
+sound = { 
+    name = "lit_retreat_012"
+    file = "lit/lit_retreat_012.wav"
+}
+sound = { 
+    name = "lit_retreat_013"
+    file = "lit/lit_retreat_013.wav"
+}
+sound = { 
+    name = "lit_retreat_014"
+    file = "lit/lit_retreat_014.wav"
+}
+sound = { 
+    name = "lit_retreat_015"
+    file = "lit/lit_retreat_015.wav"
+}
+sound = { 
+    name = "lit_retreat_016"
+    file = "lit/lit_retreat_016.wav"
+}
+sound = { 
+    name = "lit_retreat_016_alt"
+    file = "lit/lit_retreat_016_alt.wav"
+}
+sound = { 
+    name = "lit_retreat_017"
+    file = "lit/lit_retreat_017.wav"
+}
+sound = { 
+    name = "lit_retreat_017_alt"
+    file = "lit/lit_retreat_017_alt.wav"
+}
+sound = { 
+    name = "lit_retreat_018"
+    file = "lit/lit_retreat_018.wav"
+}
+sound = { 
+    name = "lit_retreat_018_alt"
+    file = "lit/lit_retreat_018_alt.wav"
+}
+sound = { 
+    name = "lit_idle_001"
+    file = "lit/lit_idle_001.wav"
+}
+sound = { 
+    name = "lit_idle_002"
+    file = "lit/lit_idle_002.wav"
+}
+sound = { 
+    name = "lit_idle_003" 
+    file = "lit/lit_idle_003.wav"
+}

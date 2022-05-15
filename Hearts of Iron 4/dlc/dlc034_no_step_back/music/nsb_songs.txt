@@ -1,0 +1,84 @@
+
+music_station = "base_music"
+
+music = {
+	song = "army_of_the_braves"
+
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				original_tag = POL
+			}
+		}	
+	}
+}
+
+music = {
+	song = "bravery_of_the_minority"
+
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = LAT
+					original_tag = LIT
+					original_tag = EST
+				}
+			}
+		}	
+	}
+}
+
+music = {
+	song = "march_of_the_defenders"
+
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			has_war = no
+		}	
+
+		modifier = {
+			factor = 3
+			OR = {
+				original_tag = SOV
+				has_government = communism
+			}
+		}
+		modifier = {
+			factor = 3
+			has_war = yes
+			any_enemy_country = { is_major = yes }
+		}
+	}
+}
+
+music = {
+	song = "sacred_war"
+
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			has_war = no
+		}	
+
+		modifier = {
+			factor = 3
+			OR = {
+				original_tag = SOV
+				has_government = communism
+			}
+		}
+		modifier = {
+			factor = 3
+			has_war = yes
+			any_enemy_country = { is_major = yes }
+		}
+	}
+}

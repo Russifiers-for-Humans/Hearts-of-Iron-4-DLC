@@ -1,0 +1,304 @@
+
+
+####################### AIRCRAFTS ################################
+
+category = {
+ name = "Weapons"
+ soundeffects = { 
+		wep_hispano_mk2_single
+		wep_hispano_mk2_twin
+		wep_m2_browning_a6
+		wep_m2_browning_single
+		wep_mg_151_single
+		wep_mg131_single
+		wep_mg131_twin
+		wep_MG151_twin
+		wep_mk108_single
+		wep_nr23_single
+		wep_nr23_twin
+		wep_nr37_single
+ 	}
+}
+
+######################## SOUNDS #################################
+
+sound = {
+	name = "wep_hispano_mk2_single_01"
+	file = "efp_assets/wep_hispano_mk2_single_01.wav"
+}
+sound = {
+	name = "wep_hispano_mk2_single_02"
+	file = "efp_assets/wep_hispano_mk2_single_02.wav"
+}
+sound = {
+	name = "wep_hispano_mk2_twin_01"
+	file = "efp_assets/wep_hispano_mk2_twin_01.wav"
+}
+sound = {
+	name = "wep_hispano_mk2_twin_02"
+	file = "efp_assets/wep_hispano_mk2_twin_02.wav"
+}
+sound = {
+	name = "wep_m2_browning_a6_01"
+	file = "efp_assets/wep_m2_browning_a6_01.wav"
+}
+sound = {
+	name = "wep_m2_browning_a6_02"
+	file = "efp_assets/wep_m2_browning_a6_02.wav"
+}
+sound = {
+	name = "wep_m2_browning_single_01"
+	file = "efp_assets/wep_m2_browning_single_01.wav"
+}
+sound = {
+	name = "wep_m2_browning_single_02"
+	file = "efp_assets/wep_m2_browning_single_02.wav"
+}
+sound = {
+	name = "wep_mg_151_single_01"
+	file = "efp_assets/wep_mg_151_single_01.wav"
+}
+sound = {
+	name = "wep_mg_151_single_02"
+	file = "efp_assets/wep_mg_151_single_02.wav"
+}
+sound = {
+	name = "wep_mg131_single_01"
+	file = "efp_assets/wep_mg131_single_01.wav"
+}
+sound = {
+	name = "wep_mg131_single_02"
+	file = "efp_assets/wep_mg131_single_02.wav"
+}
+sound = {
+	name = "wep_mg131_twin_01"
+	file = "efp_assets/wep_mg131_twin_01.wav"
+}
+sound = {
+	name = "wep_mg131_twin_02"
+	file = "efp_assets/wep_mg131_twin_02.wav"
+}
+sound = {
+	name = "wep_MG151_twin_01"
+	file = "efp_assets/wep_MG151_twin_01.wav"
+}
+sound = {
+	name = "wep_MG151_twin_02"
+	file = "efp_assets/wep_MG151_twin_02.wav"
+}
+sound = {
+	name = "wep_mk108_single_01"
+	file = "efp_assets/wep_mk108_single_01.wav"
+}
+sound = {
+	name = "wep_mk108_single_02"
+	file = "efp_assets/wep_mk108_single_02.wav"
+}
+sound = {
+	name = "wep_nr23_single_01"
+	file = "efp_assets/wep_nr23_single_01.wav"
+}
+sound = {
+	name = "wep_nr23_single_02"
+	file = "efp_assets/wep_nr23_single_02.wav"
+}
+sound = {
+	name = "wep_nr23_twin_01"
+	file = "efp_assets/wep_nr23_twin_01.wav"
+}
+sound = {
+	name = "wep_nr23_twin_02"
+	file = "efp_assets/wep_nr23_twin_02.wav"
+}
+sound = {
+	name = "wep_nr37_single_01"
+	file = "efp_assets/wep_nr37_single_01.wav"
+}
+sound = {
+	name = "wep_nr37_single_02"
+	file = "efp_assets/wep_nr37_single_02.wav"
+}
+
+##################### SOUNDEFFECTS ##############################
+soundeffect = {
+	name = wep_hispano_mk2_single 
+	falloff = "falloff_efp_weapons"
+	loop = no
+	sounds = {
+		sound = wep_hispano_mk2_single_01
+		sound = wep_hispano_mk2_single_02
+	}
+	is3d = yes 
+	max_audible = 4
+	max_audible_behaviour = fail 
+	volume = 0.5 
+}
+
+soundeffect = {
+	name = wep_hispano_mk2_twin 
+	falloff = "falloff_efp_weapons"
+	loop = no
+	sounds = {
+		sound = wep_hispano_mk2_twin_01
+		sound = wep_hispano_mk2_twin_02
+	}
+	is3d = yes 
+	max_audible = 4
+	max_audible_behaviour = fail 
+	volume = 0.5 
+}
+
+soundeffect = {
+	name = wep_m2_browning_a6 
+	falloff = "falloff_efp_weapons"
+	loop = no
+	sounds = {
+		sound = wep_m2_browning_a6_01
+		sound = wep_m2_browning_a6_02
+	}
+	is3d = yes 
+	max_audible = 4
+	max_audible_behaviour = fail 
+	volume = 0.5 
+}
+
+soundeffect = {
+	name = wep_m2_browning_single 
+	falloff = "falloff_efp_weapons"
+	loop = no
+	sounds = {
+		sound = wep_m2_browning_single_01
+		sound = wep_m2_browning_single_02
+	}
+	is3d = yes 
+	max_audible = 4
+	max_audible_behaviour = fail 
+	volume = 0.5 
+}
+
+soundeffect = {
+	name = wep_mg_151_single 
+	falloff = "falloff_efp_weapons"
+	loop = no
+	sounds = {
+		sound = wep_mg_151_single_01
+		sound = wep_mg_151_single_02
+	}
+	is3d = yes 
+	max_audible = 4
+	max_audible_behaviour = fail 
+	volume = 0.5 
+}
+
+soundeffect = {
+	name = wep_mg131_single 
+	falloff = "falloff_efp_weapons"
+	loop = no
+	sounds = {
+		sound = wep_mg131_single_01
+		sound = wep_mg131_single_02
+	}
+	is3d = yes 
+	max_audible = 4
+	max_audible_behaviour = fail 
+	volume = 0.5 
+}
+
+soundeffect = {
+	name = wep_mg131_twin 
+	falloff = "falloff_efp_weapons"
+	loop = no
+	sounds = {
+		sound = wep_mg131_twin_01
+		sound = wep_mg131_twin_02
+	}
+	is3d = yes 
+	max_audible = 4
+	max_audible_behaviour = fail 
+	volume = 0.5 
+}
+
+soundeffect = {
+	name = wep_MG151_twin 
+	falloff = "falloff_efp_weapons"
+	loop = no
+	sounds = {
+		sound = wep_MG151_twin_01
+		sound = wep_MG151_twin_02
+	}
+	is3d = yes 
+	max_audible = 4
+	max_audible_behaviour = fail 
+	volume = 0.5 
+}
+
+soundeffect = {
+	name = wep_mk108_single 
+	falloff = "falloff_efp_weapons"
+	loop = no
+	sounds = {
+		sound = wep_mk108_single_01
+		sound = wep_mk108_single_02
+	}
+	is3d = yes 
+	max_audible = 4
+	max_audible_behaviour = fail 
+	volume = 0.5 
+}
+
+soundeffect = {
+	name = wep_nr23_single 
+	falloff = "falloff_efp_weapons"
+	loop = no
+	sounds = {
+		sound = wep_nr23_single_01
+		sound = wep_nr23_single_02
+	}
+	is3d = yes 
+	max_audible = 4
+	max_audible_behaviour = fail 
+	volume = 0.5 
+}
+
+soundeffect = {
+	name = wep_nr23_twin 
+	falloff = "falloff_efp_weapons"
+	loop = no
+	sounds = {
+		sound = wep_nr23_twin_01
+		sound = wep_nr23_twin_02
+	}
+	is3d = yes 
+	max_audible = 4
+	max_audible_behaviour = fail 
+	volume = 0.5 
+}
+
+soundeffect = {
+	name = wep_nr37_single 
+	falloff = "falloff_efp_weapons"
+	loop = no
+	sounds = {
+		sound = wep_nr37_single_01
+		sound = wep_nr37_single_02
+	}
+	is3d = yes 
+	max_audible = 4
+	max_audible_behaviour = fail 
+	volume = 0.5 
+}
+
+
+##################### FALLOFFS ####################################
+
+### MG ###
+falloff = {
+	name = falloff_efp_weapons
+	min_distance = 20
+	max_distance = 60
+	height_scale = 0.5
+}
+
+
+
+

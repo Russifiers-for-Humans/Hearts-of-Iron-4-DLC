@@ -1,0 +1,9 @@
+name = "No Step Back"
+path = dlc/dlc034_no_step_back/
+steam_id = "1348661"
+pops_id = "hoi4_dlc034_no_step_back"
+affects_checksum = yes
+affects_compatability = no
+third_party_content = no
+category = "expansion"
+checksum = "c1f13fe2aa6ebe8d18dcc6e09bad7591"

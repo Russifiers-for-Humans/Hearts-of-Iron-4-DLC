@@ -1,0 +1,23 @@
+music = {
+	name = "army_of_the_braves"
+	file = "Army of the Braves.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "bravery_of_the_minority"
+	file = "Bravery of the Minority.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "march_of_the_defenders"
+	file = "March of the Defenders.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "sacred_war"
+	file = "Sacred War.ogg"
+	volume = 0.58
+}

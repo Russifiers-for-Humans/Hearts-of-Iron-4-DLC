@@ -1,0 +1,776 @@
+
+
+####################### AIRCRAFTS ################################
+
+category = {
+ name = "nonControllableEntities"
+ soundeffects = { 
+		GER_cv_fighter_1
+		GER_cv_nav_bomber_1
+		GER_cv_fighter_3
+		GER_CAS_1
+		GER_CAS_2
+		GER_CAS_3
+		GER_fighter_0
+		GER_fighter_2
+		GER_fighter_3
+		GER_nav_bomber_1
+		GER_nav_bomber_2
+		GER_nav_bomber_3
+		GER_heavy_fighter_1
+		GER_heavy_fighter_2
+		GER_heavy_fighter_3
+		GER_tac_bomber_0
+		GER_tac_bomber_1
+		GER_tac_bomber_3
+		GER_strategic_bomber_1
+		GER_strategic_bomber_3
+		ROM_CAS_1
+		ROM_fighter_0
+		ROM_fighter_1
+		ROM_fighter_3
+		YUG_fighter_0
+		YUG_fighter_1
+		YUG_fighter_3
+		YUG_heavy_fighter_2
+		global_airplane_light_close_layer
+		global_airplane_medium_close_layer
+		global_airplane_heavy_close_layer
+		global_aircraft_placeholder_test
+ 	}
+}
+
+
+######################## SOUNDS #################################
+
+sound = 
+{
+	name = "GER_cv_fighter_1"
+	file = "efp_assets/GER_cv_fighter_1.wav"
+}	
+sound = 
+{
+	name = "GER_cv_nav_bomber_1"
+	file = "efp_assets/GER_cv_nav_bomber_1.wav"
+}	
+sound = 
+{
+	name = "GER_cv_fighter_3"
+	file = "efp_assets/GER_cv_fighter_3.wav"
+}	
+sound = 
+{
+	name = "GER_CAS_1"
+	file = "efp_assets/GER_CAS_1.wav"
+}	
+sound = 
+{
+	name = "GER_CAS_2"
+	file = "efp_assets/GER_CAS_2.wav"
+}	
+sound = 
+{
+	name = "GER_CAS_3"
+	file = "efp_assets/GER_CAS_3.wav"
+}	
+sound = 
+{
+	name = "GER_fighter_0"
+	file = "efp_assets/GER_fighter_0.wav"
+}	
+sound = 
+{
+	name = "GER_fighter_2"
+	file = "efp_assets/GER_fighter_2.wav"
+}	
+sound = 
+{
+	name = "GER_fighter_3"
+	file = "efp_assets/GER_fighter_3.wav"
+}	
+sound = 
+{
+	name = "GER_nav_bomber_1"
+	file = "efp_assets/GER_nav_bomber_1.wav"
+}	
+sound = 
+{
+	name = "GER_nav_bomber_2"
+	file = "efp_assets/GER_nav_bomber_2.wav"
+}	
+sound = 
+{
+	name = "GER_nav_bomber_3"
+	file = "efp_assets/GER_nav_bomber_3.wav"
+}	
+sound = 
+{
+	name = "GER_heavy_fighter_1"
+	file = "efp_assets/GER_heavy_fighter_1.wav"
+}	
+sound = 
+{
+	name = "GER_heavy_fighter_2"
+	file = "efp_assets/GER_heavy_fighter_2.wav"
+}	
+sound = 
+{
+	name = "GER_heavy_fighter_3"
+	file = "efp_assets/GER_heavy_fighter_3.wav"
+}	
+sound = 
+{
+	name = "GER_tac_bomber_0"
+	file = "efp_assets/GER_tac_bomber_0.wav"
+}	
+sound = 
+{
+	name = "GER_tac_bomber_1"
+	file = "efp_assets/GER_tac_bomber_1.wav"
+}	
+sound = 
+{
+	name = "GER_tac_bomber_3"
+	file = "efp_assets/GER_tac_bomber_3.wav"
+}	
+sound = 
+{
+	name = "GER_strategic_bomber_1"
+	file = "efp_assets/GER_strategic_bomber_1.wav"
+}	
+sound = 
+{
+	name = "GER_strategic_bomber_3"
+	file = "efp_assets/GER_strategic_bomber_3.wav"
+}
+sound = 
+{
+	name = "ROM_CAS_1"
+	file = "efp_assets/ROM_CAS_1.wav"
+}
+sound = 
+{
+	name = "ROM_fighter_0"
+	file = "efp_assets/ROM_fighter_0.wav"
+}
+sound = 
+{
+	name = "ROM_fighter_1"
+	file = "efp_assets/ROM_fighter_1.wav"
+}
+sound = 
+{
+	name = "ROM_fighter_3"
+	file = "efp_assets/ROM_fighter_3.wav"
+}
+sound = 
+{
+	name = "YUG_fighter_0"
+	file = "efp_assets/YUG_fighter_0.wav"
+}
+sound = 
+{
+	name = "YUG_fighter_1"
+	file = "efp_assets/YUG_fighter_1.wav"
+}
+sound = 
+{
+	name = "YUG_fighter_3"
+	file = "efp_assets/YUG_fighter_3.wav"
+}
+sound = 
+{
+	name = "YUG_heavy_fighter_2"
+	file = "efp_assets/YUG_heavy_fighter_2.wav"
+} 
+### DEGUB ### 
+sound = 
+{
+	name = "global_aircraft_placeholder_test"
+	file = "efp_assets/global_aircraft_placeholder_test.wav"
+} 
+### Layer ###
+sound = 
+{
+	name = "global_airplane_light_close_layer"
+	file = "efp_assets/global_airplane_light_close_layer.wav"
+}
+sound = 
+{
+	name = "global_airplane_medium_close_layer"
+	file = "efp_assets/global_airplane_medium_close_layer.wav"
+} 
+sound = 
+{
+	name = "global_airplane_heavy_close_layer"
+	file = "efp_assets/global_airplane_heavy_close_layer.wav"
+} 
+
+
+
+##################### SOUNDEFFECTS ##############################
+### DEBUG ###
+soundeffect = {
+	name = global_aircraft_placeholder_test
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = { 
+		sound = global_aircraft_placeholder_test
+	}
+	is3d = yes 
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.65 
+}
+### SWEETENER ### 
+soundeffect = {
+	name = global_airplane_light_close_layer
+	loop = yes
+	falloff = "falloff_efp_airplane_light_close_layer"
+	sounds = { 
+		sound = global_airplane_light_close_layer
+	}
+	is3d = yes 
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.8
+}
+soundeffect = {
+	name = global_airplane_medium_close_layer
+	loop = yes
+	falloff = "falloff_efp_airplane_medium_close_layer"
+	sounds = { 
+		sound = global_airplane_medium_close_layer
+	}
+	is3d = yes 
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.8
+}
+soundeffect = {
+	name = global_airplane_heavy_close_layer
+	loop = yes
+	falloff = "falloff_efp_airplane_heavy_close_layer"
+	sounds = { 
+		sound = global_airplane_heavy_close_layer
+	}
+	is3d = yes 
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.8
+}
+
+## GER ## 
+soundeffect = {
+	name = GER_cv_fighter_1
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = { 
+		sound = GER_cv_fighter_1 
+	}
+	is3d = yes 
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.65 
+}
+
+soundeffect = {
+	name = GER_cv_nav_bomber_1
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = { 
+		sound = GER_cv_nav_bomber_1 
+	}
+	is3d = yes 
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.65 
+}
+
+soundeffect = {
+	name = GER_cv_fighter_3
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = { 
+		sound = GER_cv_fighter_3 
+	}
+	is3d = yes 
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.65 
+}
+
+soundeffect = {
+	name = GER_CAS_1
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = { 
+		sound = GER_CAS_1 
+	}
+	is3d = yes 
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.65 
+}
+
+soundeffect = {
+	name = GER_CAS_2
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = { 
+		sound = GER_CAS_2 
+	}
+	is3d = yes 
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.65 
+}
+
+soundeffect = {
+	name = GER_CAS_3
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = { 
+		sound = GER_CAS_3 
+	}
+	is3d = yes 
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.65 
+}
+
+soundeffect = {
+	name = GER_fighter_0
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = { 
+		sound = GER_fighter_0 
+	}
+	is3d = yes 
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.65 
+}
+
+soundeffect = {
+	name = GER_fighter_2
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = { 
+		sound = GER_fighter_2 
+	}
+	is3d = yes 
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.65 
+}
+
+soundeffect = {
+	name = GER_fighter_3
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = { 
+		sound = GER_fighter_3 
+	}
+	is3d = yes 
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.65 
+}
+
+soundeffect = {
+	name = GER_nav_bomber_1
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = { 
+		sound = GER_nav_bomber_1 
+	}
+	is3d = yes 
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.65 
+}
+
+soundeffect = {
+	name = GER_nav_bomber_2
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = { 
+		sound = GER_nav_bomber_2 
+	}
+	is3d = yes 
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.65 
+}
+
+soundeffect = {
+	name = GER_nav_bomber_3
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = { 
+		sound = GER_nav_bomber_3 
+	}
+	is3d = yes 
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.65 
+}
+
+soundeffect = {
+	name = GER_heavy_fighter_1
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = { 
+		sound = GER_heavy_fighter_1 
+	}
+	is3d = yes 
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.65 
+}
+
+soundeffect = {
+	name = GER_heavy_fighter_2
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = { 
+		sound = GER_heavy_fighter_2 
+	}
+	is3d = yes 
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.65 
+}
+
+soundeffect = {
+	name = GER_heavy_fighter_3
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = { 
+		sound = GER_heavy_fighter_3 
+	}
+	is3d = yes 
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.65 
+}
+
+soundeffect = {
+	name = GER_tac_bomber_0
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = { 
+		sound = GER_tac_bomber_0 
+	}
+	is3d = yes 
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.65 
+}
+
+soundeffect = {
+	name = GER_tac_bomber_1
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = { 
+		sound = GER_tac_bomber_1 
+	}
+	is3d = yes 
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.65 
+}
+
+soundeffect = {
+	name = GER_tac_bomber_3
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = { 
+		sound = GER_tac_bomber_3 
+	}
+	is3d = yes 
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.65 
+}
+
+soundeffect = {
+	name = GER_strategic_bomber_1
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = { 
+		sound = GER_strategic_bomber_1 
+	}
+	is3d = yes 
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.65 
+}
+
+soundeffect = {
+	name = GER_strategic_bomber_3
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = { 
+		sound = GER_strategic_bomber_3 
+	}
+	is3d = yes 
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.65 
+
+}
+
+### ROM ### 
+soundeffect = {
+	name = ROM_CAS_1
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = {
+		sound = ROM_CAS_1
+	}
+	is3d = yes
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume =3.5
+}
+
+soundeffect = {
+	name = ROM_fighter_0
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = {
+		sound = ROM_fighter_0
+	}
+	is3d = yes
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume =3.5
+}
+
+soundeffect = {
+	name = ROM_fighter_1
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = {
+		sound = ROM_fighter_1
+	}
+	is3d = yes
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume =3.5
+}
+
+soundeffect = {
+	name = ROM_fighter_3
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = {
+		sound = ROM_fighter_3
+	}
+	is3d = yes
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume =3.5
+}
+
+### YUG ###
+soundeffect = {
+	name = YUG_fighter_0
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = {  
+		sound = YUG_fighter_0
+	}
+	is3d = yes
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.65
+}
+
+soundeffect = {
+	name = YUG_fighter_1
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = {  
+		sound = YUG_fighter_1
+	}
+	is3d = yes
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.65
+}
+
+soundeffect = {
+	name = YUG_fighter_3
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = {  
+		sound = YUG_fighter_3
+	}
+	is3d = yes
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.65
+}
+
+soundeffect = {
+	name = YUG_heavy_fighter_2
+	loop = yes
+	falloff = "falloff_efp_airplane_light"
+	sounds = {  
+		sound = YUG_heavy_fighter_2
+	}
+	is3d = yes
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	
+	volume = 0.65
+} 
+
+
+
+
+##################### FALLOFFS ####################################
+
+### Light airplane ###
+falloff = {
+	name = falloff_efp_airplane_light
+	min_distance = 30.0
+	max_distance = 60.0
+	height_scale = 1.0
+}
+
+falloff = {
+	name = falloff_efp_airplane_light_close_layer
+	min_distance = 10.0
+	max_distance = 30.0
+	height_scale = 1.0
+}
+### Medium airplane ###
+falloff = {
+	name = falloff_efp_airplane_medium
+	min_distance = 20
+	max_distance = 70
+	height_scale = 0.5
+}
+falloff = {
+	name = falloff_efp_airplane_medium_close_layer
+	min_distance = 20
+	max_distance = 70
+	height_scale = 0.5
+}
+
+### Heavy Airplane ###
+falloff = {
+	name = falloff_efp_airplane_heavy
+	min_distance = 20
+	max_distance = 80
+	height_scale = 0.7
+}
+falloff = {
+	name = falloff_efp_airplane_heavy_close_layer
+	min_distance = 20
+	max_distance = 80
+	height_scale = 0.7
+}
+
+
+
+

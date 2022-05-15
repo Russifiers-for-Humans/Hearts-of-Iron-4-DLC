@@ -1,0 +1,328 @@
+objectTypes = {
+
+	pdxmesh = {
+		name = "GER_cv_nav_bomber_1_mesh"
+		file = "gfx/models/units/planes/GER_cv_nav_bomber_1.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "GER_strategic_bomber_1_mesh"
+		file = "gfx/models/units/planes/GER_strategic_bomber_1.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+		
+	}
+	
+	
+	pdxmesh = {
+		name = "GER_cas_3_mesh"
+		file = "gfx/models/units/planes/GER_cas_3.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+    }
+	
+	pdxmesh = {
+		name = "GER_cas_2_mesh"
+		file = "gfx/models/units/planes/GER_cas_2.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "GER_cas_1_mesh"
+		file = "gfx/models/units/planes/GER_cas_1.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "GER_cv_fighter_3_mesh"
+		file = "gfx/models/units/planes/GER_cv_fighter_3.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+    }
+	
+	pdxmesh = {
+		name = "GER_nav_bomber_1_mesh"
+		file = "gfx/models/units/planes/GER_nav_bomber_1.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "GER_fighter_3_mesh"
+		file = "gfx/models/units/planes/GER_fighter_3.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "GER_nav_bomber_2_mesh"
+		file = "gfx/models/units/planes/GER_nav_bomber_2.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "GER_cv_fighter_1_mesh"
+		file = "gfx/models/units/planes/GER_cv_fighter_1.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "GER_heavy_fighter_2_mesh"
+		file = "gfx/models/units/planes/GER_heavy_fighter_2.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "GER_tac_bomber_0_mesh"
+		file = "gfx/models/units/planes/GER_tac_bomber_0.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "GER_tac_bomber_1_mesh"
+		file = "gfx/models/units/planes/GER_tac_bomber_1.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "GER_tac_bomber_3_mesh"
+		file = "gfx/models/units/planes/GER_tac_bomber_3.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "GER_heavy_fighter_1_mesh"
+		file = "gfx/models/units/planes/GER_heavy_fighter_1.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "GER_heavy_fighter_3_mesh"
+		file = "gfx/models/units/planes/GER_heavy_fighter_3.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "GER_nav_bomber_3_mesh"
+		file = "gfx/models/units/planes/GER_nav_bomber_3.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "GER_fighter_0_mesh"
+		file = "gfx/models/units/planes/GER_fighter_0.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "GER_fighter_2_mesh"
+		file = "gfx/models/units/planes/GER_fighter_2.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "GER_strategic_bomber_3_mesh"
+		file = "gfx/models/units/planes/GER_strategic_bomber_3.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "POL_fighter_1_mesh"
+		file = "gfx/models/units/planes/POL_fighter_1.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "POL_fighter_2_mesh"
+		file = "gfx/models/units/planes/POL_fighter_2.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "POL_cas_1_mesh"
+		file = "gfx/models/units/planes/POL_cas_1.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "SOV_naval_bomber_2_mesh"
+		file = "gfx/models/units/planes/SOV_naval_bomber_2.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "SOV_naval_bomber_3_mesh"
+		file = "gfx/models/units/planes/SOV_naval_bomber_3.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "SOV_tac_bomber_1_mesh"
+		file = "gfx/models/units/planes/SOV_tac_bomber_1.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "POL_tactical_bomber_1_mesh"
+		file = "gfx/models/units/planes/POL_tactical_bomber_1.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "POL_tactical_bomber_2_mesh"
+		file = "gfx/models/units/planes/POL_tactical_bomber_2.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "SOV_fighter_1_mesh"
+		file = "gfx/models/units/planes/SOV_fighter_1.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "POL_heavy_fighter_1_mesh"
+		file = "gfx/models/units/planes/POL_heavy_fighter_1.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "SOV_tac_bomber_0_mesh"
+		file = "gfx/models/units/planes/SOV_tac_bomber_0.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "SOV_fighter_0_mesh"
+		file = "gfx/models/units/planes/SOV_fighter_0.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "SOV_tac_bomber_3_mesh"
+		file = "gfx/models/units/planes/SOV_tac_bomber_3.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "SOV_strategic_bomber_3_mesh"
+		file = "gfx/models/units/planes/SOV_strategic_bomber_3.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "SOV_fighter_2_mesh"
+		file = "gfx/models/units/planes/SOV_fighter_2.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "POL_fighter_3_mesh"
+		file = "gfx/models/units/planes/POL_fighter_3.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "POL_cas_2_mesh"
+		file = "gfx/models/units/planes/POL_cas_2.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "SOV_cas_1_mesh"
+		file = "gfx/models/units/planes/SOV_cas_1.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "HUN_fighter_1_mesh"
+		file = "gfx/models/units/planes/HUN_fighter_1.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "HUN_heavy_fighter_3_mesh"
+		file = "gfx/models/units/planes/HUN_heavy_fighter_3.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "ROM_fighter_1_mesh"
+		file = "gfx/models/units/planes/ROM_fighter_1.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "ROM_cas_1_mesh"
+		file = "gfx/models/units/planes/ROM_cas_1.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "ROM_fighter_0_mesh"
+		file = "gfx/models/units/planes/ROM_fighter_0.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "SOV_naval_bomber_1_mesh"
+		file = "gfx/models/units/planes/SOV_naval_bomber_1.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "YUG_fighter_3_mesh"
+		file = "gfx/models/units/planes/YUG_fighter_3.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "YUG_heavy_fighter_2_mesh"
+		file = "gfx/models/units/planes/YUG_heavy_fighter_2.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "SOV_cas_2_mesh"
+		file = "gfx/models/units/planes/SOV_cas_2.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "SOV_cas_3_mesh"
+		file = "gfx/models/units/planes/SOV_cas_3.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "HUN_heavy_fighter_2_mesh"
+		file = "gfx/models/units/planes/HUN_heavy_fighter_2.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "YUG_fighter_0_mesh"
+		file = "gfx/models/units/planes/YUG_fighter_0.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "ROM_fighter_3_mesh"
+		file = "gfx/models/units/planes/ROM_fighter_3.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "HUN_cas_1_mesh"
+		file = "gfx/models/units/planes/HUN_cas_1.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "HUN_fighter_0_mesh"
+		file = "gfx/models/units/planes/HUN_fighter_0.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+	
+	pdxmesh = {
+		name = "YUG_fighter_1_mesh"
+		file = "gfx/models/units/planes/YUG_fighter_1.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	}
+}

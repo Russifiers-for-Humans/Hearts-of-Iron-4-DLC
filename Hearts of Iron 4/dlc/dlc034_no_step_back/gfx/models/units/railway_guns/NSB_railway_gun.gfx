@@ -1,0 +1,118 @@
+objectTypes = {
+	pdxmesh = {
+		name = "GER_railway_gun_mesh"
+		file = "gfx/models/units/railway_guns/GER_railway_gun.mesh"
+		animation = { id = "idle" type = "large_railway_gun_idle_animation" }
+		animation = { id = "attack" type = "large_railway_gun_attack_animation" }
+		animation = { id = "move" type = "large_railway_gun_moving_animation" }
+		
+				
+		
+		meshsettings = {
+			name = "railway_gun_semibase_low4Shape"
+			index = 0
+			texture_diffuse = "GER_railway_gun_diffuse.dds"
+			texture_normal = "GER_railway_gun_normal.dds"
+			texture_specular = "GER_railway_gun_specular.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}
+}
+
+objectTypes = {
+	pdxmesh = {
+		name = "ENG_railway_gun_mesh"
+		file = "gfx/models/units/railway_guns/ENG_railway_gun.mesh"
+		animation = { id = "idle" type = "large_railway_gun_idle_animation" }
+		animation = { id = "attack" type = "large_railway_gun_attack_animation" }
+		animation = { id = "move" type = "large_railway_gun_moving_animation" }
+		
+				
+		
+		meshsettings = {
+			name = "ENG_railway_gun_Shape"
+			index = 0
+			texture_diffuse = "ENG_railway_gun_diffuse.dds"
+			texture_normal = "ENG_railway_gun_normal.dds"
+			texture_specular = "ENG_railway_gun_specular.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}
+}
+
+objectTypes = {
+	pdxmesh = {
+		name = "USA_railway_gun_mesh"
+		file = "gfx/models/units/railway_guns/USA_railway_gun.mesh"
+		animation = { id = "idle" type = "medium_railway_gun_idle_animation" }
+		animation = { id = "attack" type = "medium_railway_gun_attack_animation" }
+		animation = { id = "move" type = "medium_railway_gun_moving_animation" }
+
+		meshsettings = {
+			name = "USA_railway_gun_Shape"
+			index = 0
+			texture_diffuse = "USA_railway_gun_diffuse.dds"
+			texture_normal = "USA_railway_gun_normal.dds"
+			texture_specular = "USA_railway_gun_specular.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}
+}
+
+objectTypes = {
+	pdxmesh = {
+		name = "FRA_railway_gun_mesh"
+		file = "gfx/models/units/railway_guns/FRA_railway_gun.mesh"
+		animation = { id = "idle" type = "FRA_railway_gun_idle_animation" }
+		animation = { id = "attack" type = "FRA_railway_gun_attack_animation" }
+		animation = { id = "move" type = "FRA_railway_gun_moving_animation" }
+
+		meshsettings = {
+			name = "FRA_railway_gun_Shape"
+			index = 0
+			texture_diffuse = "FRA_railway_gun_diffuse.dds"
+			texture_normal = "FRA_railway_gun_normal.dds"
+			texture_specular = "FRA_railway_gun_specular.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}
+}
+
+objectTypes = {
+	pdxmesh = {
+		name = "SOV_railway_gun_mesh"
+		file = "gfx/models/units/railway_guns/SOV_railway_gun.mesh"
+		animation = { id = "idle" type = "SOV_railway_gun_idle_animation" }
+		animation = { id = "attack" type = "SOV_railway_gun_attack_animation" }
+		animation = { id = "move" type = "SOV_railway_gun_moving_animation" }
+
+		meshsettings = {
+			name = "SOV_railway_gun_Shape"
+			index = 0
+			texture_diffuse = "SOV_railway_gun_diffuse.dds"
+			texture_normal = "SOV_railway_gun_normal.dds"
+			texture_specular = "SOV_railway_gun_specular.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}
+}
+
+objectTypes = {
+	pdxmesh = {
+		name = "JAP_railway_gun_mesh"
+		file = "gfx/models/units/railway_guns/JAP_railway_gun.mesh"
+		animation = { id = "idle" type = "JAP_railway_gun_idle_animation" }
+		animation = { id = "attack" type = "JAP_railway_gun_attack_animation" }
+		animation = { id = "move" type = "JAP_railway_gun_moving_animation" }
+
+
+		meshsettings = {
+			name = "JAP_railway_gun_Shape"
+			index = 0
+			texture_diffuse = "JAP_railway_gun_diffuse.dds"
+			texture_normal = "JAP_railway_gun_normal.dds"
+			texture_specular = "JAP_railway_gun_specular.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}
+}

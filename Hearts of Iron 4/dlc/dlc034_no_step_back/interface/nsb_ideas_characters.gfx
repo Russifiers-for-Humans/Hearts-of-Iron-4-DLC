@@ -1,0 +1,455 @@
+spriteTypes = {
+
+	### DNZ
+
+	spriteType = {
+		name = "GFX_idea_DNZ_albert_forster"
+		texturefile = "gfx/interface/ideas/idea_DNZ_albert_forster.dds"
+	}
+
+	### DON
+
+	spriteType = {
+		name = "GFX_idea_DON_vladimir_sidorin"
+		texturefile = "gfx/interface/ideas/idea_DON_vladimir_sidorin.dds"
+	}
+
+	### EST
+
+	spriteType = {
+		name = "GFX_idea_EST_aleksander_jaakson"
+		texturefile = "gfx/interface/ideas/idea_EST_aleksander_jaakson.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_EST_alfons_rebane"
+		texturefile = "gfx/interface/ideas/idea_EST_alfons_rebane.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_EST_andres_larka"
+		texturefile = "gfx/interface/ideas/idea_EST_andres_larka.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_EST_ants_kurvits"
+		texturefile = "gfx/interface/ideas/idea_EST_ants_kurvits.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_EST_artur_sirk"
+		texturefile = "gfx/interface/ideas/idea_EST_artur_sirk.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_EST_august_kork"
+		texturefile = "gfx/interface/ideas/idea_EST_august_kork.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_EST_herbert_brede"
+		texturefile = "gfx/interface/ideas/idea_EST_herbert_brede.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_EST_jaan_anvelt"
+		texturefile = "gfx/interface/ideas/idea_EST_jaan_anvelt.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_EST_jaan_tonisson"
+		texturefile = "gfx/interface/ideas/idea_EST_jaan_tonisson.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_EST_jakob_palvadre"
+		texturefile = "gfx/interface/ideas/idea_EST_jakob_palvadre.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_EST_johannes_kabin"
+		texturefile = "gfx/interface/ideas/idea_EST_johannes_kabin.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_EST_johan_laidoner"
+		texturefile = "gfx/interface/ideas/idea_EST_johan_laidoner.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_EST_karl_säre"
+		texturefile = "gfx/interface/ideas/idea_EST_karl_säre.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_EST_nikolai_karotamm"
+		texturefile = "gfx/interface/ideas/idea_EST_nikolai_karotamm.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_EST_otto_heinze"
+		texturefile = "gfx/interface/ideas/idea_EST_otto_heinze.dds"
+	}
+
+	### GGV
+
+	spriteType = {
+		name = "GFX_idea_GGV_hans_frank"
+		texturefile = "gfx/interface/ideas/idea_GGV_hans_frank.dds"
+	}
+
+	### KSH
+
+	spriteType = {
+		name = "GFX_idea_KSH_aleksander_majkowski"
+		texturefile = "gfx/interface/ideas/idea_KSH_aleksander_majkowski.dds"
+	}
+
+	### KUB
+
+	spriteType = {
+		name = "GFX_idea_KUB_ivanis_vasily_nikolaevich"
+		texturefile = "gfx/interface/ideas/idea_KUB_ivanis_vasily_nikolaevich.dds"
+	}
+
+	### LAT
+
+	spriteType = {
+		name = "GFX_idea_LAT_alberts_kviesis"
+		texturefile = "gfx/interface/ideas/idea_LAT_alberts_kviesis.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LAT_andrejs_krustins"
+		texturefile = "gfx/interface/ideas/idea_LAT_andrejs_krustins.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LAT_augusts_kirhensteins"
+		texturefile = "gfx/interface/ideas/idea_LAT_augusts_kirhensteins.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LAT_fricis_virsaitis"
+		texturefile = "gfx/interface/ideas/idea_LAT_fricis_virsaitis.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LAT_gustavs_celmins"
+		texturefile = "gfx/interface/ideas/idea_LAT_gustavs_celmins.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LAT_hermanis_buks"
+		texturefile = "gfx/interface/ideas/idea_LAT_hermanis_buks.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LAT_janis_balodis"
+		texturefile = "gfx/interface/ideas/idea_LAT_janis_balodis.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LAT_jukums_vacietis"
+		texturefile = "gfx/interface/ideas/idea_LAT_jukums_vacietis.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LAT_krisjanis_berkis"
+		texturefile = "gfx/interface/ideas/idea_LAT_krisjanis_berkis.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LAT_martins_penikis"
+		texturefile = "gfx/interface/ideas/idea_LAT_martins_penikis.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LAT_martin_latsis"
+		texturefile = "gfx/interface/ideas/idea_LAT_martin_latsis.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LAT_rudolfs_klinsons"
+		texturefile = "gfx/interface/ideas/idea_LAT_rudolfs_klinsons.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LAT_zanis_bahs"
+		texturefile = "gfx/interface/ideas/idea_LAT_zanis_bahs.dds"
+	}
+
+	### LIT
+
+	spriteType = {
+		name = "GFX_idea_LIT_antanas_snieskus"
+		texturefile = "gfx/interface/ideas/idea_LIT_antanas_snieskus.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LIT_augustinas_voldemaras"
+		texturefile = "gfx/interface/ideas/idea_LIT_augustinas_voldemaras.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LIT_edvardas_adamkavicius"
+		texturefile = "gfx/interface/ideas/idea_LIT_edvardas_adamkavicius.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LIT_jonas_Cernius"
+		texturefile = "gfx/interface/ideas/idea_LIT_jonas_cernius.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LIT_karl_gero_von_urach"
+		texturefile = "gfx/interface/ideas/idea_LIT_karl_gero_von_urach.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LIT_karl_gero_von_urach_father"
+		texturefile = "gfx/interface/ideas/idea_LIT_karl_gero_von_urach_father.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LIT_kazys_grinius"
+		texturefile = "gfx/interface/ideas/idea_LIT_kazys_grinius.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LIT_kazys_musteikis"
+		texturefile = "gfx/interface/ideas/idea_LIT_kazys_musteikis.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LIT_kazys_skucas"
+		texturefile = "gfx/interface/ideas/idea_LIT_kazys_skucas.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LIT_stasys_pundzevicius"
+		texturefile = "gfx/interface/ideas/idea_LIT_stasys_pundzevicius.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LIT_stasys_rastikis"
+		texturefile = "gfx/interface/ideas/idea_LIT_stasys_rastikis.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LIT_vincas_vitkauskas"
+		texturefile = "gfx/interface/ideas/idea_LIT_vincas_vitkauskas.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LIT_zigmas_angarietis"
+		texturefile = "gfx/interface/ideas/idea_LIT_zigmas_angarietis.dds"
+	}
+
+	### POL
+
+	spriteType = {
+		name = "GFX_idea_POL_anna_anderson"
+		texturefile = "gfx/interface/ideas/idea_POL_anna_anderson.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POL_boleslaw_wieniawa_dlugoszowski"
+		texturefile = "gfx/interface/ideas/idea_POL_boleslaw_wieniawa_dlugoszowski.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POL_friedrich_christian"
+		texturefile = "gfx/interface/ideas/idea_POL_friedrich_christian.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POL_ignacy_moscicki"
+		texturefile = "gfx/interface/ideas/idea_POL_ignacy_moscicki.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POL_jedrzej_giertych"
+		texturefile = "gfx/interface/ideas/idea_POL_jedrzej_giertych.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POL_jozef_haller"
+		texturefile = "gfx/interface/ideas/idea_POL_jozef_haller.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POL_karl_albrecht"
+		texturefile = "gfx/interface/ideas/idea_POL_karl_albrecht.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POL_karol_korytowski"
+		texturefile = "gfx/interface/ideas/idea_POL_karol_korytowski.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POL_kazimierz_sosnkowski"
+		texturefile = "gfx/interface/ideas/idea_POL_kazimierz_sosnkowski.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POL_king_woytek"
+		texturefile = "gfx/interface/ideas/idea_POL_king_woytek.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POL_lucjan_zeligowski"
+		texturefile = "gfx/interface/ideas/idea_POL_lucjan_zeligowski.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POL_marian_kukiel"
+		texturefile = "gfx/interface/ideas/idea_POL_marian_kukiel.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POL_marian_spychalski"
+		texturefile = "gfx/interface/ideas/idea_POL_marian_spychalski.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POL_maria_koszutska"
+		texturefile = "gfx/interface/ideas/idea_POL_maria_koszutska.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POL_michal_rola_zymierski"
+		texturefile = "gfx/interface/ideas/idea_POL_michal_rola_zymierski.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POL_operative_witold_pilecki"
+		texturefile = "gfx/interface/ideas/idea_POL_operative_witold_pilecki.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POL_pavel_bermondt_avlov"
+		texturefile = "gfx/interface/ideas/idea_POL_pavel_bermondt_avlov.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POL_roman_dmowski"
+		texturefile = "gfx/interface/ideas/idea_POL_roman_dmowski.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POL_rudiger_von_der_goltz"
+		texturefile = "gfx/interface/ideas/idea_POL_rudiger_von_der_goltz.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POL_stanislaw_sosabowski"
+		texturefile = "gfx/interface/ideas/idea_POL_stanislaw_sosabowski.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POL_stefan_frankowski"
+		texturefile = "gfx/interface/ideas/idea_POL_stefan_frankowski.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POL_tadeusz_kutrzeba"
+		texturefile = "gfx/interface/ideas/idea_POL_tadeusz_kutrzeba.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POL_wincenty_kowalski"
+		texturefile = "gfx/interface/ideas/idea_POL_wincenty_kowalski.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POL_witold_pilecki"
+		texturefile = "gfx/interface/ideas/idea_POL_witold_pilecki.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POL_wladyslaw_raczkiewicz"
+		texturefile = "gfx/interface/ideas/idea_POL_wladyslaw_raczkiewicz.dds"
+	}
+
+	### SIL
+
+	spriteType = {
+		name = "GFX_idea_SIL_józef _iniszkiewicz"
+		texturefile = "gfx/interface/ideas/idea_SIL_józef _iniszkiewicz.dds"
+	}
+
+	### SOV
+
+	spriteType = {
+		name = "GFX_idea_SOV_aleksandra_kollontay"
+		texturefile = "gfx/interface/ideas/idea_SOV_aleksandra_kollontay.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SOV_aleksandr_rodzyanko"
+		texturefile = "gfx/interface/ideas/idea_SOV_aleksandr_rodzyanko.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SOV_aleksey_rykov"
+		texturefile = "gfx/interface/ideas/idea_SOV_aleksey_rykov.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SOV_andrey_shkuro"
+		texturefile = "gfx/interface/ideas/idea_SOV_andrey_shkuro.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SOV_anton_denikin"
+		texturefile = "gfx/interface/ideas/idea_SOV_anton_denikin.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SOV_grigory_semyonov"
+		texturefile = "gfx/interface/ideas/idea_SOV_grigory_semyonov.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SOV_konstantin_nechayev"
+		texturefile = "gfx/interface/ideas/idea_SOV_konstantin_nechayev.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SOV_nikolay_bukharin"
+		texturefile = "gfx/interface/ideas/idea_SOV_nikolay_bukharin.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SOV_patriarch_meletius"
+		texturefile = "gfx/interface/ideas/idea_SOV_patriarch_meletius.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SOV_pyotr_krasnov"
+		texturefile = "gfx/interface/ideas/idea_SOV_pyotr_krasnov.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SOV_tsar_stalin"
+		texturefile = "gfx/interface/ideas/idea_SOV_tsar_stalin.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SOV_vladimir_kirillovich"
+		texturefile = "gfx/interface/ideas/idea_SOV_vladimir_kirillovich.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SOV_vladimir_kosmin"
+		texturefile = "gfx/interface/ideas/idea_SOV_vladimir_kosmin.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SOV_vsevolod_ivanovich"
+		texturefile = "gfx/interface/ideas/idea_SOV_vsevolod_ivanovich.dds"
+	}
+
+}

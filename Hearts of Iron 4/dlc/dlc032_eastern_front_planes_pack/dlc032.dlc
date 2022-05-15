@@ -1,0 +1,9 @@
+name = "Eastern Front Planes Pack"
+path = "dlc/dlc032_eastern_front_planes_pack"
+steam_id = "1579991"
+pops_id = "hoi4_dlc032_eastern_front_planes_pack"
+affects_checksum = no
+affects_compatability = no
+third_party_content = no
+category = "unit_pack"
+checksum = "866f5cfea17b092d9e68ab664e80e9e8"

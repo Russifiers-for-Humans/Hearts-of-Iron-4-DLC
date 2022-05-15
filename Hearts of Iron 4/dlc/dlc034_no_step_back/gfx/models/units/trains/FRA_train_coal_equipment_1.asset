@@ -1,0 +1,20 @@
+animation = {
+	name = "train_coal_1_idle"
+	file = "train_coal_1_idle.anim"
+}
+
+animation = {
+	name = "train_coal_1_moving"
+	file = "train_coal_1_moving.anim"
+}
+
+entity = {
+	name = "FRA_train_coal_equipment_1_entity"
+	pdxmesh = "FRA_train_coal_equipment_1_mesh"
+	scale = 0.5
+
+	default_state = "idle"
+	
+	state = { name = "idle"	animation = "idle"
+	}
+}

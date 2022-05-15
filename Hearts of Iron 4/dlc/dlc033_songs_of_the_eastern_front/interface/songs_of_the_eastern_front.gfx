@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_eastern_front_album_art"
+		texturefile = "gfx/songs_of_the_eastern_front.dds"
+		noOfFrames = 2
+	}
+}

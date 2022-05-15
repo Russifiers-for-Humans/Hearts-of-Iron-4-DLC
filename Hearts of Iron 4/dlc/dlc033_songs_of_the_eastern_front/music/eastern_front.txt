@@ -1,0 +1,155 @@
+music_station = "eastern_front"
+
+music = {
+    song = "darkisthenight"
+    chance = {
+    	factor = 1
+    	modifier = {
+    		TAG = SOV
+    		factor = 3
+    	}
+    	modifier = {
+    		has_war = yes
+    		factor = 2
+    	}
+    }
+}
+music = {
+    song = "drumbun"
+    chance = {
+    	factor = 1
+    	modifier = {
+    		TAG = ROM
+    		factor = 3
+    	}
+    }
+}
+music = {
+    song = "hymnoftheussr"
+    chance = {
+    	factor = 1
+    	modifier = {
+    		TAG = SOV
+    		factor = 3
+    	}
+    	modifier = {
+    		NOT = {
+    			has_government = communism
+    		}
+    		factor = 0.5
+    	}
+    }
+}
+music = {
+    song = "lilimarlenesolo"
+    chance = {
+    	factor = 1
+    	modifier = {
+    		TAG = GER
+    		factor = 3
+    	}
+    	modifier = {
+    		has_war = yes
+    		factor = 2
+    	}
+    }
+}
+music = {
+    song = "matrosenlied"
+    chance = {
+    	factor = 1
+    	modifier = {
+    		TAG = GER
+    		factor = 3
+    	}
+    	modifier = {
+    		TAG = GER
+    		has_war_with = ENG
+    		factor = 2
+    	}
+    }
+}
+music = {
+    song = "mypierwszabrygada"
+    chance = {
+    	factor = 1
+    	modifier = {
+    		TAG = POL
+    		factor = 3
+    	}
+    }
+}
+music = {
+    song = "polishfirstdivision"
+    chance = {
+    	factor = 1
+    	modifier = {
+    		TAG = POL
+    		factor = 3
+    	}
+    }
+}
+music = {
+    song = "romanianpatrioticsong"
+    chance = {
+    	factor = 1
+    	modifier = {
+    		TAG = ROM
+    		factor = 3
+    	}
+    }
+}
+music = {
+    song = "soldatenlieder"
+    chance = {
+    	factor = 1
+    	modifier = {
+    		TAG = GER
+    		factor = 3
+    	}
+    	modifier = {
+    		has_war = yes
+    		factor = 2
+    	}
+    }
+}
+music = {
+    song = "trecetibatalioane"
+    chance = {
+    	factor = 1
+    	modifier = {
+    		TAG = ROM
+    		factor = 3
+    	}
+    }
+}
+music = {
+    song = "volkhovdrinkingsong"
+    chance = {
+    	factor = 1
+    	modifier = {
+    		TAG = SOV
+    		factor = 3
+    	}
+    }
+}
+music = {
+    song = "wachtamrhein"
+    chance = {
+    	factor = 1
+    	modifier = {
+    		TAG = GER
+    		factor = 3
+    	}
+    }
+}
+music = {
+    song = "whitearmyblackbaron"
+    chance = {
+    	factor = 1
+    	modifier = {
+    		TAG = SOV
+    		factor = 3
+    	}
+    }
+}

@@ -1,0 +1,9 @@
+name = "No Step Back Preorder Bonus"
+path = dlc/dlc035_no_step_back_preorder_bonus/
+steam_id = "1785140"
+pops_id = "hoi4_dlc035_no_step_back_preorder_bonus"
+affects_checksum = no
+affects_compatability = no
+third_party_content = no
+category = "music"
+checksum = "e5cc0cb20fc97099d21b454c5640f1db"

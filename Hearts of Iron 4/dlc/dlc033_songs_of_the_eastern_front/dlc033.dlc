@@ -1,0 +1,9 @@
+name = "Songs of the Eastern Front"
+path = "dlc/dlc033_songs_of_the_eastern_front"
+steam_id = "1579992"
+pops_id = "hoi4_dlc033_songs_of_the_eastern_front"
+affects_checksum = no
+affects_compatability = no
+third_party_content = no
+category = "music"
+checksum = "50aca16841a56ad608c88dd9e66fbfe7"

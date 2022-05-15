@@ -1,0 +1,1409 @@
+
+
+
+####################### FALLOFFS ################################
+
+falloff = {
+	name = falloff_airplane_mediumBoost
+
+	min_distance = 30
+	max_distance = 100
+	height_scale = 0.5
+}
+falloff = {
+	name = falloff_airplane_whistleLayer
+
+	min_distance = 30
+	max_distance = 50
+	height_scale = 0.5
+}
+
+
+
+
+####################### AIRCRAFT ################################
+
+category = {
+ name = "nonControllableEntities"
+ soundeffects = { 
+
+ 	## Engines
+ 	HUN_CAS_1
+ 	HUN_fighter_0
+ 	HUN_fighter_1
+ 	HUN_heavy_fighter_3
+ 	POL_cas_1
+ 	POL_cas_2
+ 	POL_fighter_1
+ 	POL_fighter_2
+ 	POL_fighter_3
+ 	POL_heavy_fighter_1
+ 	POL_tac_bomber_1
+ 	POL_tac_bomber_2
+ 	SOV_cas_1
+ 	SOV_cas_2
+ 	SOV_cas_3
+ 	SOV_fighter_0
+ 	SOV_fighter_1
+ 	SOV_fighter_2
+ 	SOV_naval_bomber_1
+ 	SOV_naval_bomber_2
+ 	SOV_naval_bomber_3
+ 	SOV_strategic_bomber_3
+ 	SOV_tac_bomber_0
+ 	SOV_tac_bomber_1
+ 	SOV_tac_bomber_3
+
+ 	## The re-hashed models or without known attributes
+ 	HUN_heavy_fighter_2
+	SOV_fighter_3
+	SOV_heavy_fighter_1
+	SOV_heavy_fighter_2
+	SOV_strat_bomber_1
+	SOV_strat_bomber_2
+	HUN_CAS_3
+
+	## Wistle layers
+ 	airplane_whistleLayer_light
+ 	airplane_whistleLayer_medium
+ 	airplane_whistleLayer_heavy
+ 	airplane_whistleLayer_veryHeavy
+
+ 	## Gun types
+ 	airplane_mg_7-62mm_twin
+	airplane_mg_7-62mm_quad
+	airplane_mg_7-92mm_twin
+	airplane_mg_7-92mm_quad
+	airplane_mg_12-7mm_twin
+	airplane_mg_cannon_20mm_twin
+	airplane_mg_cannon_20mm_quad
+	airplane_mg_cannon_30mm_twin
+ 	}
+}
+
+
+######################## SOUNDS #################################
+
+
+sound = 
+{
+	name = "HUN_CAS_1_1"
+	file = "HUN_CAS_1_1v3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "HUN_CAS_1_2"
+	file = "HUN_CAS_1_2v3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "HUN_CAS_1_3"
+	file = "HUN_CAS_1_3v3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "HUN_fighter_0_1"
+	file = "HUN_fighter_0_1v2.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "HUN_fighter_0_2"
+	file = "HUN_fighter_0_1v2.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "HUN_fighter_0_3"
+	file = "HUN_fighter_0_3v2.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "HUN_fighter_1_1"
+	file = "HUN_fighter_1_1.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "HUN_fighter_1_2"
+	file = "HUN_fighter_1_2.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "HUN_fighter_1_3"
+	file = "HUN_fighter_1_3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "HUN_heavy_fighter_3_1"
+	file = "HUN_heavy_fighter_3_1v3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "HUN_heavy_fighter_3_2"
+	file = "HUN_heavy_fighter_3_2v3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "HUN_heavy_fighter_3_3"
+	file = "HUN_heavy_fighter_3_3v3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_cas_1_1"
+	file = "SOV_cas_1_1.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_cas_1_2"
+	file = "SOV_cas_1_2.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_cas_1_3"
+	file = "SOV_cas_1_3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_cas_2_1"
+	file = "SOV_cas_2_1.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_cas_2_2"
+	file = "SOV_cas_2_2.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_cas_2_3"
+	file = "SOV_cas_2_3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_cas_3_1"
+	file = "SOV_cas_3_1.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_cas_3_2"
+	file = "SOV_cas_3_2.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_cas_3_3"
+	file = "SOV_cas_3_3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_fighter_0_1"
+	file = "SOV_fighter_0_1.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_fighter_0_2"
+	file = "SOV_fighter_0_2.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_fighter_0_3"
+	file = "SOV_fighter_0_3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_fighter_1_1"
+	file = "SOV_fighter_1_1.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_fighter_1_2"
+	file = "SOV_fighter_1_2.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_fighter_1_3"
+	file = "SOV_fighter_1_3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_fighter_2_1"
+	file = "SOV_fighter_2_1.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_fighter_2_2"
+	file = "SOV_fighter_2_2.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_fighter_2_3"
+	file = "SOV_fighter_2_3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_naval_bomber_1_1"
+	file = "SOV_naval_bomber_1_1.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_naval_bomber_1_2"
+	file = "SOV_naval_bomber_1_2.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_naval_bomber_1_3"
+	file = "SOV_naval_bomber_1_3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_naval_bomber_2_1"
+	file = "SOV_naval_bomber_2_1.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_naval_bomber_2_2"
+	file = "SOV_naval_bomber_2_2.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_naval_bomber_2_3"
+	file = "SOV_naval_bomber_2_3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_naval_bomber_3_1"
+	file = "SOV_naval_bomber_3_1.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_naval_bomber_3_2"
+	file = "SOV_naval_bomber_3_2.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_naval_bomber_3_3"
+	file = "SOV_naval_bomber_3_3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_strategic_bomber_3_1"
+	file = "SOV_strategic_bomber_3_1.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_strategic_bomber_3_2"
+	file = "SOV_strategic_bomber_3_2.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_strategic_bomber_3_3"
+	file = "SOV_strategic_bomber_3_3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_tac_bomber_0_1"
+	file = "SOV_tac_bomber_0_1.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_tac_bomber_0_2"
+	file = "SOV_tac_bomber_0_2.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_tac_bomber_0_3"
+	file = "SOV_tac_bomber_0_3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_tac_bomber_1_1"
+	file = "SOV_tac_bomber_1_1.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_tac_bomber_1_2"
+	file = "SOV_tac_bomber_1_2.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_tac_bomber_1_3"
+	file = "SOV_tac_bomber_1_3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_tac_bomber_3_1"
+	file = "SOV_tac_bomber_3_1.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_tac_bomber_3_2"
+	file = "SOV_tac_bomber_3_2.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "SOV_tac_bomber_3_3"
+	file = "SOV_tac_bomber_3_3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "POL_fighter_1_1"
+	file = "POL_fighter_1_1.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "POL_fighter_1_2"
+	file = "POL_fighter_1_2.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "POL_fighter_1_3"
+	file = "POL_fighter_1_3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "POL_fighter_2_1"
+	file = "POL_fighter_2_1.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "POL_fighter_2_2"
+	file = "POL_fighter_2_2.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "POL_fighter_2_3"
+	file = "POL_fighter_2_3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "POL_fighter_3_1"
+	file = "POL_fighter_3_1.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "POL_fighter_3_2"
+	file = "POL_fighter_3_2.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "POL_fighter_3_3"
+	file = "POL_fighter_3_3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "POL_heavy_fighter_1_1"
+	file = "POL_heavy_fighter_1_1.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "POL_heavy_fighter_1_2"
+	file = "POL_heavy_fighter_1_2.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "POL_heavy_fighter_1_3"
+	file = "POL_heavy_fighter_1_3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "POL_cas_1_1"
+	file = "POL_cas_1_1.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "POL_cas_1_2"
+	file = "POL_cas_1_2.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "POL_cas_1_3"
+	file = "POL_cas_1_3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "POL_cas_2_1"
+	file = "POL_cas_2_1.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "POL_cas_2_2"
+	file = "POL_cas_2_2.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "POL_cas_2_3"
+	file = "POL_cas_2_3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "POL_tac_bomber_1_1"
+	file = "POL_tac_bomber_1_1.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "POL_tac_bomber_1_2"
+	file = "POL_tac_bomber_1_2.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "POL_tac_bomber_1_3"
+	file = "POL_tac_bomber_1_3.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "POL_tac_bomber_2_1"
+	file = "POL_tac_bomber_2_1.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "POL_tac_bomber_2_2"
+	file = "POL_tac_bomber_2_2.wav"
+	volume = 0.5
+}
+sound = 
+{
+	name = "POL_tac_bomber_2_3"
+	file = "POL_tac_bomber_2_3.wav"
+	volume = 0.5
+}
+
+
+
+
+sound = 
+{
+	name = "airplane_whistleLayer_light_1_1"
+	file = "airplane_whistleLayer_light_1_1.wav"
+	volume = 0.4
+}
+sound = 
+{
+	name = "airplane_whistleLayer_light_1_2"
+	file = "airplane_whistleLayer_light_1_2.wav"
+	volume = 0.4
+}
+sound = 
+{
+	name = "airplane_whistleLayer_medium_1_1"
+	file = "airplane_whistleLayer_medium_1_1.wav"
+	volume = 0.4
+}
+sound = 
+{
+	name = "airplane_whistleLayer_medium_1_2"
+	file = "airplane_whistleLayer_medium_1_2.wav"
+	volume = 0.4
+}
+sound = 
+{
+	name = "airplane_whistleLayer_heavy_1_1"
+	file = "airplane_whistleLayer_heavy_1_1.wav"
+	volume = 0.4
+}
+sound = 
+{
+	name = "airplane_whistleLayer_heavy_1_2"
+	file = "airplane_whistleLayer_heavy_1_2.wav"
+	volume = 0.4
+}
+sound = 
+{
+	name = "airplane_whistleLayer_veryHeavy_1_1"
+	file = "airplane_whistleLayer_veryHeavy_1_1.wav"
+	volume = 0.4
+}
+sound = 
+{
+	name = "airplane_whistleLayer_veryHeavy_1_2"
+	file = "airplane_whistleLayer_veryHeavy_1_2.wav"
+	volume = 0.4
+}
+
+
+
+
+sound = 
+{
+	name = "airplane_mg_7-62mm_twin_1_1"
+	file = "airplane_mg_7-62mm_twin_1_1.wav"
+	volume = 0.55
+}
+sound = 
+{
+	name = "airplane_mg_7-62mm_quad_1_1"
+	file = "airplane_mg_7-62mm_quad_1_1.wav"
+	volume = 0.55
+}
+sound = 
+{
+	name = "airplane_mg_7-92mm_twin_1_1"
+	file = "airplane_mg_7-92mm_twin_1_1.wav"
+	volume = 0.55
+}
+sound = 
+{
+	name = "airplane_mg_7-92mm_quad_1_1"
+	file = "airplane_mg_7-92mm_quad_1_1.wav"
+	volume = 0.55
+}
+sound = 
+{
+	name = "airplane_mg_7-92mm_quad_1_2"
+	file = "airplane_mg_7-92mm_quad_1_2.wav"
+	volume = 0.55
+}
+sound = 
+{
+	name = "airplane_mg_12-7mm_twin_1_1"
+	file = "airplane_mg_12-7mm_twin_1_1.wav"
+	volume = 0.55
+}
+sound = 
+{
+	name = "airplane_mg_cannon_20mm_twin_1_1"
+	file = "airplane_mg_cannon_20mm_twin_1_1.wav"
+	volume = 0.55
+}
+sound = 
+{
+	name = "airplane_mg_cannon_20mm_twin_1_2"
+	file = "airplane_mg_cannon_20mm_twin_1_2.wav"
+	volume = 0.55
+}
+sound = 
+{
+	name = "airplane_mg_cannon_20mm_quad_1_1"
+	file = "airplane_mg_cannon_20mm_quad_1_1.wav"
+	volume = 0.55
+}
+sound = 
+{
+	name = "airplane_mg_cannon_30mm_twin_1_1"
+	file = "airplane_mg_cannon_30mm_twin_1_1.wav"
+	volume = 0.55
+}
+
+
+
+
+
+
+
+
+##################### SOUNDEFFECTS ##############################
+
+
+
+
+## Hungary ##
+
+soundeffect = {
+	name = HUN_CAS_1
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = HUN_CAS_1_1
+		sound = HUN_CAS_1_2
+		sound = HUN_CAS_1_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = HUN_fighter_0
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = HUN_fighter_0_1
+		sound = HUN_fighter_0_2
+		sound = HUN_fighter_0_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = HUN_fighter_1
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = HUN_fighter_1_1
+		sound = HUN_fighter_1_2
+		sound = HUN_fighter_1_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = HUN_heavy_fighter_3
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = HUN_heavy_fighter_3_1
+		sound = HUN_heavy_fighter_3_2
+		sound = HUN_heavy_fighter_3_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+
+
+
+
+
+
+
+
+
+
+
+
+## Poland ##
+
+
+soundeffect = {
+	name = POL_cas_1
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = POL_cas_1_1
+		sound = POL_cas_1_2
+		sound = POL_cas_1_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = POL_cas_2
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = POL_cas_2_1
+		sound = POL_cas_2_2
+		sound = POL_cas_2_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = POL_fighter_1
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = POL_fighter_1_1
+		sound = POL_fighter_1_2
+		sound = POL_fighter_1_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = POL_fighter_2
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = POL_fighter_2_1
+		sound = POL_fighter_2_2
+		sound = POL_fighter_2_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = POL_fighter_3
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = POL_fighter_3_1
+		sound = POL_fighter_3_2
+		sound = POL_fighter_3_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = POL_heavy_fighter_1
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = POL_heavy_fighter_1_1
+		sound = POL_heavy_fighter_1_2
+		sound = POL_heavy_fighter_1_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = POL_tac_bomber_1
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = POL_tac_bomber_1_1
+		sound = POL_tac_bomber_1_2
+		sound = POL_tac_bomber_1_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = POL_tac_bomber_2
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = POL_tac_bomber_2_1
+		sound = POL_tac_bomber_2_2
+		sound = POL_tac_bomber_2_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+
+
+
+
+
+
+
+
+## Soviet ##
+
+
+soundeffect = {
+	name = SOV_cas_1
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = SOV_cas_1_1
+		sound = SOV_cas_1_2
+		sound = SOV_cas_1_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = SOV_cas_2
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = SOV_cas_2_1
+		sound = SOV_cas_2_2
+		sound = SOV_cas_2_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = SOV_cas_3
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = SOV_cas_3_1
+		sound = SOV_cas_3_2
+		sound = SOV_cas_3_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = SOV_fighter_0
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = SOV_fighter_0_1
+		sound = SOV_fighter_0_2
+		sound = SOV_fighter_0_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = SOV_fighter_1
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = SOV_fighter_1_1
+		sound = SOV_fighter_1_2
+		sound = SOV_fighter_1_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = SOV_fighter_2
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = SOV_fighter_2_1
+		sound = SOV_fighter_2_2
+		sound = SOV_fighter_2_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = SOV_naval_bomber_1
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = SOV_naval_bomber_1_1
+		sound = SOV_naval_bomber_1_2
+		sound = SOV_naval_bomber_1_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = SOV_naval_bomber_2
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = SOV_naval_bomber_2_1
+		sound = SOV_naval_bomber_2_2
+		sound = SOV_naval_bomber_2_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = SOV_naval_bomber_3
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = SOV_naval_bomber_3_1
+		sound = SOV_naval_bomber_3_2
+		sound = SOV_naval_bomber_3_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = SOV_strategic_bomber_3
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = SOV_strategic_bomber_3_1
+		sound = SOV_strategic_bomber_3_2
+		sound = SOV_strategic_bomber_3_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = SOV_tac_bomber_0
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = SOV_tac_bomber_0_1
+		sound = SOV_tac_bomber_0_2
+		sound = SOV_tac_bomber_0_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = SOV_tac_bomber_1
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = SOV_tac_bomber_1_1
+		sound = SOV_tac_bomber_1_2
+		sound = SOV_tac_bomber_1_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = SOV_tac_bomber_3
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = SOV_tac_bomber_3_1
+		sound = SOV_tac_bomber_3_2
+		sound = SOV_tac_bomber_3_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+
+
+
+
+
+
+
+
+
+
+## Re-hashed art models (borrow from above soundeffects) ##
+
+soundeffect = {
+	name = HUN_heavy_fighter_2
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = HUN_heavy_fighter_3_1
+		sound = HUN_heavy_fighter_3_2
+		sound = HUN_heavy_fighter_3_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = SOV_fighter_3
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = SOV_fighter_2_1
+		sound = SOV_fighter_2_2
+		sound = SOV_fighter_2_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = SOV_heavy_fighter_1
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = POL_heavy_fighter_1_1
+		sound = POL_heavy_fighter_1_2
+		sound = POL_heavy_fighter_1_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = SOV_heavy_fighter_2
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = POL_heavy_fighter_1_1
+		sound = POL_heavy_fighter_1_2
+		sound = POL_heavy_fighter_1_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = SOV_strat_bomber_1
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = SOV_tac_bomber_3_1
+		sound = SOV_tac_bomber_3_2
+		sound = SOV_tac_bomber_3_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = SOV_strat_bomber_2
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = SOV_strategic_bomber_3_1
+		sound = SOV_strategic_bomber_3_2
+		sound = SOV_strategic_bomber_3_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	is3d = yes
+	volume = 0.5
+}
+soundeffect = {
+	name = HUN_CAS_3
+	falloff = "falloff_airplane_mediumBoost"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = HUN_CAS_1_1
+		sound = HUN_CAS_1_2
+		sound = HUN_CAS_1_3
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	is3d = yes
+	volume = 0.5
+}
+
+
+
+
+
+
+
+
+
+## Air Whistle Layers ##
+
+## Need files added, test with multiple spawned assets
+
+soundeffect = {
+	name = airplane_whistleLayer_light
+	falloff = "falloff_airplane_whistleLayer"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = airplane_whistleLayer_light_1_1
+		sound = airplane_whistleLayer_light_1_2
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	is3d = yes
+	volume = 0.6
+}
+soundeffect = {
+	name = airplane_whistleLayer_medium
+	falloff = "falloff_airplane_whistleLayer"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = airplane_whistleLayer_medium_1_1
+		sound = airplane_whistleLayer_medium_1_2
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	is3d = yes
+	volume = 0.6
+}
+soundeffect = {
+	name = airplane_whistleLayer_heavy
+	falloff = "falloff_airplane_whistleLayer"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = airplane_whistleLayer_heavy_1_1
+		sound = airplane_whistleLayer_heavy_1_2
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	is3d = yes
+	volume = 0.6
+}
+soundeffect = {
+	name = airplane_whistleLayer_veryHeavy
+	falloff = "falloff_airplane_whistleLayer"
+	loop = yes
+	random_sound_when_looping = no
+	sounds = {
+		sound = airplane_whistleLayer_veryHeavy_1_1
+		sound = airplane_whistleLayer_veryHeavy_1_2
+	}
+	max_audible = 6
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { -5.0 5.0 }
+	delay_random_offset = { 0.4 0.8 }
+	is3d = yes
+	volume = 0.6
+}
+
+
+
+
+
+
+
+
+## new Gun Fire ##
+
+soundeffect = {
+	name = airplane_mg_7-62mm_twin
+	falloff = "falloff_airplane_mediumBoost"
+	loop = no
+	sounds = {
+		sound = airplane_mg_7-62mm_twin_1_1
+	}
+	max_audible = 4
+	max_audible_behaviour = fail
+	is3d = yes
+	volume = 0.4
+}
+soundeffect = {
+	name = airplane_mg_7-62mm_quad
+	falloff = "falloff_airplane_mediumBoost"
+	loop = no
+	sounds = {
+		sound = airplane_mg_7-62mm_quad_1_1
+	}
+	max_audible = 4
+	max_audible_behaviour = fail
+	is3d = yes
+	volume = 0.4
+}
+soundeffect = {
+	name = airplane_mg_7-92mm_twin
+	falloff = "falloff_airplane_mediumBoost"
+	loop = no
+	sounds = {
+		sound = airplane_mg_7-92mm_twin_1_1
+	}
+	max_audible = 4
+	max_audible_behaviour = fail
+	is3d = yes
+	volume = 0.4
+}
+soundeffect = {
+	name = airplane_mg_7-92mm_quad
+	falloff = "falloff_airplane_mediumBoost"
+	loop = no
+	sounds = {
+		sound = airplane_mg_7-92mm_quad_1_1
+		sound = airplane_mg_7-92mm_quad_1_2
+	}
+	max_audible = 4
+	max_audible_behaviour = fail
+	is3d = yes
+	volume = 0.4
+}
+soundeffect = {
+	name = airplane_mg_12-7mm_twin
+	falloff = "falloff_airplane_mediumBoost"
+	loop = no
+	sounds = {
+		sound = airplane_mg_12-7mm_twin_1_1
+	}
+	max_audible = 4
+	max_audible_behaviour = fail
+	is3d = yes
+	volume = 0.4
+}
+soundeffect = {
+	name = airplane_mg_cannon_20mm_twin
+	falloff = "falloff_airplane_mediumBoost"
+	loop = no
+	sounds = {
+		sound = airplane_mg_cannon_20mm_twin_1_1
+		sound = airplane_mg_cannon_20mm_twin_1_2
+	}
+	max_audible = 4
+	max_audible_behaviour = fail
+	is3d = yes
+	volume = 0.4
+}
+soundeffect = {
+	name = airplane_mg_cannon_20mm_quad
+	falloff = "falloff_airplane_mediumBoost"
+	loop = no
+	sounds = {
+		sound = airplane_mg_cannon_20mm_quad_1_1
+	}
+	max_audible = 4
+	max_audible_behaviour = fail
+	is3d = yes
+	volume = 0.4
+}
+soundeffect = {
+	name = airplane_mg_cannon_30mm_twin
+	falloff = "falloff_airplane_mediumBoost"
+	loop = no
+	sounds = {
+		sound = airplane_mg_cannon_30mm_twin_1_1
+	}
+	max_audible = 4
+	max_audible_behaviour = fail
+	is3d = yes
+	volume = 0.4
+}
+
+
+
+
