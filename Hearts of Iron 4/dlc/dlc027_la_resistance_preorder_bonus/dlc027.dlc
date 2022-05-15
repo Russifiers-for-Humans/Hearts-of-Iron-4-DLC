@@ -1,0 +1,9 @@
+name = "La Resistance Preorder Bonus"
+path = "dlc/dlc027_la_resistance_preorder_bonus"
+steam_id = "1206030"
+pops_id = "hoi4_dlc027_la_resistance_preorder_bonus"
+affects_checksum = no
+affects_compatability = no
+third_party_content = no
+category = "music"
+checksum = "9fcee2e8f019d666a2a64a03367de781"

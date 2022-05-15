@@ -1,0 +1,23 @@
+music = {
+	name = "claustrophobic_march"
+	file = "claustrophobic_march.ogg"
+	volume = 0.57
+}
+
+music = {
+	name = "communist_america"
+	file = "communist_america.ogg"
+	volume = 0.59
+}
+
+music = {
+	name = "confederate_flags"
+	file = "confederate_flags.ogg"
+	volume = 0.62
+}
+
+music = {
+	name = "democratic_movements"
+	file = "democratic_movements.ogg"
+	volume = 0.63
+}

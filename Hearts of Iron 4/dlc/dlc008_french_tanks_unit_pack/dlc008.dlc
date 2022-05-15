@@ -1,0 +1,9 @@
+name = "French Tanks Unit Pack"
+path = "dlc/dlc008_french_tanks_unit_pack"
+steam_id = "460551"
+pops_id = "hoi4_dlc008_french_tanks_unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "9c5f45512892ab92f09f29db2754ce9b"
+third_party_content = no
+category="unit_pack"

@@ -1,0 +1,744 @@
+category = {
+ name = "Effects"
+ soundeffects = {
+
+ger_heavy_sp_artillery_fire
+ger_heavy_sp_artillery_moving
+ger_heavy_tank_destroyer_fire
+ger_heavy_tank_destroyer_moving
+ger_light_sp_anti_air_fire
+ger_light_sp_anti_air_moving
+ger_medium_sp_anti_air_1_fire
+ger_medium_sp_anti_air_1_moving
+ger_medium_sp_anti_air_2_fire
+ger_medium_sp_anti_air_2_moving
+ger_modern_sp_anti_air_0_fire
+ger_modern_sp_anti_air_0_moving
+ita_heavy_sp_artillery_fire
+ita_heavy_sp_artillery_moving
+ita_mechanized_moving
+jap_heavy_sp_artillery_0_fire
+jap_heavy_sp_artillery_0_moving
+jap_heavy_sp_artillery_1_fire
+jap_heavy_sp_artillery_1_moving
+jap_heavy_tank_destroyer_0_fire
+jap_heavy_tank_destroyer_0_moving
+jap_heavy_tank_destroyer_1_fire
+jap_heavy_tank_destroyer_1_moving
+jap_mechanized_vehicle_moving
+jap_modern_armor_fire
+jap_modern_armor_moving
+jap_super_heavy_armor_fire
+jap_super_heavy_armor_moving
+
+	}
+}
+
+
+#########################################################
+#														#
+#					     ASSETS			    			#
+#														#
+#########################################################
+
+sound = {
+	name = "ger_heavy_sp_artillery_fire_1"
+	file = "axis_tanks_assets/ger_heavy_sp_artillery_fire_1.wav"
+}
+
+sound = {
+	name = "ger_heavy_sp_artillery_fire_2"
+	file = "axis_tanks_assets/ger_heavy_sp_artillery_fire_2.wav"
+}
+
+sound = {
+	name = "ger_heavy_sp_artillery_fire_3"
+	file = "axis_tanks_assets/ger_heavy_sp_artillery_fire_3.wav"
+}
+
+sound = {
+	name = "ger_heavy_sp_artillery_moving"
+	file = "axis_tanks_assets/ger_heavy_sp_artillery_moving.wav"
+}
+
+sound = {
+	name = "ger_heavy_tank_destroyer_fire_1"
+	file = "axis_tanks_assets/ger_heavy_tank_destroyer_fire_1.wav"
+}
+
+sound = {
+	name = "ger_heavy_tank_destroyer_fire_2"
+	file = "axis_tanks_assets/ger_heavy_tank_destroyer_fire_2.wav"
+}
+
+sound = {
+	name = "ger_heavy_tank_destroyer_fire_3"
+	file = "axis_tanks_assets/ger_heavy_tank_destroyer_fire_3.wav"
+}
+
+sound = {
+	name = "ger_heavy_tank_destroyer_moving"
+	file = "axis_tanks_assets/ger_heavy_tank_destroyer_moving.wav"
+}
+
+sound = {
+	name = "ger_light_sp_anti_air_fire_1"
+	file = "axis_tanks_assets/ger_light_sp_anti_air_fire_1.wav"
+}
+
+sound = {
+	name = "ger_light_sp_anti_air_fire_2"
+	file = "axis_tanks_assets/ger_light_sp_anti_air_fire_2.wav"
+}
+
+sound = {
+	name = "ger_light_sp_anti_air_fire_3"
+	file = "axis_tanks_assets/ger_light_sp_anti_air_fire_3.wav"
+}
+
+sound = {
+	name = "ger_light_sp_anti_air_moving"
+	file = "axis_tanks_assets/ger_light_sp_anti_air_moving.wav"
+}
+
+sound = {
+	name = "ger_medium_sp_anti_air_1_fire_1"
+	file = "axis_tanks_assets/ger_medium_sp_anti_air_1_fire_1.wav"
+}
+
+sound = {
+	name = "ger_medium_sp_anti_air_1_fire_2"
+	file = "axis_tanks_assets/ger_medium_sp_anti_air_1_fire_2.wav"
+}
+
+sound = {
+	name = "ger_medium_sp_anti_air_1_fire_3"
+	file = "axis_tanks_assets/ger_medium_sp_anti_air_1_fire_3.wav"
+}
+
+sound = {
+	name = "ger_medium_sp_anti_air_1_moving"
+	file = "axis_tanks_assets/ger_medium_sp_anti_air_1_moving.wav"
+}
+
+sound = {
+	name = "ger_medium_sp_anti_air_2_fire_1"
+	file = "axis_tanks_assets/ger_medium_sp_anti_air_2_fire_1.wav"
+}
+
+sound = {
+	name = "ger_medium_sp_anti_air_2_fire_2"
+	file = "axis_tanks_assets/ger_medium_sp_anti_air_2_fire_2.wav"
+}
+
+sound = {
+	name = "ger_medium_sp_anti_air_2_fire_3"
+	file = "axis_tanks_assets/ger_medium_sp_anti_air_2_fire_3.wav"
+}
+
+sound = {
+	name = "ger_medium_sp_anti_air_2_moving"
+	file = "axis_tanks_assets/ger_medium_sp_anti_air_2_moving.wav"
+}
+
+sound = {
+	name = "ger_modern_sp_anti_air_0_fire_1"
+	file = "axis_tanks_assets/ger_modern_sp_anti_air_0_fire_1.wav"
+}
+
+sound = {
+	name = "ger_modern_sp_anti_air_0_fire_2"
+	file = "axis_tanks_assets/ger_modern_sp_anti_air_0_fire_2.wav"
+}
+
+sound = {
+	name = "ger_modern_sp_anti_air_0_fire_3"
+	file = "axis_tanks_assets/ger_modern_sp_anti_air_0_fire_3.wav"
+}
+
+sound = {
+	name = "ger_modern_sp_anti_air_0_moving"
+	file = "axis_tanks_assets/ger_modern_sp_anti_air_0_moving.wav"
+}
+
+sound = {
+	name = "ita_heavy_sp_artillery_fire_1"
+	file = "axis_tanks_assets/ita_heavy_sp_artillery_fire_1.wav"
+}
+
+sound = {
+	name = "ita_heavy_sp_artillery_fire_2"
+	file = "axis_tanks_assets/ita_heavy_sp_artillery_fire_2.wav"
+}
+
+sound = {
+	name = "ita_heavy_sp_artillery_fire_3"
+	file = "axis_tanks_assets/ita_heavy_sp_artillery_fire_3.wav"
+}
+
+sound = {
+	name = "ita_heavy_sp_artillery_moving"
+	file = "axis_tanks_assets/ita_heavy_sp_artillery_moving.wav"
+}
+
+sound = {
+	name = "ita_mechanized_moving"
+	file = "axis_tanks_assets/ita_mechanized_moving.wav"
+}
+
+sound = {
+	name = "jap_heavy_sp_artillery_0_fire_1"
+	file = "axis_tanks_assets/jap_heavy_sp_artillery_0_fire_1.wav"
+}
+
+sound = {
+	name = "jap_heavy_sp_artillery_0_fire_2"
+	file = "axis_tanks_assets/jap_heavy_sp_artillery_0_fire_2.wav"
+}
+
+sound = {
+	name = "jap_heavy_sp_artillery_0_fire_3"
+	file = "axis_tanks_assets/jap_heavy_sp_artillery_0_fire_3.wav"
+}
+
+sound = {
+	name = "jap_heavy_sp_artillery_0_moving"
+	file = "axis_tanks_assets/jap_heavy_sp_artillery_0_moving.wav"
+}
+
+sound = {
+	name = "jap_heavy_sp_artillery_1_fire_1"
+	file = "axis_tanks_assets/jap_heavy_sp_artillery_1_fire_1.wav"
+}
+
+sound = {
+	name = "jap_heavy_sp_artillery_1_fire_2"
+	file = "axis_tanks_assets/jap_heavy_sp_artillery_1_fire_2.wav"
+}
+
+sound = {
+	name = "jap_heavy_sp_artillery_1_moving"
+	file = "axis_tanks_assets/jap_heavy_sp_artillery_1_moving.wav"
+}
+
+sound = {
+	name = "jap_heavy_tank_destroyer_0_fire_1"
+	file = "axis_tanks_assets/jap_heavy_tank_destroyer_0_fire_1.wav"
+}
+
+sound = {
+	name = "jap_heavy_tank_destroyer_0_fire_2"
+	file = "axis_tanks_assets/jap_heavy_tank_destroyer_0_fire_2.wav"
+}
+
+sound = {
+	name = "jap_heavy_tank_destroyer_0_moving"
+	file = "axis_tanks_assets/jap_heavy_tank_destroyer_0_moving.wav"
+}
+
+sound = {
+	name = "jap_heavy_tank_destroyer_1_fire_1"
+	file = "axis_tanks_assets/jap_heavy_tank_destroyer_1_fire_1.wav"
+}
+
+sound = {
+	name = "jap_heavy_tank_destroyer_1_fire_2"
+	file = "axis_tanks_assets/jap_heavy_tank_destroyer_1_fire_2.wav"
+}
+
+sound = {
+	name = "jap_heavy_tank_destroyer_1_moving"
+	file = "axis_tanks_assets/jap_heavy_tank_destroyer_1_moving.wav"
+}
+
+sound = {
+	name = "jap_mechanized_vehicle_moving"
+	file = "axis_tanks_assets/jap_mechanized_vehicle_moving.wav"
+}
+
+sound = {
+	name = "jap_modern_armor_fire_1"
+	file = "axis_tanks_assets/jap_modern_armor_fire_1.wav"
+}
+
+sound = {
+	name = "jap_modern_armor_fire_2"
+	file = "axis_tanks_assets/jap_modern_armor_fire_2.wav"
+}
+
+sound = {
+	name = "jap_modern_armor_fire_3"
+	file = "axis_tanks_assets/jap_modern_armor_fire_3.wav"
+}
+
+sound = {
+	name = "jap_modern_armor_moving"
+	file = "axis_tanks_assets/jap_modern_armor_moving.wav"
+}
+
+sound = {
+	name = "jap_super_heavy_armor_fire_1"
+	file = "axis_tanks_assets/jap_super_heavy_armor_fire_1.wav"
+}
+
+sound = {
+	name = "jap_super_heavy_armor_fire_2"
+	file = "axis_tanks_assets/jap_super_heavy_armor_fire_2.wav"
+}
+
+sound = {
+	name = "jap_super_heavy_armor_moving"
+	file = "axis_tanks_assets/jap_super_heavy_armor_moving.wav"
+}
+
+
+#########################################################
+#														#
+#					  SOUNDEFFECTS		    			#
+#														#
+#########################################################
+
+##### GER
+
+soundeffect = {
+	name = "ger_heavy_sp_artillery_fire"
+	sounds = {
+		sound = "ger_heavy_sp_artillery_fire_1"
+		sound = "ger_heavy_sp_artillery_fire_2"
+		sound = "ger_heavy_sp_artillery_fire_3"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+
+	delay_random_offset = { 0.00 0.25 }
+	volume_random_offset = { -0.15 0.15}
+	playbackrate_random_offset = { -0.15 0.15 }
+}
+
+soundeffect = {
+	name = "ger_heavy_sp_artillery_moving"
+	volume = 0.5
+	sounds = {
+		sound = "ger_heavy_sp_artillery_moving"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3	
+	max_audible_behaviour = fail
+	loop = yes
+}
+
+soundeffect = {
+	name = "ger_heavy_tank_destroyer_fire"
+	sounds = {
+		sound = "ger_heavy_tank_destroyer_fire_1"
+		sound = "ger_heavy_tank_destroyer_fire_2"
+		sound = "ger_heavy_tank_destroyer_fire_3"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+
+	delay_random_offset = { 0.00 0.25 }
+	volume_random_offset = { -0.15 0.15}
+	playbackrate_random_offset = { -0.15 0.15 }
+}
+
+soundeffect = {
+	name = "ger_heavy_tank_destroyer_moving"
+	volume = 0.5
+	sounds = {
+		sound = "ger_heavy_tank_destroyer_moving"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+	loop = yes
+}
+
+soundeffect = {
+	name = "ger_light_sp_anti_air_fire"
+	sounds = {
+		sound = "ger_light_sp_anti_air_fire_1"
+		sound = "ger_light_sp_anti_air_fire_2"
+		sound = "ger_light_sp_anti_air_fire_3"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+
+	delay_random_offset = { 0.00 0.25 }
+	volume_random_offset = { -0.15 0.15}
+	playbackrate_random_offset = { -0.15 0.15 }
+}
+
+soundeffect = {
+	name = "ger_light_sp_anti_air_moving"
+	volume = 0.5
+	sounds = {
+		sound = "ger_light_sp_anti_air_moving"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+	loop = yes
+}
+
+soundeffect = {
+	name = "ger_medium_sp_anti_air_1_fire"
+	sounds = {
+		sound = "ger_medium_sp_anti_air_1_fire_1"
+		sound = "ger_medium_sp_anti_air_1_fire_2"
+		sound = "ger_medium_sp_anti_air_1_fire_3"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+
+	delay_random_offset = { 0.00 0.25 }
+	volume_random_offset = { -0.15 0.15}
+	playbackrate_random_offset = { -0.15 0.15 }
+}
+
+soundeffect = {
+	name = "ger_medium_sp_anti_air_1_moving"
+	volume = 0.5
+	sounds = {
+		sound = "ger_medium_sp_anti_air_1_moving"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+	loop = yes
+}
+
+soundeffect = {
+	name = "ger_medium_sp_anti_air_2_fire"
+	sounds = {
+		sound = "ger_medium_sp_anti_air_2_fire_1"
+		sound = "ger_medium_sp_anti_air_2_fire_2"
+		sound = "ger_medium_sp_anti_air_2_fire_3"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+
+	delay_random_offset = { 0.00 0.25 }
+	volume_random_offset = { -0.15 0.15}
+	playbackrate_random_offset = { -0.15 0.15 }
+}
+
+soundeffect = {
+	name = "ger_medium_sp_anti_air_2_moving"
+	volume = 0.5
+	sounds = {
+		sound = "ger_medium_sp_anti_air_2_moving"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+	loop = yes
+}
+
+soundeffect = {
+	name = "ger_modern_sp_anti_air_0_fire"
+	sounds = {
+		sound = "ger_modern_sp_anti_air_0_fire_1"
+		sound = "ger_modern_sp_anti_air_0_fire_2"
+		sound = "ger_modern_sp_anti_air_0_fire_3"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+
+	delay_random_offset = { 0.00 0.25 }
+	volume_random_offset = { -0.15 0.15}
+	playbackrate_random_offset = { -0.15 0.15 }
+}
+
+soundeffect = {
+	name = "ger_modern_sp_anti_air_0_moving"
+	volume = 0.5
+	sounds = {
+		sound = "ger_modern_sp_anti_air_0_moving"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+	loop = yes
+}
+
+##### ITA
+
+soundeffect = {
+	name = "ita_heavy_sp_artillery_fire"
+	sounds = {
+		sound = "ita_heavy_sp_artillery_fire_1"
+		sound = "ita_heavy_sp_artillery_fire_2"
+		sound = "ita_heavy_sp_artillery_fire_3"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+
+	delay_random_offset = { 0.00 0.25 }
+	volume_random_offset = { -0.15 0.15}
+	playbackrate_random_offset = { -0.15 0.15 }
+}
+
+soundeffect = {
+	name = "ita_heavy_sp_artillery_moving"
+	sounds = {
+		sound = "ita_heavy_sp_artillery_moving"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+	loop = yes
+}
+
+soundeffect = {
+	name = "ita_mechanized_moving"
+	volume = 0.5
+	sounds = {
+		sound = "ita_mechanized_moving"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+	loop = yes
+}
+
+##### JAP
+
+soundeffect = {
+	name = "jap_heavy_sp_artillery_0_fire"
+	sounds = {
+		sound = "jap_heavy_sp_artillery_0_fire_1"
+		sound = "jap_heavy_sp_artillery_0_fire_2"
+		sound = "jap_heavy_sp_artillery_0_fire_3"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+
+	delay_random_offset = { 0.00 0.25 }
+	volume_random_offset = { -0.15 0.15}
+	playbackrate_random_offset = { -0.15 0.15 }
+}
+
+soundeffect = {
+	name = "jap_heavy_sp_artillery_0_moving"
+	volume = 0.5
+	sounds = {
+		sound = "jap_heavy_sp_artillery_0_moving"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+	loop = yes
+}
+
+soundeffect = {
+	name = "jap_heavy_sp_artillery_1_fire"
+	sounds = {
+		sound = "jap_heavy_sp_artillery_1_fire_1"
+		sound = "jap_heavy_sp_artillery_1_fire_2"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+
+	delay_random_offset = { 0.00 0.25 }
+	volume_random_offset = { -0.15 0.15}
+	playbackrate_random_offset = { -0.15 0.15 }
+}
+
+soundeffect = {
+	name = "jap_heavy_sp_artillery_1_moving"
+	volume = 0.5
+	sounds = {
+		sound = "jap_heavy_sp_artillery_1_moving"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+	loop = yes
+}
+
+soundeffect = {
+	name = "jap_heavy_tank_destroyer_0_fire"
+	sounds = {
+		sound = "jap_heavy_tank_destroyer_0_fire_1"
+		sound = "jap_heavy_tank_destroyer_0_fire_2"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+
+	delay_random_offset = { 0.00 0.25 }
+	volume_random_offset = { -0.15 0.15}
+	playbackrate_random_offset = { -0.15 0.15 }
+}
+
+soundeffect = {
+	name = "jap_heavy_tank_destroyer_0_moving"
+	volume = 0.5
+	sounds = {
+		sound = "jap_heavy_tank_destroyer_0_moving"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+	loop = yes
+}
+
+soundeffect = {
+	name = "jap_heavy_tank_destroyer_1_fire"
+	sounds = {
+		sound = "jap_heavy_tank_destroyer_1_fire_1"
+		sound = "jap_heavy_tank_destroyer_1_fire_2"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+
+	delay_random_offset = { 0.00 0.25 }
+	volume_random_offset = { -0.15 0.15}
+	playbackrate_random_offset = { -0.15 0.15 }
+}
+
+soundeffect = {
+	name = "jap_heavy_tank_destroyer_1_moving"
+	volume = 0.5
+	sounds = {
+		sound = "jap_heavy_tank_destroyer_1_moving"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+	loop = yes
+}
+
+soundeffect = {
+	name = "jap_mechanized_vehicle_moving"
+	volume = 0.5
+	sounds = {
+		sound = "jap_mechanized_vehicle_moving"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+	loop = yes
+}
+
+soundeffect = {
+	name = "jap_modern_armor_fire"
+	sounds = {
+		sound = "jap_modern_armor_fire_1"
+		sound = "jap_modern_armor_fire_2"
+		sound = "jap_modern_armor_fire_3"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+
+	delay_random_offset = { 0.00 0.25 }
+	volume_random_offset = { -0.15 0.15}
+	playbackrate_random_offset = { -0.15 0.15 }
+}
+
+soundeffect = {
+	name = "jap_modern_armor_moving"
+	volume = 0.5
+	sounds = {
+		sound = "jap_modern_armor_moving"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+	loop = yes
+}
+
+soundeffect = {
+	name = "jap_super_heavy_armor_fire"
+	sounds = {
+		sound = "jap_super_heavy_armor_fire_1"
+		sound = "jap_super_heavy_armor_fire_2"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+
+	delay_random_offset = { 0.00 0.25 }
+	volume_random_offset = { -0.15 0.15}
+	playbackrate_random_offset = { -0.15 0.15 }
+}
+
+soundeffect = {
+	name = "jap_super_heavy_armor_moving"
+	volume = 0.5
+	sounds = {
+		sound = "jap_super_heavy_armor_moving"
+	}
+
+	falloff = "falloff_100"
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+	loop = yes
+}

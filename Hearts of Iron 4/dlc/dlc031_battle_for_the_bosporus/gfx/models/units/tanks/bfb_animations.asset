@@ -1,0 +1,264 @@
+########### Light
+
+animation = {
+	name = "bfb_neutrality_light_armor_idle_animation"
+	file = "bfb_neutrality_light_armor_idle.anim"
+}
+
+
+animation = {
+	name = "bfb_neutrality_light_armor_moving_animation"
+	file = "bfb_neutrality_light_armor_moving.anim"
+}
+
+animation = {
+	name = "bfb_neutrality_light_armor_attack_animation"
+	file = "bfb_neutrality_light_armor_attack.anim"
+}
+
+animation = {
+	name = "bfb_democratic_light_armor_idle_animation"
+	file = "bfb_democratic_light_armor_idle.anim"
+}
+
+
+animation = {
+	name = "bfb_democratic_light_armor_moving_animation"
+	file = "bfb_democratic_light_armor_moving.anim"
+}
+
+animation = {
+	name = "bfb_democratic_light_armor_attack_animation"
+	file = "bfb_democratic_light_armor_attack.anim"
+}
+
+animation = {
+	name = "bfb_communist_light_armor_idle_animation"
+	file = "bfb_communist_light_armor_idle.anim"
+}
+
+
+animation = {
+	name = "bfb_communist_light_armor_moving_animation"
+	file = "bfb_communist_light_armor_moving.anim"
+}
+
+animation = {
+	name = "bfb_communist_light_armor_attack_animation"
+	file = "bfb_communist_light_armor_attack.anim"
+}
+
+animation = {
+	name = "bfb_fascist_light_armor_idle_animation"
+	file = "bfb_fascist_light_armor_idle.anim"
+}
+
+
+animation = {
+	name = "bfb_fascist_light_armor_moving_animation"
+	file = "bfb_fascist_light_armor_moving.anim"
+}
+
+animation = {
+	name = "bfb_fascist_light_armor_attack_animation"
+	file = "bfb_fascist_light_armor_attack.anim"
+}
+
+########### Medium
+
+animation = {
+	name = "bfb_neutrality_medium_armor_idle_animation"
+	file = "bfb_neutrality_medium_armor_idle.anim"
+}
+
+
+animation = {
+	name = "bfb_neutrality_medium_armor_moving_animation"
+	file = "bfb_neutrality_medium_armor_moving.anim"
+}
+
+animation = {
+	name = "bfb_neutrality_medium_armor_attack_animation"
+	file = "bfb_neutrality_medium_armor_attack.anim"
+}
+
+animation = {
+	name = "bfb_democratic_medium_armor_idle_animation"
+	file = "bfb_democratic_medium_armor_idle.anim"
+}
+
+
+animation = {
+	name = "bfb_democratic_medium_armor_moving_animation"
+	file = "bfb_democratic_medium_armor_moving.anim"
+}
+
+animation = {
+	name = "bfb_democratic_medium_armor_attack_animation"
+	file = "bfb_democratic_medium_armor_attack.anim"
+}
+
+animation = {
+	name = "bfb_communist_medium_armor_idle_animation"
+	file = "bfb_communist_medium_armor_idle.anim"
+}
+
+
+animation = {
+	name = "bfb_communist_medium_armor_moving_animation"
+	file = "bfb_communist_medium_armor_moving.anim"
+}
+
+animation = {
+	name = "bfb_communist_medium_armor_attack_animation"
+	file = "bfb_communist_medium_armor_attack.anim"
+}
+animation = {
+	name = "bfb_fascist_medium_armor_idle_animation"
+	file = "bfb_fascist_medium_armor_idle.anim"
+}
+
+
+animation = {
+	name = "bfb_fascist_medium_armor_moving_animation"
+	file = "bfb_fascist_medium_armor_moving.anim"
+}
+
+animation = {
+	name = "bfb_fascist_medium_armor_attack_animation"
+	file = "bfb_fascist_medium_armor_attack.anim"
+}
+
+########### Heavy
+
+animation = {
+	name = "bfb_neutrality_heavy_armor_idle_animation"
+	file = "bfb_neutrality_heavy_armor_idle.anim"
+}
+
+
+animation = {
+	name = "bfb_neutrality_heavy_armor_moving_animation"
+	file = "bfb_neutrality_heavy_armor_moving.anim"
+}
+
+animation = {
+	name = "bfb_neutrality_heavy_armor_attack_animation"
+	file = "bfb_neutrality_heavy_armor_attack.anim"
+}
+
+animation = {
+	name = "bfb_democratic_heavy_armor_idle_animation"
+	file = "bfb_democratic_heavy_armor_idle.anim"
+}
+
+
+animation = {
+	name = "bfb_democratic_heavy_armor_moving_animation"
+	file = "bfb_democratic_heavy_armor_moving.anim"
+}
+
+animation = {
+	name = "bfb_democratic_heavy_armor_attack_animation"
+	file = "bfb_democratic_heavy_armor_attack.anim"
+}
+
+animation = {
+	name = "bfb_communist_heavy_armor_idle_animation"
+	file = "bfb_communist_heavy_armor_idle.anim"
+}
+
+
+animation = {
+	name = "bfb_communist_heavy_armor_moving_animation"
+	file = "bfb_communist_heavy_armor_moving.anim"
+}
+
+animation = {
+	name = "bfb_communist_heavy_armor_attack_animation"
+	file = "bfb_communist_heavy_armor_attack.anim"
+}
+animation = {
+	name = "bfb_fascist_heavy_armor_idle_animation"
+	file = "bfb_fascist_heavy_armor_idle.anim"
+}
+
+
+animation = {
+	name = "bfb_fascist_heavy_armor_moving_animation"
+	file = "bfb_fascist_heavy_armor_moving.anim"
+}
+
+animation = {
+	name = "bfb_fascist_heavy_armor_attack_animation"
+	file = "bfb_fascist_heavy_armor_attack.anim"
+}
+
+########### Modern
+
+animation = {
+	name = "bfb_democratic_modern_armor_idle_animation"
+	file = "bfb_democratic_modern_armor_idle.anim"
+}
+
+
+animation = {
+	name = "bfb_democratic_modern_armor_moving_animation"
+	file = "bfb_democratic_modern_armor_moving.anim"
+}
+
+animation = {
+	name = "bfb_democratic_modern_armor_attack_animation"
+	file = "bfb_democratic_modern_armor_attack.anim"
+}
+
+animation = {
+	name = "bfb_communist_modern_armor_idle_animation"
+	file = "bfb_communist_modern_armor_idle.anim"
+}
+
+
+animation = {
+	name = "bfb_communist_modern_armor_moving_animation"
+	file = "bfb_communist_modern_armor_moving.anim"
+}
+
+animation = {
+	name = "bfb_communist_modern_armor_attack_animation"
+	file = "bfb_communist_modern_armor_attack.anim"
+}
+animation = {
+	name = "bfb_fascist_modern_armor_idle_animation"
+	file = "bfb_fascist_modern_armor_idle.anim"
+}
+
+
+animation = {
+	name = "bfb_fascist_modern_armor_moving_animation"
+	file = "bfb_fascist_modern_armor_moving.anim"
+}
+
+animation = {
+	name = "bfb_fascist_modern_armor_attack_animation"
+	file = "bfb_fascist_modern_armor_attack.anim"
+}
+
+########### Super Heavy
+
+animation = {
+	name = "bfb_fascist_super_heavy_armor_idle_animation"
+	file = "bfb_fascist_super_heavy_armor_idle.anim"
+}
+
+
+animation = {
+	name = "bfb_fascist_super_heavy_armor_moving_animation"
+	file = "bfb_fascist_super_heavy_armor_moving.anim"
+}
+
+animation = {
+	name = "bfb_fascist_super_heavy_armor_attack_animation"
+	file = "bfb_fascist_super_heavy_armor_attack.anim"
+}
+
+

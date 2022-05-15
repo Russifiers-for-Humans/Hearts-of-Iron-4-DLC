@@ -1,0 +1,188 @@
+spriteTypes = {
+
+		
+	### Germany
+	
+	SpriteType = {
+		name = "GFX_GER_improved_light_td_medium"
+		texturefile = "gfx/interface/technologies/ger_improved_light_td.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_GER_basic_light_td_medium"
+		texturefile = "gfx/interface/technologies/ger_basic_light_td.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_GER_basic_light_art_medium"
+		texturefile = "gfx/interface/technologies/ger_light_tank_artillery_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_GER_basic_light_spaa_medium"
+		texturefile = "gfx/interface/technologies/ger_light_tank_aa_1.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_GER_improved_light_art_medium"
+		texturefile = "gfx/interface/technologies/ger_improved_light_art.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_GER_basic_medium_td_medium"
+		texturefile = "gfx/interface/technologies/ger_basic_medium_td.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_GER_basic_medium_art_medium"
+		texturefile = "gfx/interface/technologies/ger_basic_medium_art.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_GER_improved_medium_td_medium"
+		texturefile = "gfx/interface/technologies/ger_improved_medium_td.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_GER_improved_medium_art_medium"
+		texturefile = "gfx/interface/technologies/ger_improved_medium_art.dds"
+	}
+	SpriteType = {
+		name = "GFX_GER_improved_heavy_art_medium"
+		texturefile = "gfx/interface/technologies/ger_heavy_tank_artillery_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_GER_advanced_medium_art_medium"
+		texturefile = "gfx/interface/technologies/ger_medium_tank_artillery_3.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_GER_improved_medium_spaa_medium"
+		texturefile = "gfx/interface/technologies/ger_improved_medium_spaa.dds"
+	}
+	SpriteType = {
+		name = "GFX_GER_basic_medium_spaa_medium"
+		texturefile = "gfx/interface/technologies/ger_medium_tank_aa_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_GER_advanced_medium_spaa_medium"
+		texturefile = "gfx/interface/technologies/ger_medium_tank_aa_3.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_GER_advanced_medium_td_medium"
+		texturefile = "gfx/interface/technologies/ger_advanced_medium_td.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_GER_basic_heavy_td_medium"
+		texturefile = "gfx/interface/technologies/ger_heavy_tank_destroyer_1.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_GER_improved_heavy_td_medium"
+		texturefile = "gfx/interface/technologies/ger_improved_heavy_td.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_GER_advanced_heavy_td_medium"
+		texturefile = "gfx/interface/technologies/ger_advanced_heavy_td.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_GER_modern_spaa_medium"
+		texturefile = "gfx/interface/technologies/ger_modern_tank_aa_1.dds"
+	}
+
+	###Italy
+
+	SpriteType = {
+		name = "GFX_ITA_improved_heavy_art_medium"
+		texturefile = "gfx/interface/technologies/ita_heavy_tank_artillery_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_ITA_basic_light_td_medium"
+		texturefile = "gfx/interface/technologies/ita_light_tank_destroyer_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_ITA_improved_light_td_medium"
+		texturefile = "gfx/interface/technologies/ita_light_tank_destroyer_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_ITA_advanced_medium_spaa_medium"
+		texturefile = "gfx/interface/technologies/ita_medium_tank_aa_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_ITA_improved_medium_art_medium"
+		texturefile = "gfx/interface/technologies/ita_medium_tank_artillery_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_ITA_advanced_medium_art_medium"
+		texturefile = "gfx/interface/technologies/ita_medium_tank_artillery_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_ITA_improved_medium_td_medium"
+		texturefile = "gfx/interface/technologies/ita_medium_tank_destroyer_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_ITA_advanced_medium_td_medium"
+		texturefile = "gfx/interface/technologies/ita_medium_tank_destroyer_3.dds"
+	}
+	###Japan
+	SpriteType = {
+		name = "GFX_JAP_basic_heavy_art_medium"
+		texturefile = "gfx/interface/technologies/jap_heavy_tank_artillery_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_JAP_improved_heavy_art_medium"
+		texturefile = "gfx/interface/technologies/jap_heavy_tank_artillery_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_JAP_basic_heavy_td_medium"
+		texturefile = "gfx/interface/technologies/jap_heavy_tank_destroyer_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_JAP_improved_heavy_td_medium"
+		texturefile = "gfx/interface/technologies/jap_heavy_tank_destroyer_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_JAP_improved_light_spaa_medium"
+		texturefile = "gfx/interface/technologies/jap_light_tank_aa_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_JAP_advanced_light_spaa_medium"
+		texturefile = "gfx/interface/technologies/jap_light_tank_aa_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_JAP_advanced_light_art_medium"
+		texturefile = "gfx/interface/technologies/jap_light_tank_artillery_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_JAP_advanced_light_td_medium"
+		texturefile = "gfx/interface/technologies/jap_light_tank_destroyer_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_JAP_basic_medium_art_medium"
+		texturefile = "gfx/interface/technologies/jap_medium_tank_artillery_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_JAP_improved_medium_art_medium"
+		texturefile = "gfx/interface/technologies/jap_medium_tank_artillery_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_JAP_advanced_medium_art_medium"
+		texturefile = "gfx/interface/technologies/jap_medium_tank_artillery_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_JAP_basic_medium_td_medium"
+		texturefile = "gfx/interface/technologies/jap_medium_tank_destroyer_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_JAP_improved_medium_td_medium"
+		texturefile = "gfx/interface/technologies/jap_medium_tank_destroyer_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_JAP_advanced_medium_td_medium"
+		texturefile = "gfx/interface/technologies/jap_medium_tank_destroyer_3.dds"
+	}
+}
+

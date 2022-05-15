@@ -1,0 +1,103 @@
+category = {
+ name = "Effects"
+ soundeffects = {
+ 	command_power_ability_offensive
+ 	command_power_ability_defensive
+ 	command_power_ability_special
+ 	command_power_ability_over
+ 	map_ping_sound_offensive
+ 	map_ping_sound_defensive
+	}
+}
+
+#########################################################
+#														#
+#					     ASSETS			    			#
+#														#
+#########################################################
+
+sound = {
+	name = "command_power_ability_offensive_01"
+	file = "wtt_audio_assets/command_power_ability_offensive_01.wav"
+}
+sound = {
+	name = "command_power_ability_defensive_01"
+	file = "wtt_audio_assets/command_power_ability_defensive_01.wav"
+}
+sound = {
+	name = "command_power_ability_special_01"
+	file = "wtt_audio_assets/command_power_ability_special_01.wav"
+}
+sound = {
+	name = "command_power_ability_over_01"
+	file = "wtt_audio_assets/command_power_ability_over_01.wav"
+}
+
+######### MAP PING
+sound = {
+	name = "map_ping_attack_01"
+	file = "wtt_audio_assets/map_ping_attack_01.wav"
+}
+sound = {
+	name = "map_ping_defend_01"
+	file = "wtt_audio_assets/map_ping_defend_01.wav"
+}
+
+
+
+#########################################################
+#														#
+#					  SOUNDEFFECTS		    			#
+#														#
+#########################################################
+
+soundeffect = {
+	name = "command_power_ability_offensive"
+	volume = 0.75
+	sounds = {
+		sound = "command_power_ability_offensive_01"
+	}
+}
+soundeffect = {
+	name = "command_power_ability_defensive"
+	volume = 0.9
+	sounds = {
+		sound = "command_power_ability_defensive_01"
+	}
+}
+soundeffect = {
+	name = "command_power_ability_special"
+	volume = 0.93
+	sounds = {
+		sound = "command_power_ability_special_01"
+	}
+}
+soundeffect = {
+	name = "command_power_ability_over"
+	volume = 0.15
+	sounds = {
+		sound = "command_power_ability_over_01"
+	}
+}
+
+######## MAP PING
+
+soundeffect = {
+	name = "map_ping_sound_offensive"
+	sounds = {
+		sound = "map_ping_attack_01"
+	}
+	volume = 0.9
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+soundeffect = {
+	name = "map_ping_sound_defensive"
+	sounds = {
+		sound = "map_ping_defend_01"
+	}
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+

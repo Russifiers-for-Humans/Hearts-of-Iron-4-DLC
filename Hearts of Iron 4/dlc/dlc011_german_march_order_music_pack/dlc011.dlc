@@ -1,0 +1,9 @@
+name = "German March Order Music Pack"
+path = "dlc/dlc011_german_march_order_music_pack"
+steam_id = "460557"
+pops_id = "hoi4_dlc011_german_march_order_music_pack"
+affects_checksum = no
+affects_compatability = no
+third_party_content = no
+category= "music"
+checksum = "2a8cd73c65803561083946224a06337f"

@@ -1,0 +1,12 @@
+animation = {
+	name = "SPR_light_tank_1_attack_animation"
+	file = "SPR_light_tank_1_attack.anim"
+}
+animation = {
+	name = "SPR_light_tank_1_idle_animation"
+	file = "SPR_light_tank_1_idle.anim"
+}
+animation = {
+	name = "SPR_light_tank_1_moving_animation"
+	file = "SPR_light_tank_1_moving.anim"
+}

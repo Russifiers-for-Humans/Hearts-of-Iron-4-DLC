@@ -1,0 +1,17 @@
+music = {
+	name = "battleofwuhan"
+	file = "battleofwuhan.ogg"
+	volume = 0.55
+}
+
+music = {
+	name = "empireofthesun"
+	file = "empireofthesun.ogg"
+	volume = 0.88
+}
+
+music = {
+	name = "warofresistance"
+	file = "warofresistance.ogg"
+	volume = 0.54
+}

@@ -1,0 +1,238 @@
+spriteTypes = {
+
+	# technologies we need to override in DLC go in this file
+
+	### ENGLAND
+	
+	SpriteType = {
+		name = "GFX_ENG_advanced_light_art_medium"
+		texturefile = "gfx/interface/technologies/ENG_advanced_light_tank_artillery.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_ENG_advanced_light_td_medium"
+		texturefile = "gfx/interface/technologies/ENG_advanced_light_tank_destroyer.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_ENG_advanced_medium_art_medium"
+		texturefile = "gfx/interface/technologies/ENG_advanced_medium_tank_artillery.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_ENG_basic_light_td_medium"
+		texturefile = "gfx/interface/technologies/ENG_basic_light_tank_destroyer.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_ENG_basic_medium_spaa_medium"
+		texturefile = "gfx/interface/technologies/ENG_basic_medium_tank_aa.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_ENG_improved_heavy_art_medium"
+		texturefile = "gfx/interface/technologies/ENG_improved_heavy_tank_artillery.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_ENG_improved_medium_spaa_medium"
+		texturefile = "gfx/interface/technologies/ENG_improved_medium_tank_aa.dds"
+	}
+
+	### FRANCE
+
+	SpriteType = {
+		name = "GFX_FRA_improved_medium_td_medium"
+		texturefile = "gfx/interface/technologies/FRA_improved_medium_tank_destroyer.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_FRA_advanced_light_art_medium"
+		texturefile = "gfx/interface/technologies/FRA_advanced_light_tank_artillery.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_FRA_advanced_light_td_medium"
+		texturefile = "gfx/interface/technologies/FRA_advanced_light_tank_destroyer.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_FRA_basic_heavy_art_medium"
+		texturefile = "gfx/interface/technologies/FRA_basic_heavy_tank_artillery.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_FRA_basic_medium_art_medium"
+		texturefile = "gfx/interface/technologies/FRA_basic_medium_tank_artillery.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_FRA_basic_medium_td_medium"
+		texturefile = "gfx/interface/technologies/FRA_basic_medium_tank_destroyer.dds"	
+	}
+
+	SpriteType = {
+		name = "GFX_FRA_improved_light_td_medium"
+		texturefile = "gfx/interface/technologies/FRA_improved_light_tank_destroyer.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_FRA_improved_medium_art_medium"
+		texturefile = "gfx/interface/technologies/FRA_improved_medium_tank_artillery.dds"
+	}
+
+	### SOV
+
+	SpriteType = {
+		name = "GFX_SOV_advanced_heavy_art_medium"
+		texturefile = "gfx/interface/technologies/SOV_advanced_heavy_tank_artillery.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_SOV_advanced_heavy_td_medium"
+		texturefile = "gfx/interface/technologies/SOV_advanced_heavy_tank_destroyer.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_SOV_advanced_light_art_medium"
+		texturefile = "gfx/interface/technologies/SOV_advanced_light_tank_artillery.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_SOV_advanced_light_td_medium"
+		texturefile = "gfx/interface/technologies/SOV_advanced_light_tank_destroyer.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_SOV_advanced_medium_spaa_medium"
+		texturefile = "gfx/interface/technologies/SOV_advanced_medium_tank_aa.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_SOV_advanced_medium_td_medium"
+		texturefile = "gfx/interface/technologies/SOV_advanced_medium_tank_destroyer.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_SOV_basic_heavy_art_medium"
+		texturefile = "gfx/interface/technologies/SOV_basic_heavy_tank_artillery.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_SOV_basic_light_td_medium"
+		texturefile = "gfx/interface/technologies/SOV_basic_light_tank_destroyer.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_SOV_basic_medium_spaa_medium"
+		texturefile = "gfx/interface/technologies/SOV_basic_medium_tank_aa.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_SOV_improved_light_art_medium"
+		texturefile = "gfx/interface/technologies/SOV_improved_light_tank_artillery.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_SOV_improved_light_td_medium"
+		texturefile = "gfx/interface/technologies/SOV_improved_light_tank_destroyer.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_SOV_improved_medium_art_medium"
+		texturefile = "gfx/interface/technologies/SOV_improved_medium_tank_artillery.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_SOV_improved_medium_td_medium"
+		texturefile = "gfx/interface/technologies/SOV_improved_medium_tank_destroyer.dds"
+	}
+
+	### USA
+
+	SpriteType = {
+		name = "GFX_USA_advanced_light_spaa_medium"
+		texturefile = "gfx/interface/technologies/USA_advanced_light_tank_aa.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_USA_advanced_light_td_medium"
+		texturefile = "gfx/interface/technologies/USA_advanced_light_tank_destroyer.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_USA_advanced_medium_art_medium"
+		texturefile = "gfx/interface/technologies/USA_advanced_medium_tank_artillery.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_USA_advanced_medium_td_medium"
+		texturefile = "gfx/interface/technologies/USA_advanced_medium_tank_destroyer.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_USA_basic_heavy_td_medium"
+		texturefile = "gfx/interface/technologies/USA_basic_heavy_tank_destroyer.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_USA_basic_light_art_medium"
+		texturefile = "gfx/interface/technologies/USA_basic_light_tank_artillery.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_USA_basic_light_td_medium"
+		texturefile = "gfx/interface/technologies/USA_basic_light_tank_destroyer.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_USA_basic_medium_spaa_medium"
+		texturefile = "gfx/interface/technologies/USA_basic_medium_tank_aa.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_USA_basic_medium_art_medium"
+		texturefile = "gfx/interface/technologies/USA_basic_medium_tank_artillery.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_USA_basic_medium_td_medium"
+		texturefile = "gfx/interface/technologies/USA_basic_medium_tank_destroyer.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_USA_improved_heavy_art_medium"
+		texturefile = "gfx/interface/technologies/USA_improved_heavy_tank_artillery.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_USA_improved_light_spaa_medium"
+		texturefile = "gfx/interface/technologies/USA_improved_light_tank_aa.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_USA_improved_light_art_medium"
+		texturefile = "gfx/interface/technologies/USA_improved_light_tank_artillery.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_USA_improved_light_td_medium"
+		texturefile = "gfx/interface/technologies/USA_improved_light_tank_destroyer.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_USA_improved_medium_spaa_medium"
+		texturefile = "gfx/interface/technologies/USA_improved_medium_tank_aa.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_USA_improved_medium_art_medium"
+		texturefile = "gfx/interface/technologies/USA_improved_medium_tank_artillery.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_USA_improved_medium_td_medium"
+		texturefile = "gfx/interface/technologies/USA_improved_medium_tank_destroyer.dds"	
+	}
+
+	

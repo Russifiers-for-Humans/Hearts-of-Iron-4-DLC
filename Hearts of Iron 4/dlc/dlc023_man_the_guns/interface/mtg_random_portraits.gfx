@@ -1,0 +1,252 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_Portrait_Africa_Generic_navy_5"
+		texturefile = "gfx/leaders/Africa/Portrait_Africa_Generic_navy_5.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Africa_Generic_navy_5_small"
+		texturefile = "gfx/interface/ideas/idea_africa_generic_navy_5.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_Portrait_Africa_Generic_navy_6"
+		texturefile = "gfx/leaders/Africa/Portrait_Africa_Generic_navy_6.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Africa_Generic_navy_6_small"
+		texturefile = "gfx/interface/ideas/idea_africa_generic_navy_6.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_portrait_arabia_generic_navy_3"
+		texturefile = "gfx/leaders/Arabia/portrait_arabia_generic_navy_3.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_arabia_generic_navy_3_small"
+		texturefile = "gfx/interface/ideas/idea_arabia_generic_navy_3.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_portrait_arabia_generic_navy_4"
+		texturefile = "gfx/leaders/Arabia/portrait_arabia_generic_navy_4.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_arabia_generic_navy_4_small"
+		texturefile = "gfx/interface/ideas/idea_arabia_generic_navy_4.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_portrait_arabia_generic_navy_5"
+		texturefile = "gfx/leaders/Arabia/portrait_arabia_generic_navy_5.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_arabia_generic_navy_5_small"
+		texturefile = "gfx/interface/ideas/idea_arabia_generic_navy_5.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_portrait_asia_generic_navy_10"
+		texturefile = "gfx/leaders/Asia/portrait_asia_generic_navy_10.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_asia_generic_navy_10_small"
+		texturefile = "gfx/interface/ideas/idea_asia_generic_navy_10.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_portrait_asia_generic_navy_6"
+		texturefile = "gfx/leaders/Asia/portrait_asia_generic_navy_6.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_asia_generic_navy_6_small"
+		texturefile = "gfx/interface/ideas/idea_asia_generic_navy_6.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_portrait_asia_generic_navy_7"
+		texturefile = "gfx/leaders/Asia/portrait_asia_generic_navy_7.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_asia_generic_navy_7_small"
+		texturefile = "gfx/interface/ideas/idea_asia_generic_navy_7.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_portrait_asia_generic_navy_8"
+		texturefile = "gfx/leaders/Asia/portrait_asia_generic_navy_8.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_asia_generic_navy_8_small"
+		texturefile = "gfx/interface/ideas/idea_asia_generic_navy_8.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_portrait_asia_generic_navy_9"
+		texturefile = "gfx/leaders/Asia/portrait_asia_generic_navy_9.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_asia_generic_navy_9_small"
+		texturefile = "gfx/interface/ideas/idea_asia_generic_navy_9.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_portrait_europe_generic_navy_11"
+		texturefile = "gfx/leaders/Europe/portrait_europe_generic_navy_11.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_europe_generic_navy_11_small"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_navy_11.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_portrait_europe_generic_navy_12"
+		texturefile = "gfx/leaders/Europe/portrait_europe_generic_navy_12.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_europe_generic_navy_12_small"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_navy_12.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_portrait_europe_generic_navy_13"
+		texturefile = "gfx/leaders/Europe/portrait_europe_generic_navy_13.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_europe_generic_navy_13_small"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_navy_13.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_portrait_europe_generic_navy_14"
+		texturefile = "gfx/leaders/Europe/portrait_europe_generic_navy_14.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_europe_generic_navy_14_small"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_navy_14.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_portrait_europe_generic_navy_15"
+		texturefile = "gfx/leaders/Europe/portrait_europe_generic_navy_15.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_europe_generic_navy_15_small"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_navy_15.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_portrait_europe_generic_navy_16"
+		texturefile = "gfx/leaders/Europe/portrait_europe_generic_navy_16.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_europe_generic_navy_16_small"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_navy_16.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_portrait_europe_generic_navy_4"
+		texturefile = "gfx/leaders/Europe/portrait_europe_generic_navy_4.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_europe_generic_navy_4_small"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_navy_4.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_portrait_europe_generic_navy_5"
+		texturefile = "gfx/leaders/Europe/portrait_europe_generic_navy_5.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_europe_generic_navy_5_small"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_navy_5.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_portrait_europe_generic_navy_6"
+		texturefile = "gfx/leaders/Europe/portrait_europe_generic_navy_6.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_europe_generic_navy_6_small"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_navy_6.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_portrait_europe_generic_navy_7"
+		texturefile = "gfx/leaders/Europe/portrait_europe_generic_navy_7.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_europe_generic_navy_7_small"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_navy_7.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_portrait_india_generic_navy_17"
+		texturefile = "gfx/leaders/India/portrait_india_generic_navy_17.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_india_generic_navy_17_small"
+		texturefile = "gfx/interface/ideas/idea_india_generic_navy_17.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_portrait_india_generic_navy_18"
+		texturefile = "gfx/leaders/India/portrait_india_generic_navy_18.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_india_generic_navy_18_small"
+		texturefile = "gfx/interface/ideas/idea_india_generic_navy_18.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_south_america_generic_land_20"
+		texturefile = "gfx/leaders/South America/portrait_south_america_generic_land_20.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_south_america_generic_land_20_small"
+		texturefile = "gfx/interface/ideas/idea_south_america_generic_land_20.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_portrait_south_america_generic_navy_19"
+		texturefile = "gfx/leaders/South America/portrait_south_america_generic_navy_19.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_south_america_generic_navy_19_small"
+		texturefile = "gfx/interface/ideas/idea_south_america_generic_navy_19.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_portrait_south_america_generic_navy_21"
+		texturefile = "gfx/leaders/South America/portrait_south_america_generic_navy_21.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_south_america_generic_navy_21_small"
+		texturefile = "gfx/interface/ideas/idea_south_america_generic_navy_21.dds"
+	}
+
+
+
+}

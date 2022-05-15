@@ -1,0 +1,9 @@
+name = "Allied Armor Pack"
+path = "dlc/dlc029_allied_armor_pack"
+steam_id = "1317230"
+pops_id = "hoi4_dlc029_allied_armor_pack"
+affects_checksum = no
+affects_compatability = no
+third_party_content = no
+category = "unit_pack"
+checksum = "23ec546f209d19322d31ae145812f541"

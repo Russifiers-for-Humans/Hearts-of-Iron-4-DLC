@@ -1,0 +1,50 @@
+
+
+##########
+# CAVALRY
+##########
+
+#animation = {
+#	name = "GER_infantry_cavalry_rider_rifle_idle_animation"
+#	file = "GER_infantry_cavalry_rider_idle_rifle.anim"
+#}
+#
+#animation = {
+#	name = "GER_infantry_cavalry_rider_rifle_moving_animation"
+#	file = "GER_infantry_cavalry_rider_moving_rifle.anim"
+#}
+
+animation = {
+	name = "CHI_infantry_cavalry_rider_attack_sabre_idle_animation"
+	file = "CHI_infantry_cavalry_rider_attack_sabre_idle.anim"
+}
+
+animation = {
+	name = "CHI_infantry_cavalry_rider_attack_sabre_animation"
+	file = "CHI_infantry_cavalry_rider_attack_sabre.anim"
+}
+
+animation = {
+	name = "CHI_infantry_cavalry_rider_retreat_sabre_animation"
+	file = "CHI_infantry_cavalry_rider_retreat_sabre.anim"
+}
+
+animation = {
+	name = "CHI_infantry_cavalry_rider_idle_sabre_animation"
+	file = "CHI_infantry_cavalry_rider_idle_sabre.anim"
+}
+
+animation = {
+	name = "CHI_infantry_cavalry_rider_moving_sabre_animation"
+	file = "CHI_infantry_cavalry_rider_moving_sabre.anim"
+}
+
+animation = {
+	name = "WTT_infantry_rifle_march_animation"
+	file = "WTT_infantry_march_rifle.anim"
+}
+
+animation = {
+	name = "WTT_infantry_mg_march_animation"
+	file = "WTT_infantry_march_mg.anim"
+}

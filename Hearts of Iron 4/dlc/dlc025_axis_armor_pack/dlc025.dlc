@@ -1,0 +1,9 @@
+name = "Axis Armor Pack"
+path = "dlc/dlc025_axis_armor_pack"
+steam_id = "1086480"
+pops_id = "hoi4_dlc025_axis_armor_pack"
+affects_checksum = no
+affects_compatability = no
+third_party_content = no
+category="unit_pack"
+checksum = "5c050f6f988ff30217c827af806cad77"

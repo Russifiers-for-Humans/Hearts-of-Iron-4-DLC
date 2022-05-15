@@ -1,0 +1,11 @@
+objectTypes = {
+
+# VEHICLES
+
+	pdxparticle = {
+		name = "amphibious_move_water_particle"
+		type = "amphibious_move_water_effect"
+		scale = 1
+	}
+
+}

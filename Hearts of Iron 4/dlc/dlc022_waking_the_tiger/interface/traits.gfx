@@ -1,0 +1,91 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_trait_panzer_expert"
+		texturefile = "gfx/interface/traits/trait_panzer_expert.dds"
+	}	
+ 
+	spriteType = {
+		name = "GFX_trait_combined_arms_expert"
+		texturefile = "gfx/interface/traits/trait_combined_arms_expert.dds"
+	}			
+	
+	spriteType = {
+		name = "GFX_trait_cavalry_expert"
+		texturefile = "gfx/interface/traits/trait_cavalry_expert.dds"
+	}			
+	
+	spriteType = {
+		name = "GFX_trait_adaptable"
+		texturefile = "gfx/interface/traits/trait_adaptable.dds"
+	}			
+	
+	spriteType = {
+		name = "GFX_trait_scavenger"
+		texturefile = "gfx/interface/traits/trait_scavenger.dds"
+	}			
+	
+	spriteType = {
+		name = "GFX_trait_infantry_expert"
+		texturefile = "gfx/interface/traits/trait_infantry_expert.dds"
+	}			
+	
+	spriteType = {
+		name = "GFX_trait_ambusher"
+		texturefile = "gfx/interface/traits/trait_ambusher.dds"
+	}			
+	
+	spriteType = {
+		name = "GFX_trait_paratrooper"
+		texturefile = "gfx/interface/traits/trait_paratroopers.dds"
+	}			
+	
+	spriteType = {
+		name = "GFX_trait_camouflage_expert"
+		texturefile = "gfx/interface/traits/trait_camouflage_expert.dds"
+	}			
+	
+	spriteType = {
+		name = "GFX_trait_skirmisher"
+		texturefile = "gfx/interface/traits/trait_skirmisher.dds"
+	}			
+	
+	spriteType = {
+		name = "GFX_trait_expert_improviser"
+		texturefile = "gfx/interface/traits/trait_improvisation_expert.dds"
+	}			
+	
+	spriteType = {
+		name = "GFX_trait_guerilla_fighter"
+		texturefile = "gfx/interface/traits/trait_guerilla_fighter.dds"
+	}			
+	
+	spriteType = {
+		name = "GFX_trait_invader_ii"
+		texturefile = "gfx/interface/traits/trait_amphibious.dds"
+	}			
+	
+	spriteType = {
+		name = "GFX_trait_naval_liason"
+		texturefile = "gfx/interface/traits/trait_naval_liason.dds"
+	}		
+
+	spriteType = {
+		name = "GFX_trait_winter_expert"
+		texturefile = "gfx/interface/traits/trait_winter_expert.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_fortress_buster"
+		texturefile = "gfx/interface/traits/trait_fortress_buster.dds"
+	}
+	spriteType = {
+		name = "GFX_trait_JAP_samurai_lineage"
+		texturefile = "gfx/interface/traits/personal/trait_samurai_lineage.dds"
+	}
+	spriteType = {
+		name = "GFX_trait_JAP_communist_sympathizer"
+		texturefile = "gfx/interface/traits/personal/trait_communist_sympathizer.dds"
+	}	
+}
+

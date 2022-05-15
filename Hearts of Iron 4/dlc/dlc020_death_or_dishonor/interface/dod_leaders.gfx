@@ -1,0 +1,190 @@
+spriteTypes = {	
+	
+	##########################
+	######## ROMANIA #########
+	##########################
+
+	spriteType = {
+		name = "GFX_Portrait_romania_Carol_II"
+		texturefile = "gfx/leaders/ROM/Portrait_romania_Carol_II.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_romania_michael_i"
+		texturefile = "gfx/leaders/ROM/Portrait_romania_michael_i.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_romania_gheorghe_avramescu"
+		texturefile = "gfx/leaders/ROM/Portrait_romania_gheorghe_avramescu.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_romania_ioan_mihail_racovita"
+		texturefile = "gfx/leaders/ROM/Portrait_romania_ioan_mihail_racovita.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_romania_horia_macellariu"
+		texturefile = "gfx/leaders/ROM/Portrait_romania_horia_macellariu.dds"
+	}	
+
+	spriteType = {
+		name = "GFX_Portrait_romania_petre_dumitrescu"
+		texturefile = "gfx/leaders/ROM/Portrait_romania_petre_dumitrescu.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_romania_barbu_paraianu"
+		texturefile = "gfx/leaders/ROM/portrait_romania_barbu_paraianu.dds"
+	}
+		
+	spriteType = {
+		name = "GFX_Portrait_romania_constantin_sanatescu"
+		texturefile = "gfx/leaders/ROM/portrait_romania_constantin_sanatescu.dds"
+	}
+			
+	spriteType = {
+		name = "GFX_Portrait_romania_corneliu_zelea_codreanu"
+		texturefile = "gfx/leaders/ROM/portrait_corneliu_zelea_codreanu.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_romania_armand_calinescu"
+		texturefile = "gfx/leaders/ROM/Portrait_Romania_Armand_Calinescu.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_romania_octavian_goga"
+		texturefile = "gfx/leaders/ROM/Portrait_Romania_Octavian_Goga.dds"
+	}
+
+	##########################
+	######## Hungary #########
+	##########################
+	
+	spriteType = {
+		name = "GFX_Portrait_hungary_bela_kun"
+		texturefile = "gfx/leaders/HUN/Portrait_bela_kun.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_hungary_ferenc_feketehalmy_czeydner"
+		texturefile = "gfx/leaders/HUN/portrait_ferenc_feketehalmy_czeydner.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_hungary_friedrich_franz"
+		texturefile = "gfx/leaders/HUN/Portrait_friedrich_franz.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_hungary_geza_lakatos"
+		texturefile = "gfx/leaders/HUN/portrait_geza_lakatos.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_hungary_ivan_hindy"
+		texturefile = "gfx/leaders/HUN/portrait_ivan_hindy.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_hungary_karoly_beregfy"
+		texturefile = "gfx/leaders/HUN/portrait_karoly_beregfy.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_hungary_lajos_veress"
+		texturefile = "gfx/leaders/HUN/portrait_lajos_veress.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_hungary_miklos_horthy_admiral"
+		texturefile = "gfx/leaders/HUN/portrait_miklos_horthy_admiral.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_hungary_otto_von_hapsburg"
+		texturefile = "gfx/leaders/HUN/Portrait_otto_von_hapsburg.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_hungary_miklos_horthy"
+		texturefile = "gfx/leaders/HUN/Portrait_Hungary_Miklos_Horthy.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_romania_gheorghe_tatarescu"
+		texturefile = "gfx/leaders/ROM/Portrait_Romania_Gheorghe_Tatarescu.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_romania_constantin_ion_parhon"
+		texturefile = "gfx/leaders/ROM/Portrait_Romania_Constantin_Parhon.dds"
+	}
+
+	
+	##########################
+	#####Czechoslovakia#######
+	##########################
+	
+	spriteType = {
+		name = "GFX_Portrait_czechoslovakia_josef_snejdarek"
+		texturefile = "gfx/leaders/CZE/portrait_josef_snejdarek.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_czechoslovakia_konstantin_von_neurath"
+		texturefile = "gfx/leaders/CZE/portrait_konstantin_von_neurath.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_czechoslovakia_richard_tesarik"
+		texturefile = "gfx/leaders/CZE/portrait_richard_tesarik.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_czechoslovakia_sergej_vojcechovsky"
+		texturefile = "gfx/leaders/CZE/portrait_sergej_vojcechovsky.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_czechoslovakia_vojtech_luza"
+		texturefile = "gfx/leaders/CZE/portrait_vojtech_luza.dds"
+	}
+	
+	##########################
+	########Yugoslavia########
+	##########################
+	
+	spriteType = {
+		name = "GFX_Portrait_yugoslavia_danilo_kalafatovic"
+		texturefile = "gfx/leaders/YUG/portrait_danilo_kalafatovic.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_yugoslavia_ivan_gosnjak"
+		texturefile = "gfx/leaders/YUG/portrait_ivan_gosnjak.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_yugoslavia_marijan_polic"
+		texturefile = "gfx/leaders/YUG/portrait_marijan_polic.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_yugoslavia_milutin_nedic"
+		texturefile = "gfx/leaders/YUG/portrait_milutin_nedic.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_yugoslavia_petar_kosic"
+		texturefile = "gfx/leaders/YUG/portrait_petar_kosic.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_yugoslavia_vladimir_cukavac"
+		texturefile = "gfx/leaders/YUG/portrait_vladimir_cukavac.dds"
+	}
+	
+}

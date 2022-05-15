@@ -1,0 +1,77 @@
+##### ALLIED Speeches
+
+
+
+music = {
+	name = "peace_in_our_time"
+	file = "allied_speeches/Chamberlain - Peace In Our Time.ogg"
+	volume = 0.68
+}
+music = {
+	name = "war_with_germany"
+	file = "allied_speeches/Chamberlain - Declaration Of War.ogg"
+	volume = 0.62
+}
+music = {
+	name = "blood_toil_tears_and_sweat"
+	file = "allied_speeches/Churchill - Blood, Toil, Tears And Sweat.ogg"
+	volume = 0.64
+}
+music = {
+	name = "we_shall_fight_on_the_beaches"
+	file = "allied_speeches/Churchill - We Shall Fight On The Beaches.ogg"
+	volume = 0.65
+}
+music = {
+	name = "their_finest_hour"
+	file = "allied_speeches/Churchill - Their Finest Hour.ogg"
+	volume = 0.68
+}
+music = {
+	name = "arsenal_of_democracy"
+	file = "allied_speeches/Roosevelt - The Great Arsenal of Democracy.ogg"
+	volume = 0.61
+}
+
+music = {
+	name = "no_invincible_armies"
+	file = "allied_speeches/Stalin - History Shows That There Are No Invincible Armies.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "day_of_infamy"
+	file = "allied_speeches/Roosevelt - A Day Which Will Live In Infamy.ogg"
+	volume = 0.68
+}
+
+music = {
+	name = "order_of_the_day"
+	file = "allied_speeches/Eisenhower - Order Of The Day.ogg"
+	volume = 0.66
+}
+
+music = {
+	name = "i_have_returned"
+	file = "allied_speeches/MacArthur - I Have Returned.ogg"
+	volume = 0.70
+}
+
+music = {
+	name = "warning_to_japan"
+	file = "allied_speeches/Truman - Warning To Japan.ogg"
+	volume = 0.63
+}
+
+music = {
+	name = "victory_parade"
+	file = "allied_speeches/Zhukov - Victory Parade.ogg"
+	volume = 0.61
+}
+
+music = {
+	name = "guns_are_silent"
+	file = "allied_speeches/MacArthur - Today The Guns Are Silent.ogg"
+	volume = 0.68
+}
+

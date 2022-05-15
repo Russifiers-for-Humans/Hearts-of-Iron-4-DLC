@@ -1,0 +1,115 @@
+#####AUSTRALIA
+animation = {
+	name = "AST_tank_medium_sentinel_attack_animation"
+	file = "AST_tank_medium_sentinel_attack.anim"
+}
+
+animation = {
+	name = "AST_tank_medium_sentinel_idle_animation"
+	file = "AST_tank_medium_sentinel_idle.anim"
+}
+
+animation = {
+	name = "AST_tank_medium_sentinel_moving_animation"
+	file = "AST_tank_medium_sentinel_moving.anim"
+}
+animation = {
+	name = "AST_tank_medium_thunderbolt_idle_animation"
+	file = "AST_tank_medium_thunderbolt_idle.anim"
+}
+
+animation = {
+	name = "AST_tank_medium_thunderbolt_moving_animation"
+	file = "AST_tank_medium_thunderbolt_moving.anim"
+}
+animation = {
+	name = "AST_tank_medium_thunderbolt_attack_animation"
+	file = "AST_tank_medium_thunderbolt_attack.anim"
+}
+
+#####New Zealand
+animation = {
+	name = "NZL_tank_light_bobsemple_idle_animation"
+	file = "NZL_tank_light_bobsemple_idle.anim"
+}
+
+animation = {
+	name = "NZL_tank_light_bobsemple_moving_animation"
+	file = "NZL_tank_light_bobsemple_moving.anim"
+}
+animation = {
+	name = "NZL_tank_light_bobsemple_attack_animation"
+	file = "NZL_tank_light_bobsemple_attack.anim"
+}
+animation = {
+	name = "NZL_tank_medium_schofield_idle_animation"
+	file = "NZL_tank_medium_schofield_idle.anim"
+}
+
+animation = {
+	name = "NZL_tank_medium_schofield_moving_animation"
+	file = "NZL_tank_medium_schofield_moving.anim"
+}
+animation = {
+	name = "NZL_tank_medium_schofield_attack_animation"
+	file = "NZL_tank_medium_schofield_attack.anim"
+}
+animation = {
+	name = "NZL_tank_superheavy_bigbob_idle_animation"
+	file = "NZL_tank_superheavy_bigbob_idle.anim"
+}
+
+animation = {
+	name = "NZL_tank_superheavy_bigbob_moving_animation"
+	file = "NZL_tank_superheavy_bigbob_moving.anim"
+}
+animation = {
+	name = "NZL_tank_superheavy_bigbob_attack_animation"
+	file = "NZL_tank_superheavy_bigbob_attack.anim"
+}
+#####CANADA
+
+animation = {
+	name = "CAN_tank_light_valentine_attack_animation"
+	file = "CAN_tank_light_valentine_attack.anim"
+}
+
+animation = {
+	name = "CAN_tank_light_valentine_idle_animation"
+	file = "CAN_tank_light_valentine_idle.anim"
+}
+
+animation = {
+	name = "CAN_tank_light_valentine_moving_animation"
+	file = "CAN_tank_light_valentine_moving.anim"
+}
+animation = {
+	name = "CAN_tank_medium_ram_attack_animation"
+	file = "CAN_tank_medium_ram_attack.anim"
+}
+
+animation = {
+	name = "CAN_tank_medium_ram_idle_animation"
+	file = "CAN_tank_medium_ram_idle.anim"
+}
+
+animation = {
+	name = "CAN_tank_medium_ram_moving_animation"
+	file = "CAN_tank_medium_ram_moving.anim"
+}
+
+
+animation = {
+	name = "CAN_tank_medium_grizzly_attack_animation"
+	file = "CAN_tank_medium_grizzly_attack.anim"
+}
+
+animation = {
+	name = "CAN_tank_medium_grizzly_idle_animation"
+	file = "CAN_tank_medium_grizzly_idle.anim"
+}
+
+animation = {
+	name = "CAN_tank_medium_grizzly_moving_animation"
+	file = "CAN_tank_medium_grizzly_moving.anim"
+}

@@ -1,0 +1,153 @@
+
+music_station = "base_music"
+
+music = {
+	song = "the_end_of_the_war"
+
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = BUL
+					original_tag = GRE
+					original_tag = TUR				
+					original_tag = KUR
+				}
+			}
+		}	
+
+		modifier = {
+			factor = 3
+			OR = {
+				original_tag = BUL
+				original_tag = GRE
+				original_tag = KUR
+				original_tag = TUR
+			}
+		}
+	}
+}
+
+music = {
+	song = "the_final_frontier"
+
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					original_tag = BUL
+					original_tag = GRE
+					original_tag = KUR
+					original_tag = ROM
+					original_tag = TUR
+					original_tag = YUG
+				}
+			}
+		}	
+
+		modifier = {
+			factor = 3
+			OR = {
+				original_tag = BUL
+				original_tag = GRE
+				original_tag = KUR
+				original_tag = ROM
+				original_tag = TUR
+				original_tag = YUG
+			}
+		}
+	}
+}
+
+music = {
+	song = "the_black_sea"
+
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0.05
+			NOT = {
+				OR = {
+					AND = {
+						OR = {
+							original_tag = BUL
+							original_tag = GRE
+						}
+						OR = {
+							is_in_faction_with = TUR
+							has_war_with = TUR
+						}
+					}
+					original_tag = AFG
+					original_tag = ALB
+					original_tag = ALG
+					original_tag = ARM
+					original_tag = AZR
+					original_tag = EGY
+					original_tag = GEO
+					original_tag = IRQ
+					original_tag = JOR
+					original_tag = KUR
+					original_tag = KUW
+					original_tag = LEB
+					original_tag = MOR
+					original_tag = OMA
+					original_tag = PAK
+					original_tag = PAL
+					original_tag = PER
+					original_tag = QAT
+					original_tag = UAE
+					original_tag = SAU
+					original_tag = SYR
+					original_tag = TUN
+					original_tag = TUR
+					original_tag = YEM
+				}
+			}
+		}	
+
+		modifier = {
+			factor = 3
+			OR = {
+				AND = {
+					OR = {
+						original_tag = BUL
+						original_tag = GRE
+					}
+					OR = {
+						is_in_faction_with = TUR
+						has_war_with = TUR
+					}
+				}
+				original_tag = AFG
+				original_tag = ALB
+				original_tag = ALG
+				original_tag = ARM
+				original_tag = AZR
+				original_tag = EGY
+				original_tag = GEO
+				original_tag = IRQ
+				original_tag = JOR
+				original_tag = KUR
+				original_tag = KUW
+				original_tag = LEB
+				original_tag = MOR
+				original_tag = OMA
+				original_tag = PAK
+				original_tag = PAL
+				original_tag = PER
+				original_tag = QAT
+				original_tag = UAE
+				original_tag = SAU
+				original_tag = SYR
+				original_tag = TUN
+				original_tag = TUR
+				original_tag = YEM
+			}
+		}
+	}
+}

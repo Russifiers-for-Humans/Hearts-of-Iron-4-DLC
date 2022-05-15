@@ -1,0 +1,10 @@
+animation = {
+	name = "CHI_truck_min_sheng_idle_animation"
+	file = "CHI_truck_min_sheng_idle.anim"
+}
+
+animation = {
+	name = "CHI_truck_min_sheng_move_animation"
+	file = "CHI_truck_min_sheng_moving.anim"
+}
+

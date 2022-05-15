@@ -1,0 +1,240 @@
+# Songs from the esteemed metal band Sabaton
+# 10 song to enjoy while playing Hearts of Iron IV
+
+music_station = "sabaton"
+
+music = {
+	song = "fourty_to_one"
+	
+	chance = {
+		factor = 1
+
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+
+		modifier = {
+			factor = 2
+			tag = POL
+			has_defensive_war_with = GER
+		}
+		modifier = {
+			factor = 2
+			surrender_progress > 0.1
+		}
+	}
+}
+
+music = {
+	song = "coat_of_arms"
+	
+	chance = {
+		factor = 1
+
+		modifier = {
+			factor = 2
+			GRE = {
+				has_war_with = ITA
+				has_capitulated = no
+			}
+			ITA = { has_capitulated = no }
+		}
+
+		modifier = {
+			factor = 4
+			tag = GRE
+			has_war_with = ITA
+			has_capitulated = no
+			ITA = { has_capitulated = no }
+		}
+	}
+}
+
+music = {
+	song = "ghost_division"
+	
+	chance = {
+		factor = 1
+
+		modifier = {
+			factor = 2
+			OR = {
+				tag = FRA
+				tag = GER
+			}
+		}
+		modifier = {
+			factor = 4
+			
+			AND = {
+				FRA = {
+					has_war_with = GER
+					has_capitulated = no
+				}
+				OR = {
+					BEL = {
+						has_war_with = GER
+						OR = {
+							surrender_progress > 0.10
+							has_capitulated = yes
+						}
+					}
+					HOL = { 
+						has_war_with = GER
+						has_capitulated = no
+						OR = {
+							surrender_progress > 0.10
+							has_capitulated = yes
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+music = {
+	song = "panzerkampf"
+	
+	chance = {
+		factor = 1
+
+		modifier = {
+			factor = 2
+			tag = GER
+			has_war_with = SOV
+			SOV = { surrender_progress > 0.30 }	
+		}
+
+		modifier = {
+			factor = 2
+			tag = SOV
+			has_war_with = GER
+			SOV = { surrender_progress > 0.30 }	
+		}
+
+	}
+}
+
+music = {
+	song = "resist_and_bite"
+	
+	chance = {
+		factor = 1
+
+		modifier = {
+			factor = 4
+			tag = BEL
+			has_war_with = GER
+			date < 1940.01.10
+		}
+	}
+}
+
+music = {
+	song = "screaming_eagles"
+	
+	chance = {
+		factor = 1
+		
+		modifier = {
+			factor = 0.5
+			has_war = no
+		}
+
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+		modifier = {
+			factor = 2
+			tag = USA
+			has_war_with = GER
+			FRA = {
+				has_capitulated = yes
+				is_in_faction_with = USA
+			}
+		}
+	}
+}
+
+music = {
+	song = "smoking_snakes"
+	
+	chance = {
+		factor = 1
+
+		modifier = {
+			factor = 2
+			tag = BRA			
+		}
+		modifier = {
+			factor = 2
+			tag = BRA			
+			has_war_with = GER
+		}
+	}
+}
+
+music = {
+	song = "the_last_battle"
+	
+	chance = {
+		factor = 1
+
+		modifier = {
+			factor = 0.1
+			has_war = no
+		}				
+
+		modifier = {
+			factor = 2
+			has_war_with = GER
+		}
+
+		modifier = {
+			factor = 4
+			has_war_with = GER
+			GER = { surrender_progress > 0.5 }
+		}		
+	}
+}
+
+music = {
+	song = "to_hell_and_back"
+	
+	chance = {
+		factor = 1
+
+		modifier = {
+			factor = 2
+
+			tag = USA
+			has_war_with = GER
+		}
+	}
+}
+
+music = {
+	song = "uprising"
+	
+	chance = {
+		factor = 1
+
+		modifier = {
+			factor = 3
+
+			OR = {
+				is_in_faction_with = POL
+				has_war_with = POL
+			}
+
+			date > 1940.01.10
+			POL = {
+				exists = yes
+				has_war_with = GER				
+			}
+		}
+	}
+}

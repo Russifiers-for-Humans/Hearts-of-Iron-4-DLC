@@ -1,0 +1,24 @@
+############
+# SHIPS
+############
+
+# bfb_TUR_battleship_yavuz
+animation = {
+	name = "bfb_TUR_battleship_yavuz_death_animation"
+	file = "bfb_TUR_battleship_yavuz_death.anim"
+}
+
+animation = {
+	name = "bfb_TUR_battleship_yavuz_attack_animation"
+	file = "bfb_TUR_battleship_yavuz_attack.anim"
+}
+
+animation = {
+	name = "bfb_TUR_battleship_yavuz_defend_animation"
+	file = "bfb_TUR_battleship_yavuz_defend.anim"
+}
+
+animation = {
+	name = "bfb_TUR_battleship_yavuz_idle_animation"
+	file = "bfb_TUR_battleship_yavuz_idle.anim"
+}

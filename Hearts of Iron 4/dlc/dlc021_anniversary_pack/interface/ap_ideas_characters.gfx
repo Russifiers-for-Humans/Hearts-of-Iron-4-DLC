@@ -1,0 +1,111 @@
+spriteTypes = {
+
+	### africa
+
+	spriteType = {
+		name = "GFX_idea_africa_generic_4"
+		texturefile = "gfx/interface/ideas/idea_africa_generic_4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_africa_generic_land_4"
+		texturefile = "gfx/interface/ideas/idea_africa_generic_land_4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_africa_generic_navy_4"
+		texturefile = "gfx/interface/ideas/idea_africa_generic_navy_4.dds"
+	}
+
+	### asia
+
+	spriteType = {
+		name = "GFX_idea_asia_generic_4"
+		texturefile = "gfx/interface/ideas/idea_asia_generic_4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_asia_generic_land_6"
+		texturefile = "gfx/interface/ideas/idea_asia_generic_land_6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_asia_generic_navy_4"
+		texturefile = "gfx/interface/ideas/idea_asia_generic_navy_4.dds"
+	}
+
+	### europe
+
+	spriteType = {
+		name = "GFX_idea_europe_generic_4"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_europe_generic_5"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_europe_generic_6"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_europe_generic_7"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_europe_generic_8"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_europe_generic_land_6"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_land_6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_europe_generic_land_7"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_land_7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_europe_generic_land_8"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_land_8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_europe_generic_land_9"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_land_9.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_europe_generic_navy_4"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_navy_4.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_europe_generic_navy_5"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_navy_5.dds"
+	}
+
+	### south america
+
+	spriteType = {
+		name = "GFX_idea_south_america_generic_7"
+		texturefile = "gfx/interface/ideas/idea_south_america_generic_7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_south_america_generic_8"
+		texturefile = "gfx/interface/ideas/idea_south_america_generic_8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_south_america_generic_9"
+		texturefile = "gfx/interface/ideas/idea_south_america_generic_9.dds"
+	}
+
+}

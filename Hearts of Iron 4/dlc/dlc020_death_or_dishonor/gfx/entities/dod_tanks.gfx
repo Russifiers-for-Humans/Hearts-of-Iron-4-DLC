@@ -1,0 +1,106 @@
+objectTypes = {
+
+
+
+	pdxmesh = {
+		name = "CZE_tank_light_lt35_mesh"
+		file = "gfx/models/units/tanks/CZE_tank_light_lt35.mesh"
+
+		animation = { id = "attack"			type = "CZE_tank_light_lt35_attack_animation" }
+		animation = { id = "idle"			type = "CZE_tank_light_lt35_idle_animation" }
+		animation = { id = "move"			type = "CZE_tank_light_lt35_moving_animation" }
+		scale = 0.7
+	}
+
+	pdxmesh = {
+		name = "CZE_tank_medium_st38_mesh"
+		file = "gfx/models/units/tanks/CZE_tank_medium_st38.mesh"
+
+		animation = { id = "attack"			type = "CZE_tank_medium_st38_attack_animation" }
+		animation = { id = "idle"			type = "CZE_tank_medium_st38_idle_animation" }
+		animation = { id = "move"			type = "CZE_tank_medium_st38_moving_animation" }
+		scale = 0.6
+	}
+
+	pdxmesh = {
+		name = "CZE_tank_heavy_st39_mesh"
+		file = "gfx/models/units/tanks/CZE_tank_heavy_st39.mesh"
+
+		animation = { id = "attack"			type = "CZE_tank_heavy_st39_attack_animation" }
+		animation = { id = "idle"			type = "CZE_tank_heavy_st39_idle_animation" }
+		animation = { id = "move"			type = "CZE_tank_heavy_st39_moving_animation" }
+		scale = 0.8
+	}
+	pdxmesh = {
+		name = "CZE_modern_armor_mesh"
+		file = "gfx/models/units/tanks/CZE_tank_modern_T25.mesh"
+
+		animation = { id = "attack"			type = "CZE_tank_modern_T25_attack_animation" }
+		animation = { id = "idle"			type = "CZE_tank_modern_T25_idle_animation" }
+		animation = { id = "move"			type = "CZE_tank_modern_T25_moving_animation" }
+		scale = 0.6
+	}
+
+
+	pdxmesh = {
+		name = "ROM_tank_light_r1_mesh"
+		file = "gfx/models/units/tanks/ROM_tank_light_r1.mesh"
+
+		animation = { id = "attack"			type = "ROM_tank_light_r1_attack_animation" }
+		animation = { id = "idle"			type = "ROM_tank_light_r1_idle_animation" }
+		animation = { id = "move"			type = "ROM_tank_light_r1_moving_animation" }
+		scale = 0.7
+	}
+
+	pdxmesh = {
+		name = "ROM_tank_medium_r35_mesh"
+		file = "gfx/models/units/tanks/ROM_tank_medium_r35.mesh"
+
+		animation = { id = "attack"			type = "ROM_tank_medium_r35_attack_animation" }
+		animation = { id = "idle"			type = "ROM_tank_medium_r35_idle_animation" }
+		animation = { id = "move"			type = "ROM_tank_medium_r35_moving_animation" }
+		scale = 0.6
+	}
+
+	pdxmesh = {
+		name = "ROM_tank_heavy_maresal_mesh"
+		file = "gfx/models/units/tanks/ROM_tank_heavy_maresal.mesh"
+
+		animation = { id = "attack"			type = "ROM_tank_heavy_maresal_attack_animation" }
+		animation = { id = "idle"			type = "ROM_tank_heavy_maresal_idle_animation" }
+		animation = { id = "move"			type = "ROM_tank_heavy_maresal_moving_animation" }
+		scale = 0.8
+	}
+
+
+
+	pdxmesh = {
+		name = "HUN_tank_light_toldi_mesh"
+		file = "gfx/models/units/tanks/HUN_tank_light_toldi.mesh"
+
+		animation = { id = "attack"			type = "HUN_tank_light_toldi_attack_animation" }
+		animation = { id = "idle"			type = "HUN_tank_light_toldi_idle_animation" }
+		animation = { id = "move"			type = "HUN_tank_light_toldi_moving_animation" }
+		scale = 0.68
+	}
+
+	pdxmesh = {
+		name = "HUN_tank_medium_turan_mesh"
+		file = "gfx/models/units/tanks/HUN_tank_medium_turan.mesh"
+
+		animation = { id = "attack"			type = "HUN_tank_medium_turan_attack_animation" }
+		animation = { id = "idle"			type = "HUN_tank_medium_turan_idle_animation" }
+		animation = { id = "move"			type = "HUN_tank_medium_turan_moving_animation" }
+		scale = 0.53
+	}
+
+	pdxmesh = {
+		name = "HUN_tank_heavy_tas_mesh"
+		file = "gfx/models/units/tanks/HUN_tank_heavy_tas.mesh"
+
+		animation = { id = "attack"			type = "HUN_tank_heavy_tas_attack_animation" }
+		animation = { id = "idle"			type = "HUN_tank_heavy_tas_idle_animation" }
+		animation = { id = "move"			type = "HUN_tank_heavy_tas_moving_animation" }
+		scale = 0.78
+	}
+}

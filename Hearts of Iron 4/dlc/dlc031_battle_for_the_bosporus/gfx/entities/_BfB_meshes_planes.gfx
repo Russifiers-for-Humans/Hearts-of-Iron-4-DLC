@@ -1,0 +1,536 @@
+objectTypes = {
+
+
+
+###################
+#### Bulgarian ####
+###################
+
+
+####### - Democratic	#############################################################################
+
+#### - Light
+
+	pdxmesh = {
+		name = "BUL_democratic_plane_light_mesh"
+		file = "gfx/models/units/planes/bfb_plane_light_democratic.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	
+		meshsettings = {
+			texture_diffuse = "BUL_plane_light_democratic_diffuse.dds"
+			texture_normal = "BUL_plane_light_democratic_normal.dds"
+			texture_specular = "BUL_plane_light_democratic_specular.dds"
+		}
+	}
+	
+#### - Medium
+	
+	pdxmesh = {
+		name = "BUL_democratic_plane_medium_mesh"
+		file = "gfx/models/units/planes/bfb_BUL_plane_medium.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "BUL_plane_medium_diffuse.dds"
+			texture_normal = "BUL_plane_medium_normal.dds"
+			texture_specular = "BUL_plane_medium_specular.dds"
+		}
+	}
+
+#### - Heavy
+
+	pdxmesh = {
+		name = "BUL_democratic_plane_heavy_mesh"
+		file = "gfx/models/units/planes/USA_plane_heavy.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "BUL_plane_heavy_democratic_diffuse.dds"
+			texture_normal = "BUL_plane_heavy_democratic_normal.dds"
+			texture_specular = "BUL_plane_heavy_democratic_specular.dds"
+		}
+	}	
+
+
+####### - Communist		#############################################################################
+
+
+#### - Light
+
+	pdxmesh = {
+		name = "BUL_communism_plane_light_mesh"
+		file = "gfx/models/units/planes/SOV_plane_light.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "BUL_plane_light_communist_diffuse.dds"
+			texture_normal = "BUL_plane_light_communist_normal.dds"
+			texture_specular = "BUL_plane_light_communist_specular.dds"
+		}
+	}
+	
+#### - Medium
+
+	pdxmesh = {
+		name = "BUL_communism_plane_medium_mesh"
+		file = "gfx/models/units/planes/bfb_BUL_plane_medium.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "BUL_plane_medium_diffuse.dds"
+			texture_normal = "BUL_plane_medium_normal.dds"
+			texture_specular = "BUL_plane_medium_specular.dds"
+		}
+	}
+
+#### - Heavy
+
+	pdxmesh = {
+		name = "BUL_communism_plane_heavy_mesh"
+		file = "gfx/models/units/planes/SOV_plane_heavy.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "BUL_plane_heavy_communist_diffuse.dds"
+			texture_normal = "BUL_plane_heavy_communist_normal.dds"
+			texture_specular = "BUL_plane_heavy_communist_specular.dds"
+		}
+	}
+
+
+####### - Fascist		#############################################################################
+
+#### - Light
+
+	pdxmesh = {
+		name = "BUL_fascism_plane_light_mesh"
+		file = "gfx/models/units/planes/ITA_plane_light.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "BUL_plane_light_fascist_diffuse.dds"
+			texture_normal = "BUL_plane_light_fascist_normal.dds"
+			texture_specular = "BUL_plane_light_fascist_specular.dds"
+		}
+	}
+	
+#### - Medium
+	
+	pdxmesh = {
+		name = "BUL_fascism_plane_medium_mesh"
+		file = "gfx/models/units/planes/bfb_BUL_plane_medium.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "BUL_plane_medium_diffuse.dds"
+			texture_normal = "BUL_plane_medium_normal.dds"
+			texture_specular = "BUL_plane_medium_specular.dds"
+		}
+	}
+
+#### - Heavy
+
+	pdxmesh = {
+		name = "BUL_fascism_plane_heavy_mesh"
+		file = "gfx/models/units/planes/GER_plane_heavy.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "BUL_plane_heavy_fascist_diffuse.dds"
+			texture_normal = "BUL_plane_heavy_fascist_normal.dds"
+			texture_specular = "BUL_plane_heavy_fascist_specular.dds"
+		}
+	}
+
+
+####### - Non-Aligned		#############################################################################
+
+#### - Light
+
+	pdxmesh = {
+		name = "BUL_neutrality_plane_light_mesh"
+		file = "gfx/models/units/planes/ITA_plane_light.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "BUL_plane_light_fascist_diffuse.dds"
+			texture_normal = "BUL_plane_light_fascist_normal.dds"
+			texture_specular = "BUL_plane_light_fascist_specular.dds"
+		}
+	}
+	
+#### - Medium
+	
+	pdxmesh = {
+		name = "BUL_neutrality_plane_medium_mesh"
+		file = "gfx/models/units/planes/bfb_BUL_plane_medium.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "BUL_plane_medium_diffuse.dds"
+			texture_normal = "BUL_plane_medium_normal.dds"
+			texture_specular = "BUL_plane_medium_specular.dds"
+		}
+	}
+
+#### - Heavy
+
+	pdxmesh = {
+		name = "BUL_neutrality_plane_heavy_mesh"
+		file = "gfx/models/units/planes/GER_plane_heavy.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "BUL_plane_heavy_fascist_diffuse.dds"
+			texture_normal = "BUL_plane_heavy_fascist_normal.dds"
+			texture_specular = "BUL_plane_heavy_fascist_specular.dds"
+		}
+	}
+
+	
+	
+###############
+#### Greek ####
+###############
+
+####### - Neutrality	#############################################################################
+
+#### - Light
+# Not required, GRE will use democratic light_plane mesh for non-aligned
+
+#### - Medium
+
+	pdxmesh = {
+		name = "GRE_neutrality_plane_medium_mesh"
+		file = "gfx/models/units/planes/bfb_plane_medium_neutrality.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+		
+		meshsettings = {
+			texture_diffuse = "GRE_plane_medium_neutrality_diffuse.dds"
+			texture_normal = "GRE_plane_medium_neutrality_normal.dds"
+			texture_specular = "GRE_plane_medium_neutrality_specular.dds"
+		}
+	}
+
+#### - Heavy
+# Not required, GRE will use democratic heavy_plane mesh for non-aligned
+
+
+####### - Democratic	#############################################################################
+
+
+#### - Light
+
+	pdxmesh = {
+		name = "GRE_democratic_plane_light_mesh"
+		file = "gfx/models/units/planes/bfb_plane_light_neutrality.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	
+		meshsettings = {
+			texture_diffuse = "GRE_plane_light_democratic_diffuse.dds"
+			texture_normal = "GRE_plane_light_democratic_normal.dds"
+			texture_specular = "GRE_plane_light_democratic_specular.dds"
+		}
+	}
+	
+#### - Medium
+	
+	pdxmesh = {
+		name = "GRE_democratic_plane_medium_mesh"
+		file = "gfx/models/units/planes/ENG_plane_medium.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "GRE_plane_medium_democratic_diffuse.dds"
+			texture_normal = "GRE_plane_medium_democratic_normal.dds"
+			texture_specular = "GRE_plane_medium_democratic_specular.dds"
+		}
+	}
+
+#### - Heavy
+
+	pdxmesh = {
+		name = "GRE_democratic_plane_heavy_mesh"
+		file = "gfx/models/units/planes/USA_plane_heavy.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "GRE_plane_heavy_democratic_diffuse.dds"
+			texture_normal = "GRE_plane_heavy_democratic_normal.dds"
+			texture_specular = "GRE_plane_heavy_democratic_specular.dds"
+		}
+	}	
+	
+####### - Communist		#############################################################################
+
+
+#### - Light
+
+	pdxmesh = {
+		name = "GRE_communism_plane_light_mesh"
+		file = "gfx/models/units/planes/SOV_plane_light.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "GRE_plane_light_communist_diffuse.dds"
+			texture_normal = "GRE_plane_light_communist_normal.dds"
+			texture_specular = "GRE_plane_light_communist_specular.dds"
+		}
+	}
+	
+#### - Medium
+	
+	pdxmesh = {
+		name = "GRE_communism_plane_medium_mesh"
+		file = "gfx/models/units/planes/SOV_plane_medium.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "GRE_plane_medium_communist_diffuse.dds"
+			texture_normal = "GRE_plane_medium_communist_normal.dds"
+			texture_specular = "GRE_plane_medium_communist_specular.dds"
+		}
+	}
+
+#### - Heavy
+
+	pdxmesh = {
+		name = "GRE_communism_plane_heavy_mesh"
+		file = "gfx/models/units/planes/SOV_plane_heavy.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "GRE_plane_heavy_communist_diffuse.dds"
+			texture_normal = "GRE_plane_heavy_communist_normal.dds"
+			texture_specular = "GRE_plane_heavy_communist_specular.dds"
+		}
+	}
+
+
+####### - Fascist		#############################################################################
+
+#### - Light
+
+	pdxmesh = {
+		name = "GRE_fascism_plane_light_mesh"
+		file = "gfx/models/units/planes/ITA_plane_light.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "GRE_plane_light_fascist_diffuse.dds"
+			texture_normal = "GRE_plane_light_fascist_normal.dds"
+			texture_specular = "GRE_plane_light_fascist_specular.dds"
+		}
+	}
+	
+#### - Medium
+	
+	pdxmesh = {
+		name = "GRE_fascism_plane_medium_mesh"
+		file = "gfx/models/units/planes/GER_plane_medium.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "GRE_plane_medium_fascist_diffuse.dds"
+			texture_normal = "GRE_plane_medium_fascist_normal.dds"
+			texture_specular = "GRE_plane_medium_fascist_specular.dds"
+		}
+	}
+
+#### - Heavy
+
+	pdxmesh = {
+		name = "GRE_fascism_plane_heavy_mesh"
+		file = "gfx/models/units/planes/GER_plane_heavy.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "GRE_plane_heavy_fascist_diffuse.dds"
+			texture_normal = "GRE_plane_heavy_fascist_normal.dds"
+			texture_specular = "GRE_plane_heavy_fascist_specular.dds"
+		}
+	}
+
+	
+	
+################
+#### Turkic	####
+################	
+
+
+####### - Neutrality	#############################################################################
+
+#### - Light
+
+	pdxmesh = {
+		name = "TUR_neutrality_plane_light_mesh"
+		file = "gfx/models/units/planes/bfb_plane_light_neutrality.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+	
+		meshsettings = {
+			texture_diffuse = "TUR_plane_light_neutrality_diffuse.dds"
+			texture_normal = "TUR_plane_light_neutrality_normal.dds"
+			texture_specular = "TUR_plane_light_neutrality_specular.dds"
+		}
+	}	
+	
+#### - Medium
+
+	pdxmesh = {
+		name = "TUR_neutrality_plane_medium_mesh"
+		file = "gfx/models/units/planes/bfb_plane_medium_neutrality.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+		
+		meshsettings = {
+			texture_diffuse = "TUR_plane_medium_neutrality_diffuse.dds"
+			texture_normal = "TUR_plane_medium_neutrality_normal.dds"
+			texture_specular = "TUR_plane_medium_neutrality_specular.dds"
+		}
+	}	
+
+#### - Heavy
+# Not required, TUR will use democratic heavy_plane model for non-aligned
+
+
+####### - Democratic	#############################################################################
+
+#### - Light
+
+	pdxmesh = {
+		name = "TUR_democratic_plane_light_mesh"
+		file = "gfx/models/units/planes/ENG_plane_light.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "TUR_plane_light_democratic_diffuse.dds"
+			texture_normal = "TUR_plane_light_democratic_normal.dds"
+			texture_specular = "TUR_plane_light_democratic_specular.dds"
+		}
+	}
+	
+#### - Medium
+	
+	pdxmesh = {
+		name = "TUR_democratic_plane_medium_mesh"
+		file = "gfx/models/units/planes/ENG_plane_medium.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "TUR_plane_medium_democratic_diffuse.dds"
+			texture_normal = "TUR_plane_medium_democratic_normal.dds"
+			texture_specular = "TUR_plane_medium_democratic_specular.dds"
+		}
+	}
+
+#### - Heavy
+
+	pdxmesh = {
+		name = "TUR_democratic_plane_heavy_mesh"
+		file = "gfx/models/units/planes/USA_plane_heavy.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "TUR_plane_heavy_democratic_diffuse.dds"
+			texture_normal = "TUR_plane_heavy_democratic_normal.dds"
+			texture_specular = "TUR_plane_heavy_democratic_specular.dds"
+		}
+	}	
+	
+####### - Communist		#############################################################################
+
+#### - Light
+
+	pdxmesh = {
+		name = "TUR_communism_plane_light_mesh"
+		file = "gfx/models/units/planes/SOV_plane_light.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "TUR_plane_light_communist_diffuse.dds"
+			texture_normal = "TUR_plane_light_communist_normal.dds"
+			texture_specular = "TUR_plane_light_communist_specular.dds"
+		}
+	}
+	
+#### - Medium
+	
+	pdxmesh = {
+		name = "TUR_communism_plane_medium_mesh"
+		file = "gfx/models/units/planes/SOV_plane_medium.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "TUR_plane_medium_communist_diffuse.dds"
+			texture_normal = "TUR_plane_medium_communist_normal.dds"
+			texture_specular = "TUR_plane_medium_communist_specular.dds"
+		}
+	}
+
+#### - Heavy
+
+	pdxmesh = {
+		name = "TUR_communism_plane_heavy_mesh"
+		file = "gfx/models/units/planes/SOV_plane_heavy.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "TUR_plane_heavy_communist_diffuse.dds"
+			texture_normal = "TUR_plane_heavy_communist_normal.dds"
+			texture_specular = "TUR_plane_heavy_communist_specular.dds"
+		}
+	}
+
+####### - Fascist		#############################################################################
+
+#### - Light
+
+	pdxmesh = {
+		name = "TUR_fascism_plane_light_mesh"
+		file = "gfx/models/units/planes/ITA_plane_light.mesh"
+		animation = { id = "idle" type = "fighter_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "TUR_plane_light_fascist_diffuse.dds"
+			texture_normal = "TUR_plane_light_fascist_normal.dds"
+			texture_specular = "TUR_plane_light_fascist_specular.dds"
+		}
+	}
+	
+#### - Medium
+	
+	pdxmesh = {
+		name = "TUR_fascism_plane_medium_mesh"
+		file = "gfx/models/units/planes/GER_plane_medium.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "TUR_plane_medium_fascist_diffuse.dds"
+			texture_normal = "TUR_plane_medium_fascist_normal.dds"
+			texture_specular = "TUR_plane_medium_fascist_specular.dds"
+		}
+	}
+
+#### - Heavy
+
+	pdxmesh = {
+		name = "TUR_fascism_plane_heavy_mesh"
+		file = "gfx/models/units/planes/GER_plane_heavy.mesh"
+		animation = { id = "idle" type = "bomber_default_idle_animation" }
+
+		meshsettings = {
+			texture_diffuse = "TUR_plane_heavy_fascist_diffuse.dds"
+			texture_normal = "TUR_plane_heavy_fascist_normal.dds"
+			texture_specular = "TUR_plane_heavy_fascist_specular.dds"
+		}
+	}
+
+	
+}
+
+
+
+
+
+
+
+

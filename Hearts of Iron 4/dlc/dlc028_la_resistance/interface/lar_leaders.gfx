@@ -1,0 +1,31 @@
+spriteTypes = {	
+	
+	##########################
+	######## PORTUGAL #########
+	##########################
+
+	spriteType = {
+		name = "GFX_Portrait_por_francisco_de_barcelos_oliveira_preto"
+		texturefile = "gfx/leaders/POR/portrait_por_francisco_de_barcelos_oliveira_preto.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_por_bernardino_machado"
+		texturefile = "gfx/leaders/POR/portrait_por_bernardino_machado.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_por_bento_goncalves.dds"
+		texturefile = "gfx/leaders/POR/portrait_por_bento_goncalves.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_por_antonio_de_oliveira_salazar"
+		texturefile = "gfx/leaders/POR/portrait_por_antonio_de_oliveira_salazar.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_por_duarte_nuno"
+		texturefile = "gfx/leaders/POR/portrait_por_duarte_nuno.dds"
+	}
+}

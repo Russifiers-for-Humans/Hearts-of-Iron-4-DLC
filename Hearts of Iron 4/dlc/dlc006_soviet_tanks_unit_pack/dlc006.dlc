@@ -1,0 +1,9 @@
+name = "Soviet Tanks Unit Pack"
+path = "dlc/dlc006_soviet_tanks_unit_pack"
+steam_id = "460554"
+pops_id = "hoi4_dlc006_soviet_tanks_unit_pack"
+affects_checksum = no
+affects_compatability = no
+third_party_content = no
+category="unit_pack"
+checksum = "368caecb36be3909490dcfbb8ce3663e"

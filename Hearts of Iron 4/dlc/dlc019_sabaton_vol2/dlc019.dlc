@@ -1,0 +1,9 @@
+name = "Sabaton Soundtrack Vol.2"
+path = "dlc/dlc019_sabaton_vol2"
+steam_id = "584141"
+pops_id = "hoi4_dlc019_sabaton_vol2"
+affects_checksum = no
+affects_compatability = no
+third_party_content = yes
+category= "music"
+checksum = "4f064d5f9987bafb336db55c0f488138"

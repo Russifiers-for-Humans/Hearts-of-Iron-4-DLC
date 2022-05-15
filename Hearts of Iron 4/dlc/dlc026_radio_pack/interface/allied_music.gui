@@ -1,0 +1,124 @@
+guiTypes = {
+	containerWindowType = {
+		name = "allies_faceplate"
+		position = { x =0 y=0 }
+		size = { width = 590 height = 46 }
+
+		iconType ={
+			name ="musicplayer_header_bg"
+			spriteType = "GFX_allied_faceplate"
+			position = { x= 0 y = 0 }
+			alwaystransparent = yes
+		}
+
+		instantTextboxType = {
+			name = "track_name"
+			position = { x = 72 y = 34 }
+			font = "hoi4_typewriter16"
+			text = "Roger Pontare - Nar vindarna viskar mitt namn"
+			maxWidth = 450
+			maxHeight = 25
+			format = center
+		}
+
+		instantTextboxType = {
+			name = "track_elapsed"
+			position = { x = 70 y = 40 }
+			font = "hoi4_typewriter16"
+			text = "00:00"
+			maxWidth = 50
+			maxHeight = 25
+			format = center
+		}
+
+		instantTextboxType = {
+			name = "track_duration"
+			position = { x = 470 y = 40 }
+			font = "hoi4_typewriter16"
+			text = "02:58"
+			maxWidth = 50
+			maxHeight = 25
+			format = center
+		}
+
+		buttonType = {
+			name = "prev_button"
+			position = { x = 220 y = 23 }
+			quadTextureSprite ="GFX_musicplayer_previous_button_allies"
+			buttonFont = "Main_14_black"
+			Orientation = "LOWER_LEFT"
+			clicksound = click_close
+			pdx_tooltip = "MUSICPLAYER_PREV"
+		}
+
+		buttonType = {
+			name = "play_button"
+			position = { x = 270 y = 17 }
+			quadTextureSprite ="GFX_musicplayer_play_pause_button_allies"
+			buttonFont = "Main_14_black"
+			Orientation = "LOWER_LEFT"
+			clicksound = click_close
+		}
+
+		buttonType = {
+			name = "next_button"
+			position = { x = 333 y = 23 }
+			quadTextureSprite ="GFX_musicplayer_next_button_allies"
+			buttonFont = "Main_14_black"
+			Orientation = "LOWER_LEFT"
+			clicksound = click_close
+			pdx_tooltip = "MUSICPLAYER_NEXT"
+		}
+
+		extendedScrollbarType = {
+			name = "volume_slider"
+			position = { x = 40 y = 45}
+			size = { width = 90 height = 16 }
+			tileSize = { width = 12 height = 12}
+			maxValue =100
+			minValue =0
+			stepSize =1
+			startValue = 50
+			horizontal = yes
+			orientation = lower_left
+			origo = lower_left
+			setTrackFrameOnChange = yes
+
+			slider = {
+				name = "Slider"	
+				quadTextureSprite = "GFX_scroll_drager"
+				position = { x=0 y = 1 }
+				pdx_tooltip = "MUSICPLAYER_ADJUST_VOL"
+			}
+
+			track = {
+				name = "Track"
+				quadTextureSprite = "GFX_volume_track_allies"
+				position = { x=0 y = 3 }
+				alwaystransparent = yes
+				pdx_tooltip = "MUSICPLAYER_ADJUST_VOL"
+			}
+		}
+
+		buttonType = {
+			name = "shuffle_button"
+			position = { x = 474 y = 24 }
+			quadTextureSprite ="GFX_toggle_shuffle_buttons_allies"
+			buttonFont = "Main_14_black"
+			Orientation = "LOWER_LEFT"
+			clicksound = click_close
+		}
+	}
+
+	containerWindowType={
+		name = "allies_stations_entry"
+		size = { width = 162 height = 130 }
+		
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_allies_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
+}

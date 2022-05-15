@@ -1,0 +1,9 @@
+name = "Sabaton Soundtrack"
+path = "dlc/dlc013_sabaton"
+steam_id = "461800"
+pops_id = "hoi4_dlc013_sabaton"
+affects_checksum = no
+affects_compatability = no
+third_party_content = yes
+category= "music"
+checksum = "8e03360ba34c2bbf0bf33ecee60ce8f4"

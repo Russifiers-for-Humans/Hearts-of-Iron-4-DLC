@@ -1,0 +1,9 @@
+name = "Death or Dishonor"
+path = "dlc/dlc020_death_or_dishonor"
+steam_id = "584140"
+pops_id = "hoi4_dlc020_death_or_dishonor"
+affects_checksum = yes
+affects_compatability = no
+third_party_content = no
+category = "expansion"
+checksum = "2e3d2eff5d89bafa0937f68431fdadd0"

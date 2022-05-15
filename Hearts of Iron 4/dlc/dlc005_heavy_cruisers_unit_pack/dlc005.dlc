@@ -1,0 +1,9 @@
+name = "Heavy Cruisers Unit Pack"
+archive = "dlc/dlc005_heavy_cruisers_unit_pack/dlc005.zip"
+steam_id = "460553"
+pops_id = "hoi4_dlc005_heavy_cruisers_unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "b17c6b169c63bd662bdd81f96c00201c"
+third_party_content = no
+category="unit_pack"

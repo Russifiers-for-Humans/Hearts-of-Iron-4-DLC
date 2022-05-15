@@ -1,0 +1,65 @@
+animation = {
+	name = "pol_motorized_01_idle_animation"
+	file = "pol_motorized_01_idle.anim"
+}
+
+animation = {
+	name = "pol_motorized_01_move_animation"
+	file = "pol_motorized_01_moving.anim"
+}
+
+animation = {
+	name = "POL_tank_light_tks_attack_animation"
+	file = "POL_tank_light_tks_attack.anim"
+}
+
+animation = {
+	name = "POL_tank_light_tks_idle_animation"
+	file = "POL_tank_light_tks_idle.anim"
+}
+
+animation = {
+	name = "POL_tank_light_tks_moving_animation"
+	file = "POL_tank_light_tks_moving.anim"
+}
+
+animation = {
+	name = "POL_tank_light_attack_animation"
+	file = "POL_tank_light_attack.anim"
+}
+
+animation = {
+	name = "POL_tank_light_idle_animation"
+	file = "POL_tank_light_idle.anim"
+}
+
+animation = {
+	name = "POL_tank_light_moving_animation"
+	file = "POL_tank_light_moving.anim"
+}
+
+animation = {
+	name = "POL_tank_medium_attack_animation"
+	file = "POL_tank_medium_attack.anim"
+}
+
+animation = {
+	name = "POL_tank_medium_idle_animation"
+	file = "POL_tank_medium_idle.anim"
+}
+
+animation = {
+	name = "POL_tank_medium_moving_animation"
+	file = "POL_tank_medium_moving.anim"
+}
+
+animation = {
+	name = "POL_infantry_mg_march_animation"
+	file = "POL_infantry_march_mg.anim"
+}
+
+animation = {
+	name = "POL_infantry_rifle_march_animation"
+	file = "POL_infantry_march_rifle.anim"
+}
+

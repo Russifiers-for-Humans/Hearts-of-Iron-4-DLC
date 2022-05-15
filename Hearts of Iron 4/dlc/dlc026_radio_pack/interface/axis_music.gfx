@@ -1,0 +1,59 @@
+spriteTypes = {
+
+	
+	spriteType = {
+		name = "GFX_axis_faceplate"
+		textureFile = "gfx/faceplate_axis.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_musicplayer_play_pause_button_axis"
+		texturefile = "gfx/musicplayer_play_pause_button_axis.dds"
+		effectFile = "gfx/FX/buttonstate.lua"	
+		noOfFrames = 2			
+	}
+
+	spriteType = {
+		name = "GFX_musicplayer_stop_button"
+		texturefile = "gfx//interface//topbar//musicplayer//musicplayer_stop_button.dds"
+		effectFile = "gfx/FX/buttonstate.lua"	
+	}
+
+	spriteType = {
+		name = "GFX_musicplayer_next_button_axis"
+		texturefile = "gfx/musicplayer_next_button_axis.dds"
+		effectFile = "gfx/FX/buttonstate.lua"	
+	}
+
+	spriteType = {
+		name = "GFX_musicplayer_previous_button_axis"
+		texturefile = "gfx/musicplayer_previous_button_axis.dds"
+		effectFile = "gfx/FX/buttonstate.lua"	
+	}
+
+	spriteType = {
+		name = "GFX_toggle_shuffle_buttons_axis"
+		texturefile = "gfx/toggle_shuffle_buttons_axis.dds"
+		effectFile = "gfx/FX/buttonstate.lua"
+		noOfFrames = 3			
+	}
+	
+	
+	progressbartype = {
+		name = "GFX_volume_track_axis"
+		color = { 1.0 1.0 1.0 }
+		colortwo = { 1.0 1.0 1.0 }
+		textureFile1 = "gfx/music_vol_progress_axis.dds"
+		textureFile2 = "gfx/music_vol_progress_bg_axis.dds"
+		size = { x = 89 y = 15 }
+		effectFile = "gfx/FX/progress.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_axis_album_art"
+		texturefile = "gfx/axis_album_art.dds"
+		noOfFrames = 2
+	}	
+
+
+}

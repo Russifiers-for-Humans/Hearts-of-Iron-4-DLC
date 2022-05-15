@@ -1,0 +1,348 @@
+spriteTypes = {
+
+	### BUL
+
+	spriteType = {
+		name = "GFX_idea_BUL_aleksandar_tsankov_advisor"
+		texturefile = "gfx/interface/ideas/idea_BUL_aleksandar_tsankov_advisor.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_BUL_angel_dotsev"
+		texturefile = "gfx/interface/ideas/idea_BUL_angel_dotsev.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_BUL_asen_nikolov"
+		texturefile = "gfx/interface/ideas/idea_BUL_asen_nikolov.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_BUL_atanas_shalapatov"
+		texturefile = "gfx/interface/ideas/idea_BUL_atanas_shalapatov.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_BUL_bogdan_filov_advisor"
+		texturefile = "gfx/interface/ideas/idea_BUL_bogdan_filov_advisor.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_BUL_damyan_velchev"
+		texturefile = "gfx/interface/ideas/idea_BUL_damyan_velchev.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_BUL_ferdinand_i"
+		texturefile = "gfx/interface/ideas/idea_BUL_ferdinand_i.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_BUL_georgi_dimitrov"
+		texturefile = "gfx/interface/ideas/idea_BUL_georgi_dimitrov.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_BUL_georgi_kyoseivanov_advisor"
+		texturefile = "gfx/interface/ideas/idea_BUL_georgi_kyoseivanov_advisor.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_BUL_georgi_markov"
+		texturefile = "gfx/interface/ideas/idea_BUL_georgi_markov.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_BUL_georgi_popov"
+		texturefile = "gfx/interface/ideas/idea_BUL_georgi_popov.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_BUL_ivan_markov"
+		texturefile = "gfx/interface/ideas/idea_BUL_ivan_markov.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_BUL_kimon_georgiev_advisor"
+		texturefile = "gfx/interface/ideas/idea_BUL_kimon_georgiev_advisor.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_BUL_konstantin_lukash_advisor"
+		texturefile = "gfx/interface/ideas/idea_BUL_konstantin_lukash_advisor.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_BUL_nikola_hadzipetkov_advisor"
+		texturefile = "gfx/interface/ideas/idea_BUL_nikola_hadzipetkov_advisor.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_BUL_nikola_mihov"
+		texturefile = "gfx/interface/ideas/idea_BUL_nikola_mihov.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_BUL_nikola_mushanov"
+		texturefile = "gfx/interface/ideas/idea_BUL_nikola_mushanov.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_BUL_nikola_stoychev"
+		texturefile = "gfx/interface/ideas/idea_BUL_nikola_stoychev.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_BUL_regency_council"
+		texturefile = "gfx/interface/ideas/idea_BUL_regency_council.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_BUL_vasil_boydev_advisor"
+		texturefile = "gfx/interface/ideas/idea_BUL_vasil_boydev_advisor.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_BUL_vladimir_zaimov"
+		texturefile = "gfx/interface/ideas/idea_BUL_vladimir_zaimov.dds"
+	}
+
+	### GRE
+
+	spriteType = {
+		name = "GFX_idea_GRE_alexandros_papagos_advisor"
+		texturefile = "gfx/interface/ideas/idea_GRE_alexandros_papagos.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GRE_aristotle_onassis"
+		texturefile = "gfx/interface/ideas/idea_GRE_aristotle_onassis.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GRE_aris_velouchiotis_advisor"
+		texturefile = "gfx/interface/ideas/idea_GRE_aris_velouchiotis.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GRE_charalambos_katsimitros"
+		texturefile = "gfx/interface/ideas/idea_GRE_charalambos_katsimitros.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GRE_dimitrios_psarros"
+		texturefile = "gfx/interface/ideas/idea_GRE_dimitrios_psarros.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GRE_eleftherios_venizelos"
+		texturefile = "gfx/interface/ideas/idea_GRE_eleftherios_venizelos.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GRE_emmanouil_tsouderos_advisor"
+		texturefile = "gfx/interface/ideas/idea_GRE_emmanouil_tsouderos.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GRE_george_ii_advisor"
+		texturefile = "gfx/interface/ideas/idea_GRE_george_ii_advisor.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GRE_george_mercouris"
+		texturefile = "gfx/interface/ideas/idea_GRE_george_mercouris.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GRE_georgios_kosmidis"
+		texturefile = "gfx/interface/ideas/idea_GRE_georgios_kosmidis.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GRE_konstantinos_demertzis"
+		texturefile = "gfx/interface/ideas/idea_GRE_konstantinos_demertzis.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GRE_markos_drakos"
+		texturefile = "gfx/interface/ideas/idea_GRE_markos_drakos.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GRE_napoleon_zervas_advisor"
+		texturefile = "gfx/interface/ideas/idea_GRE_napoleon_zervas.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GRE_nikolaos_plastiras_advisor"
+		texturefile = "gfx/interface/ideas/idea_GRE_nikolaos_plastiras.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GRE_nikos_zachariadis"
+		texturefile = "gfx/interface/ideas/idea_GRE_nikos_zachariadis.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GRE_panagiotis_demestichas"
+		texturefile = "gfx/interface/ideas/idea_GRE_panagiotis_demestichas.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GRE_themistoklis_sofoulis"
+		texturefile = "gfx/interface/ideas/idea_GRE_themistoklis_sofoulis.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GRE_theodoros_pangalos"
+		texturefile = "gfx/interface/ideas/idea_GRE_theodoros_pangalos.dds"
+	}
+
+	### KUR
+
+	spriteType = {
+		name = "GFX_idea_KUR_ihsan_nuri"
+		texturefile = "gfx/interface/ideas/idea_KUR_ihsan_nuri.dds"
+	}
+
+	### SOV
+
+	spriteType = {
+		name = "GFX_idea_SOV_hazi_aslanov"
+		texturefile = "gfx/interface/ideas/idea_SOV_hazi_aslanov.dds"
+	}
+
+	### TUR
+
+	spriteType = {
+		name = "GFX_idea_TUR_abdulmejid_ii"
+		texturefile = "gfx/interface/ideas/idea_TUR_abdulmejid_ii.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_abdurrahman_nafiz_gurman"
+		texturefile = "gfx/interface/ideas/idea_TUR_abdurrahman_nafiz_gurman.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_adnan_menderes"
+		texturefile = "gfx/interface/ideas/idea_TUR_adnan_menderes.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_ahmet_fevzi_pasha"
+		texturefile = "gfx/interface/ideas/idea_TUR_ahmet_fevzi_pasha.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_celal_bayar"
+		texturefile = "gfx/interface/ideas/idea_TUR_celal_bayar.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_cemil_cahit_toydemir"
+		texturefile = "gfx/interface/ideas/idea_TUR_cemil_cahit_toydemir.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_durrusehvar_sultan"
+		texturefile = "gfx/interface/ideas/idea_TUR_durrusehvar_sultan.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_fahrettin_altay"
+		texturefile = "gfx/interface/ideas/idea_TUR_fahrettin_altay.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_fakhri_pasha"
+		texturefile = "gfx/interface/ideas/idea_TUR_fakhri_pasha.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_fevzi_cakmak"
+		texturefile = "gfx/interface/ideas/idea_TUR_fevzi_cakmak.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_hayrullah_fisek"
+		texturefile = "gfx/interface/ideas/idea_TUR_hayrullah_fisek.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_izzettin_calislar"
+		texturefile = "gfx/interface/ideas/idea_TUR_izzettin_calislar.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_kazim_karabekir"
+		texturefile = "gfx/interface/ideas/idea_TUR_kazim_karabekir.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_kazim_orbay"
+		texturefile = "gfx/interface/ideas/idea_TUR_kazim_orbay.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_mehmed_esad_pasha"
+		texturefile = "gfx/interface/ideas/idea_TUR_mehmed_esad_pasha.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_mehmet_ali_ulgen"
+		texturefile = "gfx/interface/ideas/idea_TUR_mehmet_ali_ulgen.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_mehmet_nuri_yamut"
+		texturefile = "gfx/interface/ideas/idea_TUR_mehmet_nuri_yamut.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_mustafa_mugali"
+		texturefile = "gfx/interface/ideas/idea_TUR_mustafa_mugali.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_nihal_atsiz"
+		texturefile = "gfx/interface/ideas/idea_TUR_nihal_atsiz.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_recep_peker"
+		texturefile = "gfx/interface/ideas/idea_TUR_recep_peker.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_refe_pasha"
+		texturefile = "gfx/interface/ideas/idea_TUR_refe_pasha.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_ruzi_nazar"
+		texturefile = "gfx/interface/ideas/idea_TUR_ruzi_nazar.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_sadik_altincan"
+		texturefile = "gfx/interface/ideas/idea_TUR_sadik_altincan.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_salih_omurtak"
+		texturefile = "gfx/interface/ideas/idea_TUR_salih_omurtak.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_sevket_sureyya_aydemir"
+		texturefile = "gfx/interface/ideas/idea_TUR_sevket_sureyya_aydemir.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_sukru_okan"
+		texturefile = "gfx/interface/ideas/idea_TUR_sukru_okan.dds"
+	}
+
+}

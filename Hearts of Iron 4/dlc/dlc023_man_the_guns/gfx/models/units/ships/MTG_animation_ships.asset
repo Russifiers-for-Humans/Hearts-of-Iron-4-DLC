@@ -1,0 +1,187 @@
+############
+# SHIPS
+############
+
+# generic_conversion_carrier
+animation = {
+	name = "generic_conversion_carrier_death_animation"
+	file = "generic_conversion_carrier_death.anim"
+}
+
+animation = {
+	name = "generic_conversion_carrier_death2_animation"
+	file = "generic_conversion_carrier_death2.anim"
+}
+
+animation = {
+	name = "generic_conversion_carrier_idle_animation"
+	file = "generic_conversion_carrier_idle.anim"
+}
+
+# ENG_battleship_nelson
+animation = {
+	name = "ENG_battleship_nelson_death_animation"
+	file = "ENG_battleship_nelson_death.anim"
+}
+
+animation = {
+	name = "ENG_battleship_nelson_attack_animation"
+	file = "ENG_battleship_nelson_attack.anim"
+}
+
+animation = {
+	name = "ENG_battleship_nelson_defend_animation"
+	file = "ENG_battleship_nelson_defend.anim"
+}
+
+animation = {
+	name = "ENG_battleship_nelson_idle_animation"
+	file = "ENG_battleship_nelson_idle.anim"
+}
+
+# ENG_destroyer_tribal
+animation = {
+	name = "ENG_destroyer_tribal_death_animation"
+	file = "ENG_destroyer_tribal_death.anim"
+}
+
+animation = {
+	name = "ENG_destroyer_tribal_attack_animation"
+	file = "ENG_destroyer_tribal_attack.anim"
+}
+
+animation = {
+	name = "ENG_destroyer_tribal_defend_animation"
+	file = "ENG_destroyer_tribal_defend.anim"
+}
+
+animation = {
+	name = "ENG_destroyer_tribal_idle_animation"
+	file = "ENG_destroyer_tribal_idle.anim"
+}
+
+# ENG_heavy_cruiser_county
+animation = {
+	name = "ENG_heavy_cruiser_county_death_animation"
+	file = "ENG_heavy_cruiser_county_death.anim"
+}
+
+animation = {
+	name = "ENG_heavy_cruiser_county_attack_animation"
+	file = "ENG_heavy_cruiser_county_attack.anim"
+}
+
+animation = {
+	name = "ENG_heavy_cruiser_county_defend_animation"
+	file = "ENG_heavy_cruiser_county_defend.anim"
+}
+
+animation = {
+	name = "ENG_heavy_cruiser_county_idle_animation"
+	file = "ENG_heavy_cruiser_county_idle.anim"
+}
+
+# ENG_light_cruiser_leander
+animation = {
+	name = "ENG_light_cruiser_leander_death_animation"
+	file = "ENG_light_cruiser_leander_death.anim"
+}
+
+animation = {
+	name = "ENG_light_cruiser_leander_attack_animation"
+	file = "ENG_light_cruiser_leander_attack.anim"
+}
+
+animation = {
+	name = "ENG_light_cruiser_leander_defend_animation"
+	file = "ENG_light_cruiser_leander_defend.anim"
+}
+
+animation = {
+	name = "ENG_light_cruiser_leander_idle_animation"
+	file = "ENG_light_cruiser_leander_idle.anim"
+}
+
+# USA_battleship_new_mexico
+animation = {
+	name = "USA_battleship_new_mexico_death_animation"
+	file = "USA_battleship_new_mexico_death.anim"
+}
+
+animation = {
+	name = "USA_battleship_new_mexico_attack_animation"
+	file = "USA_battleship_new_mexico_attack.anim"
+}
+
+animation = {
+	name = "USA_battleship_new_mexico_defend_animation"
+	file = "USA_battleship_new_mexico_defend.anim"
+}
+
+animation = {
+	name = "USA_battleship_new_mexico_idle_animation"
+	file = "USA_battleship_new_mexico_idle.anim"
+}
+
+# USA_destroyer_fletcher
+animation = {
+	name = "USA_destroyer_fletcher_death_animation"
+	file = "USA_destroyer_fletcher_death.anim"
+}
+
+animation = {
+	name = "USA_destroyer_fletcher_attack_animation"
+	file = "USA_destroyer_fletcher_attack.anim"
+}
+
+animation = {
+	name = "USA_destroyer_fletcher_defend_animation"
+	file = "USA_destroyer_fletcher_defend.anim"
+}
+
+animation = {
+	name = "USA_destroyer_fletcher_idle_animation"
+	file = "USA_destroyer_fletcher_idle.anim"
+}
+
+# USA_light_cruiser_brooklyn
+animation = {
+	name = "USA_light_cruiser_brooklyn_death_animation"
+	file = "USA_light_cruiser_brooklyn_death.anim"
+}
+
+animation = {
+	name = "USA_light_cruiser_brooklyn_attack_animation"
+	file = "USA_light_cruiser_brooklyn_attack.anim"
+}
+
+animation = {
+	name = "USA_light_cruiser_brooklyn_defend_animation"
+	file = "USA_light_cruiser_brooklyn_defend.anim"
+}
+
+animation = {
+	name = "USA_light_cruiser_brooklyn_idle_animation"
+	file = "USA_light_cruiser_brooklyn_idle.anim"
+}
+
+# USA_heavy_cruiser_pensacola
+animation = {
+	name = "USA_heavy_cruiser_pensacola_death_animation"
+	file = "USA_heavy_cruiser_pensacola_death.anim"
+}
+
+animation = {
+	name = "USA_heavy_cruiser_pensacola_attack_animation"
+	file = "USA_heavy_cruiser_pensacola_attack.anim"
+}
+
+animation = {
+	name = "USA_heavy_cruiser_pensacola_defend_animation"
+	file = "USA_heavy_cruiser_pensacola_defend.anim"
+}
+
+animation = {
+	name = "USA_heavy_cruiser_pensacola_idle_animation"
+	file = "USA_heavy_cruiser_pensacola_idle.anim"
+}

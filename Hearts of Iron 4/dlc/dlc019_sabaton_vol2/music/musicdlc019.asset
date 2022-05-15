@@ -1,0 +1,59 @@
+music = {
+	name = "fourty_to_one"
+	file = "sbst_401.ogg"
+	volume = 0.30
+}
+
+music = {
+	name = "coat_of_arms"
+	file = "sbst_coat_of_arms.ogg"
+	volume = 0.30
+}
+
+music = {
+	name = "ghost_division"
+	file = "sbst_ghost_division.ogg"
+	volume = 0.30
+}
+
+music = {
+	name = "panzerkampf"
+	file = "sbst_panzerkampf.ogg"
+	volume = 0.30
+}
+
+music = {
+	name = "resist_and_bite"
+	file = "sbst_resist_and_bite.ogg"
+	volume = 0.30
+}
+
+music = {
+	name = "screaming_eagles"
+	file = "sbst_screaming_eagles.ogg"
+	volume = 0.30
+}
+
+music = {
+	name = "smoking_snakes"
+	file = "sbst_smoking_snakes.ogg"
+	volume = 0.30
+}
+
+music = {
+	name = "the_last_battle"
+	file = "sbst_the_last_battle.ogg"
+	volume = 0.30
+}
+
+music = {
+	name = "to_hell_and_back"
+	file = "sbst_to_hell_and_back.ogg"
+	volume = 0.30
+}
+
+music = {
+	name = "uprising"
+	file = "sbst_uprising.ogg"
+	volume = 0.30
+}

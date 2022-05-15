@@ -1,0 +1,76 @@
+entity = {
+	name = "NZL_artillery_entity"
+	pdxmesh = "frame_artillery_mesh"
+	
+	default_state = "idle"
+	state = { name = "idle"				animation = "idle" 					animation_blend_time = 0.3 animation_speed = 1.0 }
+	state = { name = "retreat"			animation = "idle" 	 				animation_blend_time = 0.3 animation_speed = 1.0 }
+	state = { name = "training"			animation = "idle" 					animation_blend_time = 0.3 animation_speed = 1.0 }
+	state = { name = "death"			animation = "idle" 					animation_blend_time = 0.3 animation_speed = 1.0 }
+	state = { name = "support_attack"	animation = "attack" 					animation_blend_time = 0.0 animation_speed = 1.0 propagate_state = { infantry = "idle" } }
+	state = { name = "attack"			animation = "attack" 					animation_blend_time = 0.0 animation_speed = 1.0 propagate_state = { infantry = "idle" }
+		event = { sound = { soundeffect = artillery_unit_fire_01 } }
+	}
+	state = { name = "defend"			animation = "attack" 					animation_blend_time = 0.0 animation_speed = 1.0 propagate_state = { infantry = "idle" }
+		event = { sound = { soundeffect = artillery_unit_fire_01 } }
+	}
+	state = { name = "move"				animation = "move" 					animation_blend_time = 0.3 animation_speed = 1.0 }
+	state = { name = "retreat"			animation = "move" 					animation_blend_time = 0.3 animation_speed = 1.0 }
+	
+	scale = 1
+	
+	attach = { name = artillery			artillery = "artillery_gun_entity" }
+	attach = { name = infantry			infantry = "NZL_infantry_entity" }
+}
+
+entity = {
+	name = "SAF_artillery_entity"
+	clone = "NZL_artillery_entity"
+	attach = { name = infantry			infantry = "SAF_infantry_entity" }
+}
+
+entity = {
+	name = "CAN_artillery_entity"
+	clone = "NZL_artillery_entity"
+	attach = { name = infantry			infantry = "CAN_infantry_entity" }
+}
+
+entity = {
+	name = "RAJ_artillery_entity"
+	clone = "NZL_artillery_entity"
+	attach = { name = infantry			infantry = "RAJ_infantry_entity" }
+}
+
+entity = {
+	name = "AST_artillery_entity"
+	clone = "NZL_artillery_entity"
+	attach = { name = infantry			infantry = "AST_infantry_entity" }
+}
+
+##############################	
+#####	Snow Camouflage	
+##############################
+
+entity = {
+	name = "NZL_artillery_entity_snow"
+	clone = "NZL_artillery_entity"
+	attach = { name = infantry			infantry = "NZL_infantry_entity_snow" }
+}
+
+entity = {
+	name = "RAJ_artillery_entity_snow"
+	clone = "RAJ_artillery_entity"
+	attach = { name = infantry			infantry = "RAJ_infantry_entity_snow" }
+}
+
+entity = {
+	name = "AST_artillery_entity_snow"
+	clone = "NZL_artillery_entity"
+	attach = { name = infantry			infantry = "AST_infantry_entity_snow" }
+}
+
+entity = {
+	name = "SAF_artillery_entity_snow"
+	clone = "NZL_artillery_entity"
+	attach = { name = infantry			infantry = "SAF_infantry_entity_snow" }
+}

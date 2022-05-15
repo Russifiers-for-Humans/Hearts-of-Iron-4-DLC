@@ -1,0 +1,9 @@
+animation = {
+	name = "DOD_infantry_rifle_march_animation"
+	file = "DOD_infantry_march_rifle.anim"
+}
+
+animation = {
+	name = "DOD_infantry_mg_march_animation"
+	file = "DOD_infantry_march_mg.anim"
+}

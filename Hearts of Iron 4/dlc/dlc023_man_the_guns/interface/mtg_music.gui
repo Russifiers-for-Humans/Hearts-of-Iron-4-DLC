@@ -1,0 +1,94 @@
+guiTypes = {
+	containerWindowType = {
+		name = "man_the_guns_faceplate"
+		position = { x=0 y=0 }
+		size = { width = 590 height = 46 }
+		margin = {top=0 left=13 bottom=0 right=13}
+
+		iconType = {
+			name ="musicplayer_bar"
+			spriteType = "GFX_musicplayer_bar"
+			position = { x= 0 y = 0 }
+		}
+
+		buttonType = {
+			name = "prev_button"
+			position = { x = 207 y = -42 }
+			quadTextureSprite ="GFX_musicplayer_previous_button"
+			buttonFont = "Main_14_black"
+			Orientation = "LOWER_LEFT"
+			clicksound = click_close
+			pdx_tooltip = "MUSICPLAYER_PREV"
+		}
+
+		buttonType = {
+			name = "play_button"
+			position = { x = 246 y = -42 }
+			quadTextureSprite ="GFX_musicplayer_play_pause_button"
+			buttonFont = "Main_14_black"
+			Orientation = "LOWER_LEFT"
+			clicksound = click_close
+		}
+
+		buttonType = {
+			name = "next_button"
+			position = { x = 315 y = -42 }
+			quadTextureSprite ="GFX_musicplayer_next_button"
+			buttonFont = "Main_14_black"
+			Orientation = "LOWER_LEFT"
+			clicksound = click_close
+			pdx_tooltip = "MUSICPLAYER_NEXT"
+		}
+
+		extendedScrollbarType = {
+			name = "volume_slider"
+			position = { x = 38 y = -15 }
+			size = { width = 75 height = 18 }
+			tileSize = { width = 12 height = 12}
+			maxValue =100
+			minValue =0
+			stepSize =1
+			startValue = 50
+			horizontal = yes
+			orientation = lower_left
+			origo = lower_left
+			setTrackFrameOnChange = yes
+
+			slider = {
+				name = "Slider"	
+				quadTextureSprite = "GFX_scroll_drager"
+				position = { x=0 y = 1 }
+				pdx_tooltip = "MUSICPLAYER_ADJUST_VOL"
+			}
+
+			track = {
+				name = "Track"
+				quadTextureSprite = "GFX_volume_track"
+				position = { x=0 y = 3 }
+				alwaystransparent = yes
+				pdx_tooltip = "MUSICPLAYER_ADJUST_VOL"
+			}
+		}
+
+		buttonType = {
+			name = "shuffle_button"
+			position = { x = 485 y = -42 }
+			quadTextureSprite ="GFX_toggle_shuffle_buttons"
+			buttonFont = "Main_14_black"
+			Orientation = "LOWER_LEFT"
+			clicksound = click_close
+		}
+	}
+
+	containerWindowType={
+		name = "man_the_guns_stations_entry"
+		size = { width = 162 height = 130 }
+
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_sabaton_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
+}

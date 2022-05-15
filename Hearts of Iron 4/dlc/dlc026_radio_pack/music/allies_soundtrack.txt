@@ -1,0 +1,41 @@
+music_station = "allies"
+
+music = {
+	song = "allies_justanotherday"
+	
+}
+
+music = {
+	song = "allies_longingfortomorrow"
+	
+}
+
+music = {
+	song = "allies_meetingwithcigars"
+	
+}
+
+music = {
+	song = "allies_neverlookingbackagain"
+	
+}
+
+music = {
+	song = "allies_somedaywewillmeetagain"
+	
+}
+
+music = {
+	song = "allies_thenightbefore"
+	
+}
+
+music = {
+	song = "allies_thethoughtofyou"
+	
+}
+
+music = {
+	song = "allies_verylastofgoodbyes"
+	
+}

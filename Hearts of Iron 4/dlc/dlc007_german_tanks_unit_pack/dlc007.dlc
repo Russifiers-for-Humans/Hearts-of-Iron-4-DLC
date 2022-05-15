@@ -1,0 +1,9 @@
+name = "German Tanks Unit Pack"
+path = "dlc/dlc007_german_tanks_unit_pack"
+steam_id = "460550"
+pops_id = "hoi4_dlc007_german_tanks_unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "75fad691819ad1087bbf216522e6d9f8"
+third_party_content = no
+category="unit_pack"

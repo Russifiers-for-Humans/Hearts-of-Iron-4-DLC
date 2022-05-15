@@ -1,0 +1,73 @@
+category = {
+ name = "UI"
+ soundeffects = {
+
+ 	sfx_ui_sd_module_turret
+ 	sfx_ui_sd_module_sonar
+ 	sfx_ui_sd_module_default
+ 	sfx_ui_sd_module_engine
+
+	}
+}
+
+#########################################################
+#														#
+#					     ASSETS			    			#
+#														#
+#########################################################
+
+sound = {
+	name = "sfx_ui_sd_module_turret_01"
+	file = "ship_designer/sfx_ui_sd_module_turrent_01.wav"
+}
+sound = {
+	name = "sfx_ui_sd_module_sonar_01"
+	file = "ship_designer/sfx_ui_sd_module_sonar_01.wav"
+}
+sound = {
+	name = "sfx_ui_sd_module_misc_01"
+	file = "ship_designer/sfx_ui_sd_module_misc_01.wav"
+}
+sound = {
+	name = "sfx_ui_sd_module_engine_01"
+	file = "ship_designer/sfx_ui_sd_module_engine_01.wav"
+}
+
+
+
+#########################################################
+#														#
+#					  SOUNDEFFECTS		    			#
+#														#
+#########################################################
+
+soundeffect = {
+	name = "sfx_ui_sd_module_turret"
+	volume = 0.5
+	sounds = {
+		sound = "sfx_ui_sd_module_turret_01"
+	}
+}
+soundeffect = {
+	name = "sfx_ui_sd_module_sonar"
+	volume = 0.5
+	sounds = {
+		sound = "sfx_ui_sd_module_sonar_01"
+	}
+}
+soundeffect = {
+	name = "sfx_ui_sd_module_default"
+	volume = 0.5
+	sounds = {
+		sound = "sfx_ui_sd_module_misc_01"
+	}
+}
+soundeffect = {
+	name = "sfx_ui_sd_module_engine"
+	volume = 0.27
+	sounds = {
+		sound = "sfx_ui_sd_module_engine_01"
+	}
+}
+
+

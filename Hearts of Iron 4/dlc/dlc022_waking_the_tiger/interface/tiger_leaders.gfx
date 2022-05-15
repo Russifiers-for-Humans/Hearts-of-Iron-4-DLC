@@ -1,0 +1,305 @@
+spriteTypes = {	
+	
+	
+	#### GERMANY ###
+	
+	spriteType = {
+		name = "GFX_portrait_ger_wilhelm_ii"
+		texturefile = "gfx/leaders/GER/portrait_ger_wilhelm_ii.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_ger_august_von_mackensen"
+		texturefile = "gfx/leaders/GER/portrait_ger_august_von_mackensen.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_ger_wilhelm_iii"
+		texturefile = "gfx/leaders/GER/portrait_ger_wilhelm_iii.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_ger_victoria_louise"
+		texturefile = "gfx/leaders/GER/portrait_ger_victoria_louise.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_ger_von_lettow_vorbeck"
+		texturefile = "gfx/leaders/GER/portrait_ger_von_lettow_vorbeck.dds"
+	}
+	
+
+	##### CHINA #####
+	
+	spriteType = {
+		name = "GFX_portrait_chi_sun_li_jen"
+		texturefile = "gfx/leaders/CHI/portrait_chi_sun_li_jen.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_chi_xue_yue"
+		texturefile = "gfx/leaders/CHI/portrait_chi_xue_yue.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_chi_du_yuming"
+		texturefile = "gfx/leaders/CHI/portrait_chi_du_yuming.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_chi_tai_an_lan"
+		texturefile = "gfx/leaders/CHI/portrait_chi_tai_an_lan.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_chi_wang_yaowu"
+		texturefile = "gfx/leaders/CHI/portrait_chi_wang_yaowu.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_chi_he_yingqin"
+		texturefile = "gfx/leaders/CHI/portrait_chi_he_yingqin.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_chi_alexander_von_falkenhausen"
+		texturefile = "gfx/leaders/CHI/portrait_chi_alexander_von_falkenhausen.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_chi_wang_jingwei"
+		texturefile = "gfx/leaders/CHI/portrait_chi_wang_jingwei.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_chi_gu_zhutong"
+		texturefile = "gfx/leaders/CHI/portrait_chi_gu_zhutong.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_chi_hu_zongnan"
+		texturefile = "gfx/leaders/CHI/portrait_chi_hu_zongnan.dds"
+	}	
+
+	spriteType = {
+		name = "GFX_portrait_chi_wei_lihuang"
+		texturefile = "gfx/leaders/CHI/portrait_chi_wei_lihuang.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_chi_fu_zuoyi"
+		texturefile = "gfx/leaders/CHI/portrait_chi_fu_zuoyi.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_chi_zhang_xueliang"
+		texturefile = "gfx/leaders/CHI/portrait_chi_zhang_xueliang.dds"
+	}	
+	
+	##### PRC ###
+	
+	spriteType = {
+		name = "GFX_portrait_prc_zhang_lan"
+		texturefile = "gfx/leaders/PRC/portrait_prc_zhang_lan.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_prc_wang_ming"
+		texturefile = "gfx/leaders/PRC/portrait_prc_wang_ming.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_prc_zhu_de"
+		texturefile = "gfx/leaders/PRC/portrait_prc_zhu_de.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_prc_chen_yi"
+		texturefile = "gfx/leaders/PRC/portrait_prc_chen_yi.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_prc_peng_dehuai"
+		texturefile = "gfx/leaders/PRC/portrait_prc_peng_dehuai.dds"
+	}
+	
+	### MAN
+	
+	spriteType = {
+		name = "GFX_portrait_man_yoshiko_kawashima"
+		texturefile = "gfx/leaders/MAN/portrait_man_yoshiko_kawashima.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_man_henry_pu_yi_emperor"
+		texturefile = "gfx/leaders/MAN/portrait_man_henry_pu_yi.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_man_zhang_haipeng"
+		texturefile = "gfx/leaders/MAN/portrait_man_zhang_haipeng.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_man_zhang_jinghui"
+		texturefile = "gfx/leaders/MAN/portrait_man_zhang_jinghui.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_man_aisin_gioro_xiqia"
+		texturefile = "gfx/leaders/MAN/portrait_man_aisin_gioro_xiqia.dds"
+	}
+
+
+	##### Italy
+
+	spriteType = {
+		name = "GFX_portrait_italy_emperor_mussolini"
+		texturefile = "gfx/leaders/ITA/emperor_mussolini.dds"
+	}
+	
+	##### SOV
+	
+	spriteType = {
+		name = "GFX_portrait_sov_aleksandr_cherepanov"
+		texturefile = "gfx/leaders/SOV/portrait_sov_aleksandr_cherepanov.dds"
+	}
+	
+	##### Generic ###
+	
+	spriteType = {
+		name = "GFX_portrait_europe_generic_land_10"
+		texturefile = "gfx/leaders/Europe/portrait_europe_generic_land_10.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_europe_generic_land_11"
+		texturefile = "gfx/leaders/Europe/portrait_europe_generic_land_11.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_europe_generic_land_12"
+		texturefile = "gfx/leaders/Europe/portrait_europe_generic_land_12.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_europe_generic_land_13"
+		texturefile = "gfx/leaders/Europe/portrait_europe_generic_land_13.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_europe_generic_land_14"
+		texturefile = "gfx/leaders/Europe/portrait_europe_generic_land_14.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_europe_generic_land_15"
+		texturefile = "gfx/leaders/Europe/portrait_europe_generic_land_15.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_europe_generic_land_16"
+		texturefile = "gfx/leaders/Europe/portrait_europe_generic_land_16.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_europe_generic_land_17"
+		texturefile = "gfx/leaders/Europe/portrait_europe_generic_land_17.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_europe_generic_land_18"
+		texturefile = "gfx/leaders/Europe/portrait_europe_generic_land_18.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_asia_generic_land_7"
+		texturefile = "gfx/leaders/Asia/portrait_asia_generic_land_7.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_asia_generic_land_8"
+		texturefile = "gfx/leaders/Asia/portrait_asia_generic_land_8.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_asia_generic_land_9"
+		texturefile = "gfx/leaders/Asia/portrait_asia_generic_land_9.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_asia_generic_land_10"
+		texturefile = "gfx/leaders/Asia/portrait_asia_generic_land_10.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_asia_generic_land_11"
+		texturefile = "gfx/leaders/Asia/portrait_asia_generic_land_11.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_asia_generic_land_12"
+		texturefile = "gfx/leaders/Asia/portrait_asia_generic_land_12.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_asia_generic_land_13"
+		texturefile = "gfx/leaders/Asia/portrait_asia_generic_land_13.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_asia_generic_land_14"
+		texturefile = "gfx/leaders/Asia/portrait_asia_generic_land_14.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_south_america_generic_land_6"
+		texturefile = "gfx/leaders/South America/portrait_south_america_generic_land_6.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_south_america_generic_land_7"
+		texturefile = "gfx/leaders/South America/portrait_south_america_generic_land_7.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_south_america_generic_land_8"
+		texturefile = "gfx/leaders/South America/portrait_south_america_generic_land_8.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_south_america_generic_land_9"
+		texturefile = "gfx/leaders/South America/portrait_south_america_generic_land_9.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_south_america_generic_land_10"
+		texturefile = "gfx/leaders/South America/portrait_south_america_generic_land_10.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_africa_generic_land_5"
+		texturefile = "gfx/leaders/Africa/portrait_africa_generic_land_5.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_africa_generic_land_6"
+		texturefile = "gfx/leaders/Africa/portrait_africa_generic_land_6.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_africa_generic_land_7"
+		texturefile = "gfx/leaders/Africa/portrait_africa_generic_land_7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_india_generic_land_3"
+		texturefile = "gfx/leaders/India/portrait_india_generic_land_3.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_india_generic_land_4"
+		texturefile = "gfx/leaders/India/portrait_india_generic_land_4.dds"
+	}
+}	
+

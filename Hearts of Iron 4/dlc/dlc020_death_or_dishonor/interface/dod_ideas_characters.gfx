@@ -1,0 +1,156 @@
+spriteTypes = {
+
+	### CZE
+
+	spriteType = {
+		name = "GFX_idea_CZE_josef_snejdarek"
+		texturefile = "gfx/interface/ideas/idea_CZE_josef_snejdarek.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_CZE_konstantin_von_neurath"
+		texturefile = "gfx/interface/ideas/idea_CZE_konstantin_von_neurath.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_CZE_richard_tesarik"
+		texturefile = "gfx/interface/ideas/idea_CZE_richard_tesarik.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_CZE_sergej_vojcechovsky"
+		texturefile = "gfx/interface/ideas/idea_CZE_sergej_vojcechovsky.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_CZE_vojtech_luza"
+		texturefile = "gfx/interface/ideas/idea_CZE_vojtech_luza.dds"
+	}
+
+	### HUN
+
+	spriteType = {
+		name = "GFX_idea_HUN_bela_kun"
+		texturefile = "gfx/interface/ideas/idea_HUN_bela_kun.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_HUN_ferenc_feketehalmy_czeydner"
+		texturefile = "gfx/interface/ideas/idea_HUN_ferenc_feketehalmy_czeydner.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_HUN_friedrich_franz"
+		texturefile = "gfx/interface/ideas/idea_HUN_friedrich_franz.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_HUN_geza_lakatos"
+		texturefile = "gfx/interface/ideas/idea_HUN_geza_lakatos.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_HUN_ivan_hindy"
+		texturefile = "gfx/interface/ideas/idea_HUN_ivan_hindy.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_HUN_karoly_beregfy"
+		texturefile = "gfx/interface/ideas/idea_HUN_karoly_beregfy.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_HUN_lajos_veress"
+		texturefile = "gfx/interface/ideas/idea_HUN_lajos_veress.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_HUN_miklos_horthy_admiral"
+		texturefile = "gfx/interface/ideas/idea_HUN_miklos_horthy_admiral.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_HUN_otto_von_hapsburg"
+		texturefile = "gfx/interface/ideas/idea_HUN_otto_von_hapsburg.dds"
+	}
+
+	### ROM
+
+	spriteType = {
+		name = "GFX_idea_ROM_barbu_paraianu"
+		texturefile = "gfx/interface/ideas/idea_ROM_barbu_paraianu.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_ROM_carol_ii"
+		texturefile = "gfx/interface/ideas/idea_ROM_carol_ii.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_ROM_constantin_sanatescu"
+		texturefile = "gfx/interface/ideas/idea_ROM_constantin_sanatescu.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_ROM_corneliu_zelea_codreanu"
+		texturefile = "gfx/interface/ideas/idea_ROM_corneliu_zelea_codreanu.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_ROM_gheorghe_avramescu"
+		texturefile = "gfx/interface/ideas/idea_ROM_gheorghe_avramescu.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_ROM_horia_macellariu"
+		texturefile = "gfx/interface/ideas/idea_ROM_horia_macellariu.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_ROM_ioan_mihail_racovita"
+		texturefile = "gfx/interface/ideas/idea_ROM_ioan_mihail_racovita.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_ROM_michael_i"
+		texturefile = "gfx/interface/ideas/idea_ROM_michael_i.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_ROM_petre_dumitrescu"
+		texturefile = "gfx/interface/ideas/idea_ROM_petre_dumitrescu.dds"
+	}
+
+	### YUG
+
+	spriteType = {
+		name = "GFX_idea_YUG_danilo_kalafatovic"
+		texturefile = "gfx/interface/ideas/idea_YUG_danilo_kalafatovic.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_YUG_ivan_gosnjak"
+		texturefile = "gfx/interface/ideas/idea_YUG_ivan_gosnjak.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_YUG_marijan_polic"
+		texturefile = "gfx/interface/ideas/idea_YUG_marijan_polic.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_YUG_milutin_nedic"
+		texturefile = "gfx/interface/ideas/idea_YUG_milutin_nedic.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_YUG_petar_kosic"
+		texturefile = "gfx/interface/ideas/idea_YUG_petar_kosic.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_YUG_vladimir_cukavac"
+		texturefile = "gfx/interface/ideas/idea_YUG_vladimir_cukavac.dds"
+	}
+
+}

@@ -1,0 +1,9 @@
+name = "Allied Speeches Pack"
+path = "dlc/dlc030_allied_speeches_pack"
+steam_id = "1317250"
+pops_id = "hoi4_dlc030_allied_speeches_pack"
+affects_checksum = no
+affects_compatability = no
+third_party_content = no
+category = "music"
+checksum = "662f912a4eeea2c22022c95ef65e1d1a"

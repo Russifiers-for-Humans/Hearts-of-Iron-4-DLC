@@ -1,0 +1,14 @@
+music = {
+	name = "der_machtigste_konig_im_luftrevier"
+	file = "gmomp_dermachtigstekonigimluftrevier.ogg"
+}
+
+music = {
+	name = "panzerlied"
+	file = "gmomp_panzerlied.ogg"
+}
+
+music = {
+	name = "schwarzbraun_ist_die_haselnuss"
+	file = "gmomp_schwarzbraunistdiehaselnuss.ogg"
+}

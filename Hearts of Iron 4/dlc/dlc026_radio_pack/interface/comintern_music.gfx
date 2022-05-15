@@ -1,0 +1,59 @@
+spriteTypes = {
+
+	
+	spriteType = {
+		name = "GFX_comintern_faceplate"
+		textureFile = "gfx/faceplate_comintern.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_musicplayer_play_pause_button_comintern"
+		texturefile = "gfx/musicplayer_play_pause_button_comintern.dds"
+		effectFile = "gfx/FX/buttonstate.lua"	
+		noOfFrames = 2			
+	}
+
+	spriteType = {
+		name = "GFX_musicplayer_stop_button"
+		texturefile = "gfx//interface//topbar//musicplayer//musicplayer_stop_button.dds"
+		effectFile = "gfx/FX/buttonstate.lua"	
+	}
+
+	spriteType = {
+		name = "GFX_musicplayer_next_button_comintern"
+		texturefile = "gfx/musicplayer_next_button_comintern.dds"
+		effectFile = "gfx/FX/buttonstate.lua"	
+	}
+
+	spriteType = {
+		name = "GFX_musicplayer_previous_button_comintern"
+		texturefile = "gfx/musicplayer_previous_button_comintern.dds"
+		effectFile = "gfx/FX/buttonstate.lua"	
+	}
+
+	spriteType = {
+		name = "GFX_toggle_shuffle_buttons_comintern"
+		texturefile = "gfx/toggle_shuffle_buttons_comintern.dds"
+		effectFile = "gfx/FX/buttonstate.lua"
+		noOfFrames = 3			
+	}
+	
+	
+	progressbartype = {
+		name = "GFX_volume_track_comintern"
+		color = { 1.0 1.0 1.0 }
+		colortwo = { 1.0 1.0 1.0 }
+		textureFile1 = "gfx/music_vol_progress_comintern.dds"
+		textureFile2 = "gfx/music_vol_progress_bg_comintern.dds"
+		size = { x = 89 y = 15 }
+		effectFile = "gfx/FX/progress.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_comintern_album_art"
+		texturefile = "gfx/comintern_album_art.dds"
+		noOfFrames = 2
+	}	
+
+
+}

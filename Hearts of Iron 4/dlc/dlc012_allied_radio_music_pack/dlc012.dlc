@@ -1,0 +1,9 @@
+name = "Allied Radio Music Pack"
+path = "dlc/dlc012_allied_radio_music_pack"
+steam_id = "460558"
+pops_id = "hoi4_dlc012_allied_radio_music_pack"
+affects_checksum = no
+affects_compatability = no
+third_party_content = no
+category= "music"
+checksum = "c6e7af3e88f6a8fb77cdd01674f97e63"

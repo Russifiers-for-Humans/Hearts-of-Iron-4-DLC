@@ -1,0 +1,324 @@
+spriteTypes = {
+
+	# LAR SPR
+
+	spriteType = {
+		name = "GFX_idea_SPR_anarchist_council"
+		texturefile = "gfx/interface/ideas/idea_spr_anarchist_council.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_mate_zalka"
+		texturefile = "gfx/interface/ideas/idea_spr_mate_zalka.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_janos_galicz"
+		texturefile = "gfx/interface/ideas/idea_spr_janos_galicz.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_ignacio_hidalgo_de_cisneros"
+		texturefile = "gfx/interface/ideas/idea_spr_ignacio_hidalgo_de_cisneros.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_etelvino_vega"
+		texturefile = "gfx/interface/ideas/idea_spr_etelvino_vega.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_francisco_ciutat_de_miguel"
+		texturefile = "gfx/interface/ideas/idea_spr_francisco_ciutat_de_miguel.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_domenec_batet"
+		texturefile = "gfx/interface/ideas/idea_spr_domenec_batet.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_toribio_martinez_cabrera"
+		texturefile = "gfx/interface/ideas/idea_spr_toribio_martinez_cabrera.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_antonio_azarola_y_gresillon"
+		texturefile = "gfx/interface/ideas/idea_spr_antonio_azarola_y_gresillon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_luis_gonzalez_ubieta"
+		texturefile = "gfx/interface/ideas/idea_spr_luis_gonzalez_ubieta.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_indalecio_prieto"
+		texturefile = "gfx/interface/ideas/idea_spr_indalecio_prieto.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_andres_garcia_la_calle"
+		texturefile = "gfx/interface/ideas/idea_spr_andres_garcia_la_calle.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_nicolas_molero"
+		texturefile = "gfx/interface/ideas/idea_spr_nicolas_molero.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_federica_montseny"
+		texturefile = "gfx/interface/ideas/idea_spr_federica_montseny.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_juan_lopez_sanchez"
+		texturefile = "gfx/interface/ideas/idea_spr_juan_lopez_sanchez.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_juan_garcia_oliver"
+		texturefile = "gfx/interface/ideas/idea_spr_juan_garcia_oliver.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_jesus_hernandez_tomas"
+		texturefile = "gfx/interface/ideas/idea_spr_jesus_hernandez_tomas.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_juan_negrin"
+		texturefile = "gfx/interface/ideas/idea_spr_juan_negrin.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_francisco_largo_caballero"
+		texturefile = "gfx/interface/ideas/idea_spr_francisco_largo_caballero.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_augusto_barcia_trelles"
+		texturefile = "gfx/interface/ideas/idea_spr_augusto_barcia_trelles.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_diego_martinez_barrio"
+		texturefile = "gfx/interface/ideas/idea_spr_diego_martinez_barrio.dds"
+	}
+
+	# LAR SPA
+
+	spriteType = {
+		name = "GFX_idea_SPA_juan_yague"
+		texturefile = "gfx/interface/ideas/idea_spa_juan_yague.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPA_emilio_mola"
+		texturefile = "gfx/interface/ideas/idea_spa_emilio_mola.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPA_rafael_garcia_valino"
+		texturefile = "gfx/interface/ideas/idea_spa_rafael_garcia_valino.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPA_joaquin_garcia_morato"
+		texturefile = "gfx/interface/ideas/idea_spa_joaquin_garcia_morato.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPA_wilhelm_ritter_von_thoma"
+		texturefile = "gfx/interface/ideas/idea_spa_wilhelm_ritter_von_thoma.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPA_heli_rolando_de_tella"
+		texturefile = "gfx/interface/ideas/idea_spa_heli_rolando_de_tella.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPA_miguel_ponte"
+		texturefile = "gfx/interface/ideas/idea_spa_miguel_ponte.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPA_enrique_canovas_lacruz"
+		texturefile = "gfx/interface/ideas/idea_spa_enrique_canovas_lacruz.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPA_jesus_comin_y_sagues"
+		texturefile = "gfx/interface/ideas/idea_spa_jesus_comin_y_sagues.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPA_jose_enrique_varela"
+		texturefile = "gfx/interface/ideas/idea_spa_jose_enrique_varela.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPA_miguel_cabanellas"
+		texturefile = "gfx/interface/ideas/idea_spa_miguel_cabanellas.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPA_jose_antonio_giron"
+		texturefile = "gfx/interface/ideas/idea_spa_jose_antonio_giron.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPA_manuel_hedilla"
+		texturefile = "gfx/interface/ideas/idea_spa_manuel_hedilla.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPA_jose_antonio_primo_de_rivera"
+		texturefile = "gfx/interface/ideas/idea_spa_jose_antonio_primo_de_rivera.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPA_raimundo_fernandez_cuesta"
+		texturefile = "gfx/interface/ideas/idea_spa_raimundo_fernandez_cuesta.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPA_tomas_dominguez_arevalo"
+		texturefile = "gfx/interface/ideas/idea_spa_tomas_dominguez_arevalo.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPA_diego_hidalgo_y_duran"
+		texturefile = "gfx/interface/ideas/idea_spa_diego_hidalgo_y_duran.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPA_ramon_serrano_suner"
+		texturefile = "gfx/interface/ideas/idea_spa_ramon_serrano_suner.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPA_esteban_de_bilbao_eguia"
+		texturefile = "gfx/interface/ideas/idea_spa_esteban_de_bilbao_eguia.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPA_luis_hernando_de_larramendi"
+		texturefile = "gfx/interface/ideas/idea_spa_luis_hernando_de_larramendi.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPA_luis_carrero_blanco"
+		texturefile = "gfx/interface/ideas/idea_spa_luis_carrero_blanco.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPA_agustin_munoz_grandes"
+		texturefile = "gfx/interface/ideas/idea_spa_agustin_munoz_grandes.dds"
+	}
+
+	# SPR Designers LAR
+
+	spriteType = {
+		name = "GFX_idea_SPR_sociedad_espanola_de_construccion_naval"
+		texturefile = "gfx/interface/ideas/spr_sociedad_espanola_de_construccion_naval.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_casa"
+		texturefile = "gfx/interface/ideas/spr_casa.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_star_bonifacio_echeverria"
+		texturefile = "gfx/interface/ideas/spr_star_bonifacio_echeverria.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_industrias_de_guerra_de_cataluna"
+		texturefile = "gfx/interface/ideas/spr_industrias_de_guerra_de_cataluna.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_altos_hornos_de_vizcaya"
+		texturefile = "gfx/interface/ideas/spr_altos_hornos_de_vizcaya.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_compania_telefonica_nacional"
+		texturefile = "gfx/interface/ideas/spr_compania_telefonica_nacional.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_campsa"
+		texturefile = "gfx/interface/ideas/spr_campsa.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_llama_gabilondo_y_cia_sa"
+		texturefile = "gfx/interface/ideas/spr_llama_gabilondo_y_cia_sa.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_esperanza_y_cia"
+		texturefile = "gfx/interface/ideas/spr_esperanza_y_cia.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_euskalduna"
+		texturefile = "gfx/interface/ideas/spr_euskalduna.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_la_hispano"
+		texturefile = "gfx/interface/ideas/spr_la_hispano.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_hispano_suiza"
+		texturefile = "gfx/interface/ideas/spr_hispano_suiza.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_hispano_aviacion"
+		texturefile = "gfx/interface/ideas/spr_hispano_aviacion.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POR_alvaro_cunhal"
+		texturefile = "gfx/interface/ideas/idea_por_alvaro_cunhal.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POR_americo_thomaz"
+		texturefile = "gfx/interface/ideas/idea_por_americo_thomaz.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POR_jaime_afreixo"
+		texturefile = "gfx/interface/ideas/idea_por_jaime_afreixo.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POR_manuel_ortins_de_bettencourt"
+		texturefile = "gfx/interface/ideas/idea_por_manuel_ortins_de_bettencourt.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POR_manuel_quintao_meireles"
+		texturefile = "gfx/interface/ideas/idea_por_manuel_quintao_meireles.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_POR_rolao_preto"
+		texturefile = "gfx/interface/ideas/idea_por_rolao_preto.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_fra_rene_nicod"
+		texturefile = "gfx/interface/ideas/idea_FRA_rene_nicod.dds"
+	}
+
+}

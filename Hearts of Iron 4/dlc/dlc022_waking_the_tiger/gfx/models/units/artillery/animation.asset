@@ -1,0 +1,36 @@
+animation = {
+	name = "PRC_artillery_gai_liang_70mm_idle_animation"
+	file = "PRC_artillery_gai_liang_70mm_idle.anim"
+}
+animation = {
+	name = "PRC_artillery_gai_liang_70mm_moving_animation"
+	file = "PRC_artillery_gai_liang_70mm_moving.anim"
+}
+animation = {
+	name = "PRC_artillery_gai_liang_70mm_attack_animation"
+	file = "PRC_artillery_gai_liang_70mm_attack.anim"
+}
+animation = {
+	name = "CHI_artillery_75_type_10_gan_idle_animation"
+	file = "CHI_artillery_75_type_10_gan_idle.anim"
+}
+animation = {
+	name = "CHI_artillery_75_type_10_gan_moving_animation"
+	file = "CHI_artillery_75_type_10_gan_moving.anim"
+}
+animation = {
+	name = "CHI_artillery_75_type_10_gan_attack_animation"
+	file = "CHI_artillery_75_type_10_gan_attack.anim"
+}
+animation = {
+	name = "GXC_artillery_75_type_jin_12_idle_animation"
+	file = "GXC_artillery_75_type_jin_12_idle.anim"
+}
+animation = {
+	name = "GXC_artillery_75_type_jin_12_moving_animation"
+	file = "GXC_artillery_75_type_jin_12_moving.anim"
+}
+animation = {
+	name = "GXC_artillery_75_type_jin_12_attack_animation"
+	file = "GXC_artillery_75_type_jin_12_attack.anim"
+}

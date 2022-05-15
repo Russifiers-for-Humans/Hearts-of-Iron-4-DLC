@@ -1,0 +1,227 @@
+spriteTypes = {
+
+	### CHI
+
+
+	
+
+	
+
+	
+
+	### GER
+
+	spriteType = {
+		name = "GFX_idea_GER_august_von_mackensen"
+		texturefile = "gfx/interface/ideas/idea_GER_august_von_mackensen.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GER_victoria_louise"
+		texturefile = "gfx/interface/ideas/idea_GER_victoria_louise.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GER_von_lettow_vorbeck"
+		texturefile = "gfx/interface/ideas/idea_GER_von_lettow_vorbeck.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GER_wilhelm_ii"
+		texturefile = "gfx/interface/ideas/idea_GER_wilhelm_ii.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GER_wilhelm_iii"
+		texturefile = "gfx/interface/ideas/idea_GER_wilhelm_iii.dds"
+	}
+
+	### ITA
+
+	spriteType = {
+		name = "GFX_idea_ITA_mussolini"
+		texturefile = "gfx/interface/ideas/idea_ITA_mussolini.dds"
+	}
+
+	
+
+	### PRC
+
+	spriteType = {
+		name = "GFX_idea_PRC_chen_yi"
+		texturefile = "gfx/interface/ideas/idea_PRC_chen_yi.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_PRC_peng_dehuai"
+		texturefile = "gfx/interface/ideas/idea_PRC_peng_dehuai.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_PRC_wang_ming"
+		texturefile = "gfx/interface/ideas/idea_PRC_wang_ming.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_PRC_zhang_lan"
+		texturefile = "gfx/interface/ideas/idea_PRC_zhang_lan.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_PRC_zhu_de"
+		texturefile = "gfx/interface/ideas/idea_PRC_zhu_de.dds"
+	}
+
+	### SOV
+
+	spriteType = {
+		name = "GFX_idea_SOV_aleksandr_cherepanov"
+		texturefile = "gfx/interface/ideas/idea_SOV_aleksandr_cherepanov.dds"
+	}
+
+	### africa
+
+	spriteType = {
+		name = "GFX_idea_africa_generic_land_5"
+		texturefile = "gfx/interface/ideas/idea_africa_generic_land_5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_africa_generic_land_6"
+		texturefile = "gfx/interface/ideas/idea_africa_generic_land_6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_africa_generic_land_7"
+		texturefile = "gfx/interface/ideas/idea_africa_generic_land_7.dds"
+	}
+
+	### arabia
+
+	spriteType = {
+		name = "GFX_idea_arabia_generic_land_5"
+		texturefile = "gfx/interface/ideas/idea_arabia_generic_land_5.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_arabia_generic_land_6"
+		texturefile = "gfx/interface/ideas/idea_arabia_generic_land_6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_arabia_generic_land_7"
+		texturefile = "gfx/interface/ideas/idea_arabia_generic_land_7.dds"
+	}
+
+	### asia
+
+	spriteType = {
+		name = "GFX_idea_asia_generic_land_10"
+		texturefile = "gfx/interface/ideas/idea_asia_generic_land_10.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_asia_generic_land_11"
+		texturefile = "gfx/interface/ideas/idea_asia_generic_land_11.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_asia_generic_land_12"
+		texturefile = "gfx/interface/ideas/idea_asia_generic_land_12.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_asia_generic_land_13"
+		texturefile = "gfx/interface/ideas/idea_asia_generic_land_13.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_asia_generic_land_14"
+		texturefile = "gfx/interface/ideas/idea_asia_generic_land_14.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_asia_generic_land_7"
+		texturefile = "gfx/interface/ideas/idea_asia_generic_land_7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_asia_generic_land_8"
+		texturefile = "gfx/interface/ideas/idea_asia_generic_land_8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_asia_generic_land_9"
+		texturefile = "gfx/interface/ideas/idea_asia_generic_land_9.dds"
+	}
+
+	### europe
+
+	spriteType = {
+		name = "GFX_idea_europe_generic_land_10"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_land_10.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_europe_generic_land_11"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_land_11.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_europe_generic_land_12"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_land_12.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_europe_generic_land_14"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_land_14.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_europe_generic_land_15"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_land_15.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_europe_generic_land_16"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_land_16.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_europe_generic_land_17"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_land_17.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_europe_generic_land_18"
+		texturefile = "gfx/interface/ideas/idea_europe_generic_land_18.dds"
+	}
+
+	### south america
+
+	spriteType = {
+		name = "GFX_idea_south_america_generic_land_10"
+		texturefile = "gfx/interface/ideas/idea_south_america_generic_land_10.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_south_america_generic_land_6"
+		texturefile = "gfx/interface/ideas/idea_south_america_generic_land_6.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_south_america_generic_land_7"
+		texturefile = "gfx/interface/ideas/idea_south_america_generic_land_7.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_south_america_generic_land_8"
+		texturefile = "gfx/interface/ideas/idea_south_america_generic_land_8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_south_america_generic_land_9"
+		texturefile = "gfx/interface/ideas/idea_south_america_generic_land_9.dds"
+	}
+
+}

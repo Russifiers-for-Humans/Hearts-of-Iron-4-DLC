@@ -1,0 +1,17 @@
+music = {
+	name = "Aggression"
+	file = "aggression.ogg"
+	volume = 0.88
+}
+
+music = {
+	name = "Escalation"
+	file = "escalation.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "Retribution"
+	file = "retribution.ogg"
+	volume = 0.85
+}

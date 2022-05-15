@@ -1,0 +1,14 @@
+animation = {
+	name = "HOL_motorized_daf_trado_idle_animation"
+	file = "HOL_motorized_daf_trado_idle.anim"
+}
+
+animation = {
+	name = "HOL_motorized_daf_trado_move_animation"
+	file = "HOL_motorized_daf_trado_moving.anim"
+}
+
+animation = {
+	name = "HOL_motorized_daf_trado_attack_animation"
+	file = "HOL_motorized_daf_trado_attack.anim"
+}

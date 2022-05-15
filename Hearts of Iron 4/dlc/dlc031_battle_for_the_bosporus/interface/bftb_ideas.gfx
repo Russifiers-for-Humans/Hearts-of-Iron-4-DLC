@@ -1,0 +1,173 @@
+spriteTypes = {	
+
+	spriteType = {
+		name = "GFX_idea_bul_dimitrana_ivanova"
+		texturefile = "gfx/interface/ideas/idea_bul_dimitrana_ivanova.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_bul_georgi_kyoseivanov"
+		texturefile = "gfx/interface/ideas/idea_bul_georgi_kyoseivanov.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_bul_kimon_georgiev"
+		texturefile = "gfx/interface/ideas/idea_bul_kimon_georgiev.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_bul_kiril_stanchev"
+		texturefile = "gfx/interface/ideas/idea_bul_kiril_stanchev.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_bul_todor_pavlov"
+		texturefile = "gfx/interface/ideas/idea_bul_todor_pavlov.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_bul_vladimir_stoychev"
+		texturefile = "gfx/interface/ideas/idea_bul_vladimir_stoychev.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_bul_vladimir_zaimov"
+		texturefile = "gfx/interface/ideas/idea_bul_vladimir_zaimov.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_bul_zachari_zachariev"
+		texturefile = "gfx/interface/ideas/idea_bul_zachari_zachariev.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gre_father_dimistrios"
+		texturefile = "gfx/interface/ideas/idea_gre_father_dimistrios.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_tur_ahmet_ali_celikten"
+		texturefile = "gfx/interface/ideas/idea_tur_ahmet_ali_celikten.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_tur_ali_fethi_okyar"
+		texturefile = "gfx/interface/ideas/idea_tur_ali_fethi_okyar.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_tur_ali_fuat_cebesoy"
+		texturefile = "gfx/interface/ideas/idea_tur_ali_fuat_cebesoy.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_tur_ali_ihsan_sabis"
+		texturefile = "gfx/interface/ideas/idea_tur_ali_ihsan_sabis.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_tur_elyesa_bazna"
+		texturefile = "gfx/interface/ideas/idea_tur_elyesa_bazna.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_tur_halide_edib_adivar"
+		texturefile = "gfx/interface/ideas/idea_tur_halide_edib_adivar.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_tur_halil_kut"
+		texturefile = "gfx/interface/ideas/idea_tur_halil_kut.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_tur_hasan_saka"
+		texturefile = "gfx/interface/ideas/idea_tur_hasan_saka.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_tur_hilmi_uran"
+		texturefile = "gfx/interface/ideas/idea_tur_hilmi_uran.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_tur_kazim_ozalp"
+		texturefile = "gfx/interface/ideas/idea_tur_kazim_ozalp.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_tur_mehmet_emin_yurdakul"
+		texturefile = "gfx/interface/ideas/idea_tur_mehmet_emin_yurdakul.dds"
+	}
+		
+	spriteType = {
+		name = "GFX_idea_tur_mehmet_fahri_engin"
+		texturefile = "gfx/interface/ideas/idea_tur_mehmet_fahri_engin.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_tur_mumtaz_okmen"
+		texturefile = "gfx/interface/ideas/idea_tur_mumtaz_okmen.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_tur_muzaffer_goksenin"
+		texturefile = "gfx/interface/ideas/idea_tur_muzaffer_goksenin.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_tur_nazim_hikmet"
+		texturefile = "gfx/interface/ideas/idea_tur_nazim_hikmet.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_tur_nejdet_sancar"
+		texturefile = "gfx/interface/ideas/idea_tur_nejdet_sancar.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_tur_nuri_demirag"
+		texturefile = "gfx/interface/ideas/idea_tur_nuri_demirag.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_tur_nuri_killigil"
+		texturefile = "gfx/interface/ideas/idea_tur_nuri_killigil.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_tur_rauf_orbay"
+		texturefile = "gfx/interface/ideas/idea_tur_rauf_orbay.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_tur_refe_bele"
+		texturefile = "gfx/interface/ideas/idea_tur_refe_bele.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_tur_riza_nur"
+		texturefile = "gfx/interface/ideas/idea_tur_riza_nur.dds"
+	}
+		
+	spriteType = {
+		name = "GFX_idea_tur_sukru_saracoglu"
+		texturefile = "gfx/interface/ideas/idea_tur_sukru_saracoglu.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_tur_vecihi_hurkus"
+		texturefile = "gfx/interface/ideas/idea_tur_vecihi_hurkus.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_tur_zeki_dogan"
+		texturefile = "gfx/interface/ideas/idea_tur_zeki_dogan.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_tur_zeki_velidi_togan"
+		texturefile = "gfx/interface/ideas/idea_tur_zeki_velidi_togan.dds"
+	}
+
+}

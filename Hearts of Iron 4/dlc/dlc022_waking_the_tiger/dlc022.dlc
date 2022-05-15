@@ -1,0 +1,9 @@
+name = "Waking the Tiger"
+path = "dlc/dlc022_waking_the_tiger"
+steam_id = "702350"
+pops_id = "hoi4_dlc022_waking_the_tiger"
+affects_checksum = yes
+affects_compatability = no
+third_party_content = no
+category = "expansion"
+checksum = "e32e7866c268ba032a8372ce94b917ca"

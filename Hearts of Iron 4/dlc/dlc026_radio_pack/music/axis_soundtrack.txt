@@ -1,0 +1,51 @@
+music_station = "axis"
+
+music = {
+	song = "axis_enemyshores"
+
+}
+
+music = {
+	song = "axis_forthereich"
+	
+}
+
+music = {
+	song = "axis_meetthegeneral"
+	
+}
+
+music = {
+	song = "axis_meninline"
+	
+}
+
+music = {
+	song = "axis_preparethesubs"
+	
+}
+
+music = {
+	song = "axis_raisetheflag"
+	
+}
+
+music = {
+	song = "axis_returninghome"
+	
+}
+
+music = {
+	song = "axis_shipsatsea"
+	
+}
+
+music = {
+	song = "axis_sightoftheenemy"
+	
+}
+
+music = {
+	song = "axis_whenwecomehomeagain"
+	
+}

@@ -1,0 +1,30 @@
+music = {
+	name = "hearts_of_iron"
+	file = "sbst_hearts_of_iron.ogg"
+	volume = 0.30
+}
+
+music = {
+	name = "night_witches"
+	file = "sbst_night_witches.ogg"
+	volume = 0.30
+}
+
+music = {
+	name = "primo_victoria"
+	file = "sbst_primo_victoria.ogg"
+	volume = 0.30
+}
+
+music = {
+	name = "stalingrad"
+	file = "sbst_stalingrad.ogg"
+	volume = 0.30
+}
+
+music = {
+	name = "wolfpack"
+	file = "sbst_wolfpack.ogg"
+	volume = 0.30
+}
+

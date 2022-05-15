@@ -1,0 +1,866 @@
+objectTypes = {
+
+####################
+########## Light
+####################
+
+	######################################## Neutrality ############################################################
+
+	pdxmesh = {
+		name = "BUL_neutrality_light_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_neutrality_light_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_neutrality_light_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_neutrality_light_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_neutrality_light_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tank1Shape"
+			index = 0
+			texture_diffuse = "BUL_neutrality_light_armor_diffuse.dds"
+			texture_normal = "bfb_neutrality_light_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}
+	
+	pdxmesh = {
+		name = "GRE_neutrality_light_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_neutrality_light_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_neutrality_light_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_neutrality_light_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_neutrality_light_armor_moving_animation" }
+
+		meshsettings = {
+			name = "tank1Shape"
+			index = 0
+			texture_diffuse = "GRE_neutrality_light_armor_diffuse.dds"
+			texture_normal = "bfb_neutrality_light_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}	
+	pdxmesh = {
+		name = "TUR_neutrality_light_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_neutrality_light_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_neutrality_light_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_neutrality_light_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_neutrality_light_armor_moving_animation" }
+
+		meshsettings = {
+			name = "tank1Shape"
+			index = 0
+			texture_diffuse = "TUR_neutrality_light_armor_diffuse.dds"
+			texture_normal = "bfb_neutrality_light_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}
+	######################################## Democratic ############################################################
+
+	pdxmesh = {
+		name = "BUL_democratic_light_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_democratic_light_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_democratic_light_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_democratic_light_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_democratic_light_armor_moving_animation" }
+		meshsettings = {
+			name = "tankShape1"
+			index = 0
+			texture_diffuse = "BUL_democratic_light_armor_diffuse.dds"
+			texture_normal = "bfb_democratic_light_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}
+	
+	pdxmesh = {
+		name = "GRE_democratic_light_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_democratic_light_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_democratic_light_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_democratic_light_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_democratic_light_armor_moving_animation" }
+		meshsettings = {
+			name = "tankShape1"
+			index = 0
+			texture_diffuse = "GRE_democratic_light_armor_diffuse.dds"
+			texture_normal = "bfb_democratic_light_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}
+	
+	pdxmesh = {
+		name = "TUR_democratic_light_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_democratic_light_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_democratic_light_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_democratic_light_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_democratic_light_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tankShape1"
+			index = 0
+			texture_diffuse = "TUR_democratic_light_armor_diffuse.dds"
+			texture_normal = "bfb_democratic_light_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}	
+	######################################## Communist ############################################################	
+
+	
+	pdxmesh = {
+		name = "BUL_communism_light_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_communist_light_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_communist_light_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_communist_light_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_communist_light_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tankShape1"
+			index = 0
+			texture_diffuse = "BUL_communist_light_armor_diffuse.dds"
+			texture_normal = "bfb_communist_light_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+
+	}
+	
+	pdxmesh = {
+		name = "GRE_communism_light_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_communist_light_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_communist_light_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_communist_light_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_communist_light_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tankShape1"
+			index = 0
+			texture_diffuse = "GRE_communist_light_armor_diffuse.dds"
+			texture_normal = "bfb_communist_light_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+
+	}
+	
+	pdxmesh = {
+		name = "TUR_communism_light_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_communist_light_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_communist_light_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_communist_light_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_communist_light_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tankShape1"
+			index = 0
+			texture_diffuse = "TUR_communist_light_armor_diffuse.dds"
+			texture_normal = "bfb_communist_light_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}		
+	}	
+
+	
+	######################################## Fascist ############################################################
+
+
+	pdxmesh = {
+		name = "BUL_fascism_light_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_fascist_light_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_fascist_light_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_fascist_light_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_fascist_light_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tank1Shape"
+			index = 0
+			texture_diffuse = "BUL_fascist_light_armor_diffuse.dds"
+			texture_normal = "bfb_fascist_light_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}		
+	}		
+	pdxmesh = {
+		name = "GRE_fascism_light_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_fascist_light_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_fascist_light_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_fascist_light_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_fascist_light_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tank1Shape"
+			index = 0
+			texture_diffuse = "GRE_fascist_light_armor_diffuse.dds"
+			texture_normal = "bfb_fascist_light_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}		
+	}		
+	pdxmesh = {
+		name = "TUR_fascism_light_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_fascist_light_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_fascist_light_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_fascist_light_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_fascist_light_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tank1Shape"
+			index = 0
+			texture_diffuse = "TUR_fascist_light_armor_diffuse.dds"
+			texture_normal = "bfb_fascist_light_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}		
+	}	
+	
+####################
+########## Medium
+####################
+
+	######################################## Neutrality ############################################################
+
+	pdxmesh = {
+		name = "BUL_neutrality_medium_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_neutrality_medium_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_neutrality_medium_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_neutrality_medium_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_neutrality_medium_armor_moving_animation" }
+
+		meshsettings = {
+			name = "tank1Shape"
+			index = 0
+			texture_diffuse = "BUL_neutrality_medium_armor_diffuse.dds"
+			texture_normal = "bfb_neutrality_medium_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}	
+	pdxmesh = {
+		name = "GRE_neutrality_medium_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_neutrality_medium_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_neutrality_medium_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_neutrality_medium_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_neutrality_medium_armor_moving_animation" }
+
+		meshsettings = {
+			name = "tank1Shape"
+			index = 0
+			texture_diffuse = "GRE_neutrality_medium_armor_diffuse.dds"
+			texture_normal = "bfb_neutrality_medium_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}	
+	pdxmesh = {
+		name = "TUR_neutrality_medium_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_neutrality_medium_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_neutrality_medium_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_neutrality_medium_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_neutrality_medium_armor_moving_animation" }
+
+		meshsettings = {
+			name = "tank1Shape"
+			index = 0
+			texture_diffuse = "TUR_neutrality_medium_armor_diffuse.dds"
+			texture_normal = "bfb_neutrality_medium_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}
+	######################################## Democratic ############################################################
+
+	pdxmesh = {
+		name = "BUL_democratic_medium_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_democratic_medium_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_democratic_medium_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_democratic_medium_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_democratic_medium_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tankShape1"
+			index = 0
+			texture_diffuse = "BUL_democratic_medium_armor_diffuse.dds"
+			texture_normal = "bfb_democratic_medium_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}	
+	pdxmesh = {
+		name = "GRE_democratic_medium_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_democratic_medium_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_democratic_medium_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_democratic_medium_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_democratic_medium_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tankShape1"
+			index = 0
+			texture_diffuse = "GRE_democratic_medium_armor_diffuse.dds"
+			texture_normal = "bfb_democratic_medium_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}	
+	pdxmesh = {
+		name = "TUR_democratic_medium_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_democratic_medium_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_democratic_medium_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_democratic_medium_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_democratic_medium_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tankShape1"
+			index = 0
+			texture_diffuse = "TUR_democratic_medium_armor_diffuse.dds"
+			texture_normal = "bfb_democratic_medium_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}	
+	######################################## Communist ############################################################	
+
+	
+	pdxmesh = {
+		name = "BUL_communism_medium_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_communist_medium_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_communist_medium_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_communist_medium_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_communist_medium_armor_moving_animation" }
+
+		meshsettings = {
+			name = "tankShape1"
+			index = 0
+			texture_diffuse = "BUL_communist_medium_armor_diffuse.dds"
+			texture_normal = "bfb_communist_medium_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}
+	
+	pdxmesh = {
+		name = "GRE_communism_medium_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_communist_medium_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_communist_medium_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_communist_medium_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_communist_medium_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tankShape1"
+			index = 0
+			texture_diffuse = "GRE_communist_medium_armor_diffuse.dds"
+			texture_normal = "bfb_communist_medium_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}
+	
+	pdxmesh = {
+		name = "TUR_communism_medium_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_communist_medium_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_communist_medium_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_communist_medium_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_communist_medium_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tankShape1"
+			index = 0
+			texture_diffuse = "TUR_communist_medium_armor_diffuse.dds"
+			texture_normal = "bfb_communist_medium_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}
+
+	
+	######################################## Fascist ############################################################
+
+	pdxmesh = {
+		name = "BUL_fascism_medium_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_fascist_medium_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_fascist_medium_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_fascist_medium_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_fascist_medium_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tankShape1"
+			index = 0
+			texture_diffuse = "BUL_fascist_medium_armor_diffuse.dds"
+			texture_normal = "bfb_fascist_medium_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}	
+	pdxmesh = {
+		name = "GRE_fascism_medium_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_fascist_medium_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_fascist_medium_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_fascist_medium_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_fascist_medium_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tankShape1"
+			index = 0
+			texture_diffuse = "GRE_fascist_medium_armor_diffuse.dds"
+			texture_normal = "bfb_fascist_medium_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}	
+	pdxmesh = {
+		name = "TUR_fascism_medium_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_fascist_medium_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_fascist_medium_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_fascist_medium_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_fascist_medium_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tankShape1"
+			index = 0
+			texture_diffuse = "TUR_fascist_medium_armor_diffuse.dds"
+			texture_normal = "bfb_fascist_medium_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}
+	
+####################
+########## Heavy
+####################
+
+	######################################## Neutrality ############################################################
+
+	pdxmesh = {
+		name = "BUL_neutrality_heavy_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_neutrality_heavy_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_neutrality_heavy_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_neutrality_heavy_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_neutrality_heavy_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tankShape1"
+			index = 0
+			texture_diffuse = "BUL_neutrality_heavy_armor_diffuse.dds"
+			texture_normal = "bfb_neutrality_heavy_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}	
+	pdxmesh = {
+		name = "GRE_neutrality_heavy_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_neutrality_heavy_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_neutrality_heavy_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_neutrality_heavy_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_neutrality_heavy_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tankShape1"
+			index = 0
+			texture_diffuse = "GRE_neutrality_heavy_armor_diffuse.dds"
+			texture_normal = "bfb_neutrality_heavy_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}	
+	pdxmesh = {
+		name = "TUR_neutrality_heavy_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_neutrality_heavy_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_neutrality_heavy_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_neutrality_heavy_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_neutrality_heavy_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tankShape1"
+			index = 0
+			texture_diffuse = "TUR_neutrality_heavy_armor_diffuse.dds"
+			texture_normal = "bfb_neutrality_heavy_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}
+	######################################## Democratic ############################################################
+
+	pdxmesh = {
+		name = "BUL_democratic_heavy_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_democratic_heavy_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_democratic_heavy_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_democratic_heavy_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_democratic_heavy_armor_moving_animation" }
+
+		meshsettings = {
+			name = "tank1Shape"
+			index = 0
+			texture_diffuse = "BUL_democratic_heavy_armor_diffuse.dds"
+			texture_normal = "bfb_democratic_heavy_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}		
+	pdxmesh = {
+		name = "GRE_democratic_heavy_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_democratic_heavy_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_democratic_heavy_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_democratic_heavy_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_democratic_heavy_armor_moving_animation" }
+
+		meshsettings = {
+			name = "tank1Shape"
+			index = 0
+			texture_diffuse = "GRE_democratic_heavy_armor_diffuse.dds"
+			texture_normal = "bfb_democratic_heavy_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}		
+	pdxmesh = {
+		name = "TUR_democratic_heavy_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_democratic_heavy_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_democratic_heavy_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_democratic_heavy_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_democratic_heavy_armor_moving_animation" }
+
+		meshsettings = {
+			name = "tank1Shape"
+			index = 0
+			texture_diffuse = "TUR_democratic_heavy_armor_diffuse.dds"
+			texture_normal = "bfb_democratic_heavy_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}		
+	
+	######################################## Communist ############################################################	
+
+	
+	pdxmesh = {
+		name = "BUL_communism_heavy_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_communist_heavy_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_communist_heavy_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_communist_heavy_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_communist_heavy_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tankShape1"
+			index = 0
+			texture_diffuse = "BUL_communist_heavy_armor_diffuse.dds"
+			texture_normal = "bfb_communist_heavy_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+		
+	}
+	
+	pdxmesh = {
+		name = "GRE_communism_heavy_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_communist_heavy_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_communist_heavy_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_communist_heavy_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_communist_heavy_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tankShape1"
+			index = 0
+			texture_diffuse = "GRE_communist_heavy_armor_diffuse.dds"
+			texture_normal = "bfb_communist_heavy_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+		
+	}
+	
+	pdxmesh = {
+		name = "TUR_communism_heavy_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_communist_heavy_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_communist_heavy_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_communist_heavy_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_communist_heavy_armor_moving_animation" }
+
+		meshsettings = {
+			name = "tankShape1"
+			index = 0
+			texture_diffuse = "TUR_communist_heavy_armor_diffuse.dds"
+			texture_normal = "bfb_communist_heavy_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+		
+	}	
+
+	
+	######################################## Fascist ############################################################
+
+	pdxmesh = {
+		name = "BUL_fascism_heavy_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_fascist_heavy_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_fascist_heavy_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_fascist_heavy_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_fascist_heavy_armor_moving_animation" }
+		meshsettings = {
+			name = "tank1Shape"
+			index = 0
+			texture_diffuse = "BUL_fascist_heavy_armor_diffuse.dds"
+			texture_normal = "bfb_fascist_heavy_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+		
+	}		
+	pdxmesh = {
+		name = "GRE_fascism_heavy_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_fascist_heavy_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_fascist_heavy_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_fascist_heavy_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_fascist_heavy_armor_moving_animation" }
+		meshsettings = {
+			name = "tank1Shape"
+			index = 0
+			texture_diffuse = "GRE_fascist_heavy_armor_diffuse.dds"
+			texture_normal = "bfb_fascist_heavy_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+		
+	}		
+	pdxmesh = {
+		name = "TUR_fascism_heavy_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_fascist_heavy_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_fascist_heavy_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_fascist_heavy_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_fascist_heavy_armor_moving_animation" }
+		meshsettings = {
+			name = "tank1Shape"
+			index = 0
+			texture_diffuse = "TUR_fascist_heavy_armor_diffuse.dds"
+			texture_normal = "bfb_fascist_heavy_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+		
+	}	
+	
+####################
+########## Modern
+####################
+
+
+	######################################## Democratic ############################################################
+
+	pdxmesh = {
+		name = "BUL_democratic_modern_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_democratic_modern_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_democratic_modern_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_democratic_modern_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_democratic_modern_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tank1Shape"
+			index = 0
+			texture_diffuse = "BUL_democratic_modern_armor_diffuse.dds"
+			texture_normal = "bfb_democratic_modern_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}		
+	pdxmesh = {
+		name = "GRE_democratic_modern_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_democratic_modern_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_democratic_modern_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_democratic_modern_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_democratic_modern_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tank1Shape"
+			index = 0
+			texture_diffuse = "GRE_democratic_modern_armor_diffuse.dds"
+			texture_normal = "bfb_democratic_modern_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}		
+	pdxmesh = {
+		name = "TUR_democratic_modern_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_democratic_modern_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_democratic_modern_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_democratic_modern_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_democratic_modern_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tank1Shape"
+			index = 0
+			texture_diffuse = "TUR_democratic_modern_armor_diffuse.dds"
+			texture_normal = "bfb_democratic_modern_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}		
+	######################################## Communist ############################################################	
+
+	
+	pdxmesh = {
+		name = "BUL_communism_modern_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_communist_modern_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_communist_modern_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_communist_modern_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_communist_modern_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tank1Shape"
+			index = 0
+			texture_diffuse = "BUL_communist_modern_armor_diffuse.dds"
+			texture_normal = "bfb_communist_modern_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}	
+	pdxmesh = {
+		name = "GRE_communism_modern_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_communist_modern_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_communist_modern_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_communist_modern_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_communist_modern_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tank1Shape"
+			index = 0
+			texture_diffuse = "GRE_communist_modern_armor_diffuse.dds"
+			texture_normal = "bfb_communist_modern_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}	
+	pdxmesh = {
+		name = "TUR_communism_modern_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_communist_modern_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_communist_modern_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_communist_modern_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_communist_modern_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tank1Shape"
+			index = 0
+			texture_diffuse = "TUR_communist_modern_armor_diffuse.dds"
+			texture_normal = "bfb_communist_modern_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}
+	
+	######################################## Fascist ############################################################
+
+	pdxmesh = {
+		name = "BUL_fascism_modern_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_fascist_modern_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_fascist_modern_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_fascist_modern_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_fascist_modern_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tank1Shape"
+			index = 0
+			texture_diffuse = "BUL_fascist_modern_armor_diffuse.dds"
+			texture_normal = "bfb_fascist_modern_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}		
+	pdxmesh = {
+		name = "GRE_fascism_modern_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_fascist_modern_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_fascist_modern_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_fascist_modern_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_fascist_modern_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tank1Shape"
+			index = 0
+			texture_diffuse = "GRE_fascist_modern_armor_diffuse.dds"
+			texture_normal = "bfb_fascist_modern_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}		
+	pdxmesh = {
+		name = "TUR_fascism_modern_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_fascist_modern_armor.mesh"
+
+		animation = { id = "attack"			type = "bfb_fascist_modern_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_fascist_modern_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_fascist_modern_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tank1Shape"
+			index = 0
+			texture_diffuse = "TUR_fascist_modern_armor_diffuse.dds"
+			texture_normal = "bfb_fascist_modern_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}		
+
+####################
+########## Super Heavy
+####################	
+
+	pdxmesh = {
+		name = "TUR_fascism_super_heavy_armor_mesh"
+		file = "gfx/models/units/tanks/bfb_fascist_super_heavy_armor.mesh"		
+		
+		animation = { id = "attack"			type = "bfb_fascist_super_heavy_armor_attack_animation" }
+		animation = { id = "idle"			type = "bfb_fascist_super_heavy_armor_idle_animation" }
+		animation = { id = "move"			type = "bfb_fascist_super_heavy_armor_moving_animation" }
+		
+		meshsettings = {
+			name = "tankShape1"
+			index = 0
+			texture_diffuse = "TUR_fascist_super_heavy_armor_diffuse.dds"
+			texture_normal = "bfb_fascist_super_heavy_armor_normal.dds"
+			texture_specular = "tanks_specmaps.dds"
+			shader = "PdxMeshAdvanced"
+		}	}
+	
+}
+	

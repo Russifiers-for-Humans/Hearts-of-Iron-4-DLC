@@ -1,0 +1,51 @@
+music_station = "comintern"
+
+music = {
+	song = "comintern_countrysidestories"
+	
+}
+
+music = {
+	song = "comintern_leavingtheharbor"
+
+}
+
+music = {
+	song = "comintern_marchfromredsquare"
+	
+}
+
+music = {
+	song = "comintern_motherlandfirst"
+	
+}
+
+music = {
+	song = "comintern_returningincoffins"
+
+}
+
+music = {
+	song = "comintern_siberiainmyheart"
+	
+}
+
+music = {
+	song = "comintern_smokeofrevenge"
+	
+}
+
+music = {
+	song = "comintern_snowpatrol"
+
+}
+
+music = {
+	song = "comintern_theplan"
+	
+}
+
+music = {
+	song = "comintern_victoryuponus"
+	
+}

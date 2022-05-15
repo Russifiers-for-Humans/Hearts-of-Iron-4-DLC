@@ -1,0 +1,21 @@
+objectTypes = {
+
+	# Battlecruiser Yavuz Sultan Selim (Former SMS Goeben of the German Empire)
+	pdxmesh = {
+		name = "TUR_battleship_yavuz_mesh"
+		file = "gfx/models/units/ships/bfb_TUR_battleship_yavuz.mesh"
+		
+		animation = { id = "idle"			type = "bfb_TUR_battleship_yavuz_idle_animation" }
+		animation = { id = "attack"			type = "bfb_TUR_battleship_yavuz_attack_animation" }
+		animation = { id = "defend"			type = "bfb_TUR_battleship_yavuz_defend_animation" }
+		animation = { id = "damaged_attack"	type = "bfb_TUR_battleship_yavuz_attack_animation" }
+		animation = { id = "damaged_defend"	type = "bfb_TUR_battleship_yavuz_defend_animation" }
+		animation = { id = "death"			type = "bfb_TUR_battleship_yavuz_death_animation" }
+
+		meshsettings = {
+			texture_diffuse = "bfb_TUR_battleship_yavuz_diffuse.dds"
+			texture_normal = "bfb_TUR_battleship_yavuz_normal.dds"
+			texture_specular = "bfb_TUR_battleship_yavuz_gloss.dds"
+		}
+	}
+}

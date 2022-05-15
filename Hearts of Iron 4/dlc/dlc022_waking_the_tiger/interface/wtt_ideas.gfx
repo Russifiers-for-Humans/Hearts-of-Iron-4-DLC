@@ -1,0 +1,276 @@
+spriteTypes = {	
+	
+
+	### CHI
+		
+	# Political advisors #
+
+	spriteType = {
+		name = "GFX_idea_CHI_lin_sen"
+		texturefile = "gfx/interface/ideas/idea_chi_lin_sen.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_CHI_h_h_kung"
+		texturefile = "gfx/interface/ideas/idea_chi_h_h_kung.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_CHI_chiang_ching_kuo"
+		texturefile = "gfx/interface/ideas/idea_chi_chiang_ching_kuo.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_CHI_soong_mei_ling"
+		texturefile = "gfx/interface/ideas/idea_chi_soong_mei_ling.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_CHI_t_v_soong"
+		texturefile = "gfx/interface/ideas/idea_chi_t_v_soong.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_CHI_dai_li"
+		texturefile = "gfx/interface/ideas/idea_chi_dai_li.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_CHI_chen_guofu"
+		texturefile = "gfx/interface/ideas/idea_chi_chen_guofu.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_CHI_chen_cheng"
+		texturefile = "gfx/interface/ideas/idea_chi_chen_cheng.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_CHI_chen_yi"
+		texturefile = "gfx/interface/ideas/idea_chi_chen_yi.dds"
+	}
+	
+	
+	# Military advisors #
+	
+	spriteType = {
+		name = "GFX_idea_CHI_gu_zhutong"
+		texturefile = "gfx/interface/ideas/idea_chi_gu_zhutong.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_CHI_alexander_von_falkenhausen"
+		texturefile = "gfx/interface/ideas/idea_chi_alexander_von_falkenhausen.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_CHI_claire_chennault"
+		texturefile = "gfx/interface/ideas/idea_chi_claire_chennault.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_CHI_pavel_zhigarev"
+		texturefile = "gfx/interface/ideas/idea_chi_pavel_zhigarev.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_CHI_he_yingqin"
+		texturefile = "gfx/interface/ideas/idea_chi_he_yingqin.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_CHI_li_zongren"
+		texturefile = "gfx/interface/ideas/idea_chi_li_zongren.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_CHI_wang_shuming"
+		texturefile = "gfx/interface/ideas/idea_chi_wang_shuming.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_CHI_gao_zihang"
+		texturefile = "gfx/interface/ideas/idea_chi_gao_zihang.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_CHI_yu_hanmou"
+		texturefile = "gfx/interface/ideas/idea_chi_yu_hanmou.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_CHI_du_yuming"
+		texturefile = "gfx/interface/ideas/idea_CHI_du_yuming.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_CHI_fu_zuoyi"
+		texturefile = "gfx/interface/ideas/idea_CHI_fu_zuoyi.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_CHI_hu_zongnan"
+		texturefile = "gfx/interface/ideas/idea_CHI_hu_zongnan.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_CHI_sun_li_jen"
+		texturefile = "gfx/interface/ideas/idea_CHI_sun_li_jen.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_CHI_tai_an_lan"
+		texturefile = "gfx/interface/ideas/idea_CHI_tai_an_lan.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_CHI_wang_jingwei"
+		texturefile = "gfx/interface/ideas/idea_CHI_wang_jingwei.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_CHI_wang_yaowu"
+		texturefile = "gfx/interface/ideas/idea_CHI_wang_yaowu.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_CHI_wei_lihuang"
+		texturefile = "gfx/interface/ideas/idea_CHI_wei_lihuang.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_CHI_xue_yue"
+		texturefile = "gfx/interface/ideas/idea_CHI_xue_yue.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_CHI_zhang_xueliang"
+		texturefile = "gfx/interface/ideas/idea_CHI_zhang_xueliang.dds"
+	}
+	
+	# Design Companies #
+
+	spriteType = {
+		name = "GFX_idea_CHI_camco"
+		texturefile = "gfx/interface/ideas/idea_chi_camco.dds"
+	}
+
+	
+	### PRC
+
+	# Political advisors #
+	
+	spriteType = {
+		name = "GFX_idea_PRC_kang_sheng"
+		texturefile = "gfx/interface/ideas/idea_prc_kang_sheng.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_PRC_deng_xiaoping"
+		texturefile = "gfx/interface/ideas/idea_prc_deng_xiaoping.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_PRC_dong_biwu"
+		texturefile = "gfx/interface/ideas/idea_prc_dong_biwu.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_PRC_zhou_enlai"
+		texturefile = "gfx/interface/ideas/idea_prc_zhou_enlai.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_PRC_liu_shaoqi"
+		texturefile = "gfx/interface/ideas/idea_prc_liu_shaoqi.dds"
+	}
+	
+
+	# Military advisors #
+
+	spriteType = {
+		name = "GFX_idea_PRC_otto_braun"
+		texturefile = "gfx/interface/ideas/idea_prc_otto_braun.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_idea_PRC_su_yu"
+		texturefile = "gfx/interface/ideas/idea_prc_su_yu.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_PRC_zhu_de"
+		texturefile = "gfx/interface/ideas/idea_prc_zhu_de.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_PRC_xu_xiangqian"
+		texturefile = "gfx/interface/ideas/idea_prc_xu_xiangqian.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_PRC_chen_geng"
+		texturefile = "gfx/interface/ideas/idea_prc_chen_geng.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_PRC_liu_bocheng"
+		texturefile = "gfx/interface/ideas/idea_prc_liu_bocheng.dds"
+	}
+	
+	# Design Companies #
+
+	### GER
+
+	spriteType = {
+		name = "GFX_idea_GER_hans_oster"
+		texturefile = "gfx/interface/ideas/idea_ger_hans_oster.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GER_alfred_hugenberg"
+		texturefile = "gfx/interface/ideas/idea_ger_alfred_hugenberg.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GER_carl_friedrich_goerdeler"
+		texturefile = "gfx/interface/ideas/idea_ger_carl_friedrich_goerdeler.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GER_julius_leber"
+		texturefile = "gfx/interface/ideas/idea_ger_julius_leber.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GER_theodor_heuss"
+		texturefile = "gfx/interface/ideas/idea_ger_theodor_heuss.dds"
+	}
+
+	### MAN
+
+	spriteType = {
+		name = "GFX_idea_MAN_aisin_gioro_xiqia"
+		texturefile = "gfx/interface/ideas/idea_MAN_aisin_gioro_xiqia.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_MAN_henry_pu_yi"
+		texturefile = "gfx/interface/ideas/idea_MAN_henry_pu_yi.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_MAN_yoshiko_kawashima"
+		texturefile = "gfx/interface/ideas/idea_MAN_yoshiko_kawashima.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_MAN_zhang_haipeng"
+		texturefile = "gfx/interface/ideas/idea_MAN_zhang_haipeng.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_MAN_zhang_jinghui"
+		texturefile = "gfx/interface/ideas/idea_MAN_zhang_jinghui.dds"
+	}
+
+}

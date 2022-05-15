@@ -1,0 +1,65 @@
+music_station = "allied_speeches"
+
+music = {
+	song = "peace_in_our_time"
+	chance = { factor = 0 }
+}
+
+music = {
+	song = "war_with_germany"
+	chance = { factor = 0 }
+}
+
+music = {
+	song = "blood_toil_tears_and_sweat"
+	chance = { factor = 0 }
+}
+music = {
+	song = "we_shall_fight_on_the_beaches"
+	chance = { factor = 0 }
+}
+
+music = {
+	song = "their_finest_hour"
+	chance = { factor = 0 }
+}
+
+music = {
+	song = "arsenal_of_democracy"
+	chance = { factor = 0 }
+}
+
+music = {
+	song = "no_invincible_armies"
+	chance = { factor = 0 }
+}
+
+music = {
+	song = "day_of_infamy"
+	chance = { factor = 0 }
+}
+music = {
+	song = "order_of_the_day"
+	chance = { factor = 0 }
+}
+
+music = {
+	song = "i_have_returned"
+	chance = { factor = 0 }
+}
+
+music = {
+	song = "warning_to_japan"
+	chance = { factor = 0 }
+}
+
+
+music = {
+	song = "victory_parade"
+	chance = { factor = 0 }
+}
+
+music = {
+	song = "guns_are_silent"
+	chance = { factor = 0 }
+}

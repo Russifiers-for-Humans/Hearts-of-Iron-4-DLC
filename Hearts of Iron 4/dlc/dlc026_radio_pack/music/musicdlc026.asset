@@ -1,0 +1,161 @@
+##### ALLIES
+
+music = {
+	name = "allies_justanotherday"
+	file = "allies/allies_justanotherday.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "allies_longingfortomorrow"
+	file = "allies/allies_longingfortomorrow.ogg"
+	volume = 0.58
+}
+music = {
+	name = "allies_meetingwithcigars"
+	file = "allies/allies_meetingwithcigars.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "allies_neverlookingbackagain"
+	file = "allies/allies_neverlookingbackagain.ogg"
+	volume = 0.58
+}
+music = {
+	name = "allies_somedaywewillmeetagain"
+	file = "allies/allies_somedaywewillmeetagain.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "allies_thenightbefore"
+	file = "allies/allies_thenightbefore.ogg"
+	volume = 0.58
+}
+music = {
+	name = "allies_thethoughtofyou"
+	file = "allies/allies_thethoughtofyou.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "allies_verylastofgoodbyes"
+	file = "allies/allies_verylastofgoodbyes.ogg"
+	volume = 0.58
+}
+##### AXIES
+
+music = {
+	name = "axis_enemyshores"
+	file = "axis/axis_enemyshores.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "axis_forthereich"
+	file = "axis/axis_forthereich.ogg"
+	volume = 0.58
+}
+music = {
+	name = "axis_meetthegeneral"
+	file = "axis/axis_meetthegeneral.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "axis_meninline"
+	file = "axis/axis_meninline.ogg"
+	volume = 0.58
+}
+music = {
+	name = "axis_preparethesubs"
+	file = "axis/axis_preparethesubs.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "axis_raisetheflag"
+	file = "axis/axis_raisetheflag.ogg"
+	volume = 0.58
+}
+music = {
+	name = "axis_returninghome"
+	file = "axis/axis_returninghome.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "axis_shipsatsea"
+	file = "axis/axis_shipsatsea.ogg"
+	volume = 0.58
+}
+music = {
+	name = "axis_sightoftheenemy"
+	file = "axis/axis_sightoftheenemy.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "axis_whenwecomehomeagain"
+	file = "axis/axis_whenwecomehomeagain.ogg"
+	volume = 0.58
+}
+##### COMINTERN
+
+music = {
+	name = "comintern_countrysidestories"
+	file = "comintern/comintern_countrysidestories.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "comintern_leavingtheharbor"
+	file = "comintern/comintern_leavingtheharbor.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "comintern_marchfromredsquare"
+	file = "comintern/comintern_marchfromredsquare.ogg"
+	volume = 0.58
+}
+music = {
+	name = "comintern_motherlandfirst"
+	file = "comintern/comintern_motherlandfirst.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "comintern_returningincoffins"
+	file = "comintern/comintern_returningincoffins.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "comintern_siberiainmyheart"
+	file = "comintern/comintern_siberiainmyheart.ogg"
+	volume = 0.58
+}
+music = {
+	name = "comintern_smokeofrevenge"
+	file = "comintern/comintern_smokeofrevenge.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "comintern_snowpatrol"
+	file = "comintern/comintern_snowpatrol.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "comintern_theplan"
+	file = "comintern/comintern_theplan.ogg"
+	volume = 0.58
+}
+music = {
+	name = "comintern_victoryuponus"
+	file = "comintern/comintern_victoryuponus.ogg"
+	volume = 0.58
+}

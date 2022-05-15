@@ -1,0 +1,9 @@
+name = "Anniversary Pack"
+path = "dlc/dlc021_anniversary_pack"
+steam_id = "642010"
+pops_id = "hoi4_dlc021_anniversary_pack"
+affects_checksum = no
+affects_compatability = no
+third_party_content = no
+category = "content"
+checksum = "cc91080ce86447495bae723afa54b48a"

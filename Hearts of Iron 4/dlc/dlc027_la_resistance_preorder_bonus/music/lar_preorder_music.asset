@@ -1,0 +1,6 @@
+
+music = {
+	name = "march_of_the_eagles"
+	file = "march_of_the_eagles.ogg"
+	volume = 0.6
+}

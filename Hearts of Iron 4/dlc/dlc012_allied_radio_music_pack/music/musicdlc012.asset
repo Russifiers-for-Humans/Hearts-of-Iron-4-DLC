@@ -1,0 +1,24 @@
+music = {
+	name = "dance_your_troubles_away"
+	file = "armp_dance_your_troubles_away_main.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "from_glen_to_glen"
+	file = "armp_from_glen_to_glen_main.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "the_man_on_the_british_countryside"
+	file = "armp_the_man_on_the_british_countryside_main.ogg"
+	volume = 0.58
+}
+
+music = {
+	name = "winter_came_spring"
+	file = "armp_winter_came_spring_main.ogg"
+	volume = 0.58
+}
+

@@ -1,0 +1,9 @@
+name = "Together for Victory"
+path = "dlc/dlc018_together_for_victory"
+steam_id = "530760"
+pops_id = "hoi4_dlc018_together_for_victory"
+affects_checksum = yes
+affects_compatability = no
+third_party_content = no
+category = "expansion"
+checksum = "5969d467b15a399658c91d8acab8fa67"

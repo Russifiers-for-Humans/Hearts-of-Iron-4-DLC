@@ -1,0 +1,23 @@
+music = {
+	name = "a_storm_coming"
+	file = "a_storm_coming.ogg"
+	volume = 0.6
+}
+
+music = {
+	name = "cloak_and_dagger"
+	file = "cloak_and_dagger.ogg"
+	volume = 0.6
+}
+
+music = {
+	name = "imperterrita"
+	file = "imperterrita.ogg"
+	volume = 0.6
+}
+
+music = {
+	name = "liberty_equality_fraternity"
+	file = "liberty_equality_fraternity.ogg"
+	volume = 0.6
+}

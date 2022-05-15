@@ -1,0 +1,10 @@
+objectTypes = {
+	pdxmesh = {
+		name = "HOL_motorized_daf_trado_mesh"
+		file = "gfx/models/units/vehicles/HOL_motorized_daf_trado.mesh"
+		
+		animation = { id = "idle"			type = "HOL_motorized_daf_trado_idle_animation" }
+		animation = { id = "move"			type = "HOL_motorized_daf_trado_move_animation" }
+		animation = { id = "attack"			type = "HOL_motorized_daf_trado_attack_animation" }
+	}
+}
