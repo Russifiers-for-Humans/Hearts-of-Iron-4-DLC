@@ -1,9 +1,0 @@
-name = "La Resistance"
-path = "dlc/dlc028_la_resistance"
-steam_id = "1158100"
-pops_id = "hoi4_dlc028_la_resistance"
-affects_checksum = yes
-affects_compatability = no
-third_party_content = no
-category = "expansion"
-checksum = "ca164e2c9e205696cc46917176830f5b"

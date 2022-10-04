@@ -1,9 +1,0 @@
-name = "Battle for the Bosporus"
-path = "dlc/dlc031_battle_for_the_bosporus"
-steam_id = "1348660"
-pops_id = "hoi4_dlc031_battle_for_the_bosporus"
-affects_checksum = yes
-affects_compatability = no
-third_party_content = no
-category = "content"
-checksum = "fd823dc7ada86db5dd01cae562fe694f"

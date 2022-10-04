@@ -1,9 +1,0 @@
-name = "Rocket Launcher Unit Pack"
-archive = "dlc/dlc003_rocket_launcher_unit_pack/dlc003.zip"
-steam_id = "460559"
-pops_id = "hoi4_dlc003_rocket_launcher_unit_pack"
-affects_checksum = no
-affects_compatability = no
-checksum = "2204d6d6223b75f2a0ddf5b456ad2a5f"
-third_party_content = no
-category="unit_pack"

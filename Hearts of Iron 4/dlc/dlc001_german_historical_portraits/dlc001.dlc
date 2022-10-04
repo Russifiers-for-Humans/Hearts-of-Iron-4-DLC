@@ -1,9 +1,0 @@
-name = "Historical German Portraits"
-path = "dlc/dlc001_german_historical_portraits"
-steam_id = "460610"
-pops_id = "hoi4_dlc001_german_historical_portraits"
-affects_checksum = no
-affects_compatability = no
-third_party_content = no
-category="content"
-checksum = "b577157d3ccc68879f1a37288d99b69e"
